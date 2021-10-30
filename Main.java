@@ -72,6 +72,7 @@ public class Main {
         }
     }
     void detectUserInput(){
+        System.out.println("Even reached this gain");
         Scanner scan = new Scanner(System.in);
         String userInput = "";
         int counter = 0; //loop through flashcards in order of seed
@@ -83,6 +84,7 @@ public class Main {
             }
             System.out.println("q-Quit, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List");
             userInput = scan.nextLine();
+            for(int i=0; i<50; i++)System.out.println();
             switch(userInput){
                 case "q":
                     saveStatus();
@@ -151,6 +153,7 @@ public class Main {
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     } else {
                         System.out.println("Wrong; Correct answer: " + answers.get(actualIndexForUse));
+                        streaks.set(actualIndexForUse, 0);
                     }
                     saveStatus();
                     counter++;
@@ -214,23 +217,29 @@ public class Main {
         System.out.println(flashCardsNumForm); */
         //^This was fun to make, but it obviously doesn't work
         //Actual sort: Sort everything just by the first letter to not overcomplicate
-        for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
-            for(int j=0; j<flashcards.size()-i-1; j++){ //current words in the array we are looking at
-                if((int)flashcards.get(j).charAt(0)>(int)flashcards.get(j+1).charAt(0)){
-                    String stringtemp = flashcards.get(j);
-                    flashcards.set(j, flashcards.get(j+1));
-                    flashcards.set(j+1, stringtemp);
-
-                    stringtemp = answers.get(j);
-                    answers.set(j, answers.get(j+1));
-                    answers.set(j+1, stringtemp);
-
-                    int temp = streaks.get(j);
-                    streaks.set(j, streaks.get(j+1));
-                    streaks.set(j+1, temp);
+        if(flashcards.size()>1){
+            for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
+                for(int j=0; j<flashcards.size()-i-1; j++){ //current words in the array we are looking at
+                    if((int)flashcards.get(j).charAt(0)>(int)flashcards.get(j+1).charAt(0)){
+                        String stringtemp = flashcards.get(j);
+                        flashcards.set(j, flashcards.get(j+1));
+                        flashcards.set(j+1, stringtemp);
+                        System.out.println("Flashcards");
+    
+                        stringtemp = answers.get(j);
+                        answers.set(j, answers.get(j+1));
+                        answers.set(j+1, stringtemp);
+                        System.out.println("answers");
+    
+                        int temp = streaks.get(j);
+                        streaks.set(j, streaks.get(j+1));
+                        streaks.set(j+1, temp);
+                        System.out.println("streaks");
+                    }
                 }
             }
         }
+        System.out.println("Completed sort");
 
         //------Decide how many zeroes are needed
         int biggestIndex = flashcards.size();
@@ -275,6 +284,7 @@ public class Main {
             pw.close();
         } catch(Exception e){
             System.out.println("Couldn't save current score.");
+            System.out.println(e);
         }
     }
 }
