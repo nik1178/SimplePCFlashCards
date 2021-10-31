@@ -1,7 +1,48 @@
-prinesti-bringen-0
-narochiti-bestellen-0
-trajati-dauern-0
-zmagati-seigen-0
-nakupovati-einkaufen-0
-test-test-0
-test1-test1-0
+arbeiten-delati-1
+abholen-iti po nekaj-1
+aufstehen-vstati-1
+bekommen-dobiti-1
+bu:geln-likati-1
+bestellen-naroc^iti-1
+bleiben-ostati-1
+bringen-prinesti-1
+berichten-pripovedovati-1
+bezahlen-plac^ati-1
+biegen-zaviti-1
+dauern-trajati-1
+einkaufen-nakupovati-1
+entscheiden-odloc^iti-1
+empfinden-obc^utiti-1
+einladen-povabiti-1
+erkennen-prepoznati-1
+fliegen-leteti-1
+feiern-praznovati-1
+fangen-ujeti/loviti-1
+freuen-veseliti-1
+geschehen-dogajati-1
+gefallen-ugajati-1
+genies:en-uz^ivati-1
+glauben-verjeti-1
+gewinnen-zmagati-1
+ha:ngen-obes^ati-1
+holen-prinesti #2-1
+halten-ustaviti-1
+ha:ngen-viseti-1
+klingeln-zvoniti/pozvoniti-1
+klingen-zvoniti/zveneti-1
+meinen-meniti-1
+malen-slikati-1
+passieren-zgoditi-1
+reden-govoriti #2-1
+rauchen-kaditi-1
+rechnen-rac^unati-1
+suchen-iskati-1
+stellen-postaviti-1
+sagen-rec^i-1
+saugen-sesati-1
+setzen-usesti-1
+siegen-zmagati #2-1
+werden-postati-1
+wissen-vedeti-1
+zeigen-kazati-1
+zeichnen-risati-1

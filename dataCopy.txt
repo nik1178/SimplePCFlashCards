@@ -1,0 +1,48 @@
+dogajati-geschehen-0
+delati-arbeiten-9
+dobiti-bekommen-5
+govoriti #2-reden-5
+iskati-suchen-3
+iti po nekaj-abholen-6
+kazati-zeigen-0
+kaditi-rauchen-5
+likati-bu:geln-3
+leteti-fliegen-2
+meniti-meinen-6
+naroc^iti-bestellen-0
+nakupovati-einkaufen-5
+obes^ati-ha:ngen-5
+odloc^iti-entscheiden-0
+ostati-bleiben-0
+obc^utiti-empfinden-4
+praznovati-feiern-0
+povabiti-einladen-0
+prinesti-bringen-6
+prepoznati-erkennen-3
+pripovedovati-berichten-2
+plac^ati-bezahlen-5
+prinesti #2-holen-8
+postaviti-stellen-0
+postati-werden-6
+rec^i-sagen-2
+rac^unati-rechnen-5
+risati-zeichnen-6
+slikati-malen-4
+sesati-saugen-1
+trajati-dauern-5
+ustaviti-halten-6
+ujeti/loviti-fangen-6
+ugajati-gefallen-0
+uz^ivati-genies:en-0
+usesti-setzen-5
+veseliti-freuen-5
+verjeti-glauben-0
+vedeti-wissen-6
+vstati-aufstehen-2
+viseti-ha:ngen-7
+zvoniti/pozvoniti-klingeln-7
+zgoditi-passieren-0
+zaviti-biegen-4
+zmagati-gewinnen-7
+zmagati #2-siegen-8
+zvoniti/zveneti-klingen-2

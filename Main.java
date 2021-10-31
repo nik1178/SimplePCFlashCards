@@ -47,6 +47,7 @@ public class Main {
                 String[] questionAndAnswer = fileLine.split("-");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
+                streaks.add(Integer.parseInt(questionAndAnswer[2]));
             }
             br.close();
             generateSeed();
@@ -71,26 +72,68 @@ public class Main {
             }
         }
     }
+    int streakLimit = 3;
     void detectUserInput(){
-        System.out.println("Even reached this gain");
-        Scanner scan = new Scanner(System.in);
         String userInput = "";
         int counter = 0; //loop through flashcards in order of seed
+        int skipCounter = 0;
         while(!userInput.equals("q")){
             int actualIndexForUse = -1;
-            if(!answers.isEmpty()) {
-                System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
+            if(!answers.isEmpty()){
                 actualIndexForUse = seed.get(counter);
             }
-            System.out.println("q-Quit, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List");
+
+            //Check if this has been answered more times than the streaklimit allows. If so, skip it. If it's had to skip through all the items it resets the limit
+            if(actualIndexForUse>=0 && streaks.get(actualIndexForUse)>=streakLimit){
+                counter++;
+                skipCounter++;
+                if(skipCounter==flashcards.size()){
+                    System.out.println("You have mastered all the flashcards. Reset streaks.");
+                    skipCounter=0;
+                    for(int i=0;i<streaks.size(); i++){
+                        streaks.set(i, 0);
+                    }
+                    counter=0;
+                    generateSeed();
+                }
+                if(counter>=flashcards.size()){
+                    counter=0;
+                    generateSeed();
+                }
+                continue;
+            } else{
+                skipCounter=0;
+            }
+            //END
+
+            if(!answers.isEmpty()) {
+                System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
+            }
+            System.out.printf("q-Quit, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s)%n", streakLimit);
+            Scanner scan = new Scanner(System.in);
+            
             userInput = scan.nextLine();
-            for(int i=0; i<50; i++)System.out.println();
+            for(int i=0; i<70; i++)System.out.println();
             switch(userInput){
+                case "sl":
+                    System.out.println("Set the new limit:");
+                    try{
+                        int prevLimit = streakLimit;
+                        streakLimit = scan.nextInt();
+                        if(streakLimit<1){
+                            streakLimit=prevLimit;
+                            System.out.println("Invalid number. Reset streak limit back to prev. value.");
+                        } 
+                    }catch(Exception e){
+                        System.out.println("Please input a number next time.");
+                        System.out.println(e);
+                    }
+                    break;
                 case "q":
                     saveStatus();
                     break;
                 case "a":
-                    addNewFlashcard(userInput, scan);
+                    addNewFlashcard(userInput);
                     break;
                 case "ca":
                 case "rs":
@@ -105,6 +148,7 @@ public class Main {
                             flashcards.clear();
                             seed.clear();
                             counter = 0;
+                            actualIndexForUse = -1;
                         } else if(selectedInput == 1){
                             for(int i=0;i<streaks.size(); i++){
                                 streaks.set(i, 0);
@@ -122,30 +166,20 @@ public class Main {
                     break;
                 case "r":
                 case "e":
-                    int selectedInput1 = 0;
-                    if(userInput.equals("r")) selectedInput1 = 0;
-                    else if(userInput.equals("e")) selectedInput1 = 1;
-                    System.out.printf("Which flashcard? (0-%s)", flashcards.size()-1);
-                    int selectedIndex = -1;
-                    try{
-                        selectedIndex = scan.nextInt();
-                        if(selectedIndex<0 || selectedIndex>flashcards.size()-1){
-                            System.out.println("Invalid input, out of bounds.");
-                        }
-                    }catch(Exception e){
-                        System.out.println("Please input a number next time");
-                    }
-                    flashcards.remove(selectedIndex);
-                    answers.remove(selectedIndex);
-                    streaks.remove(selectedIndex);
-                    if(selectedInput1==1) addNewFlashcard(userInput, scan);
-                    generateSeed();
+                    removeOrEdit(userInput, scan);
                     
+                    break;
+                case "rev":
+                    reverseQuestionsAndAnswers();
                     break;
                 default:
                     userInput = userInput.toLowerCase();
                     if(actualIndexForUse<0){
                         System.out.println("You have no flashcards created. Try \"a\" to create a new flashcard.");
+                        break;
+                    }
+                    if(userInput.length()==0){
+                        saveStatus();
                         break;
                     }
                     if(userInput.equals(answers.get(actualIndexForUse))){
@@ -157,12 +191,37 @@ public class Main {
                     }
                     saveStatus();
                     counter++;
-                    if(counter>=answers.size()) counter=0;
+                    if(counter>=answers.size()){
+                        counter=0;
+                        generateSeed();
+                    }
                     break;
             }
         }
     }
-    void addNewFlashcard(String userInput, Scanner scan){
+    void removeOrEdit(String userInput, Scanner scan){
+        listAll();
+        System.out.printf("Which flashcard? (0-%s)%n", flashcards.size()-1);
+        int selectedIndex = -1;
+        try{
+            selectedIndex = scan.nextInt();
+            if(selectedIndex<0 || selectedIndex>flashcards.size()-1){
+                System.out.println("Invalid input, out of bounds.");
+                return;
+            }
+        }catch(Exception e){
+            System.out.println("Please input a number next time");
+            return;
+        }
+        flashcards.remove(selectedIndex);
+        answers.remove(selectedIndex);
+        streaks.remove(selectedIndex);
+        saveStatus();
+        if(userInput.equals("e")) addNewFlashcard(userInput);
+        generateSeed();
+    }
+    void addNewFlashcard(String userInput){
+        Scanner scan = new Scanner(System.in);
         System.out.println("Question:");
         userInput = scan.nextLine();
         System.out.println("Answer:");
@@ -178,44 +237,6 @@ public class Main {
         }
     }
     void listAll(){
-        /* //Sort everything by alpabetical order. Implement simple bubble sort, where I convert every letter to its number counterpart-------------
-        //Convert all the flashcards to their number form
-        ArrayList<Integer> flashCardsNumForm = new ArrayList<>();
-        for(int i=0; i<flashcards.size(); i++){
-            int currentWordNum = 0;
-            for(int j=0; j<flashcards.get(i).length(); j++){
-                currentWordNum*=100;
-                int currentLetterNum = (int)flashcards.get(i).charAt(j);
-                currentWordNum+=currentLetterNum;
-            }
-            flashCardsNumForm.add(currentWordNum);
-        }
-        //Bubble Sort
-        //i = how many times we have to repeat it to get sorted
-        for(int i=0; i<answers.size(); i++){
-            //j = up to which number we have to check
-            for(int j=0; j<answers.size()-i-1; j++){
-                if(!( flashCardsNumForm.get(j)<flashCardsNumForm.get(j+1) )){
-                    int temp = flashCardsNumForm.get(j);
-                    flashCardsNumForm.set(j, flashCardsNumForm.get(j+1));
-                    flashCardsNumForm.set(j+1, temp);
-
-                    String stringtemp = flashcards.get(j);
-                    flashcards.set(j, flashcards.get(j+1));
-                    flashcards.set(j+1, stringtemp);
-
-                    stringtemp = answers.get(j);
-                    answers.set(j, answers.get(j+1));
-                    answers.set(j+1, stringtemp);
-
-                    temp = streaks.get(j);
-                    streaks.set(j, streaks.get(j+1));
-                    streaks.set(j+1, temp);
-                }
-            }
-        }
-        System.out.println(flashCardsNumForm); */
-        //^This was fun to make, but it obviously doesn't work
         //Actual sort: Sort everything just by the first letter to not overcomplicate
         if(flashcards.size()>1){
             for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
@@ -224,22 +245,18 @@ public class Main {
                         String stringtemp = flashcards.get(j);
                         flashcards.set(j, flashcards.get(j+1));
                         flashcards.set(j+1, stringtemp);
-                        System.out.println("Flashcards");
     
                         stringtemp = answers.get(j);
                         answers.set(j, answers.get(j+1));
                         answers.set(j+1, stringtemp);
-                        System.out.println("answers");
     
                         int temp = streaks.get(j);
                         streaks.set(j, streaks.get(j+1));
                         streaks.set(j+1, temp);
-                        System.out.println("streaks");
                     }
                 }
             }
         }
-        System.out.println("Completed sort");
 
         //------Decide how many zeroes are needed
         int biggestIndex = flashcards.size();
@@ -272,6 +289,7 @@ public class Main {
             //Print everything after the zeroes--------------
             System.out.println(i + " " + toPrint);
         }
+        saveStatus();
     }
     void saveStatus(){
         try{
@@ -285,6 +303,13 @@ public class Main {
         } catch(Exception e){
             System.out.println("Couldn't save current score.");
             System.out.println(e);
+        }
+    }
+    void reverseQuestionsAndAnswers(){
+        for(int i=0; i<answers.size(); i++){
+            String temp = answers.get(i);
+            answers.set(i, flashcards.get(i));
+            flashcards.set(i, temp);
         }
     }
 }
