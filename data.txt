@@ -1,48 +1,92 @@
-arbeiten-delati-1
-abholen-iti po nekaj-1
-aufstehen-vstati-1
+arbeiten-delati-0
+anderen-drugo-0
+abholen-iti po nekaj-0
+aufgeben-predati-0
+aufstehen-vstati-0
 bekommen-dobiti-1
-bu:geln-likati-1
-bestellen-naroc^iti-1
-bleiben-ostati-1
-bringen-prinesti-1
-berichten-pripovedovati-1
-bezahlen-plac^ati-1
-biegen-zaviti-1
-dauern-trajati-1
-einkaufen-nakupovati-1
-entscheiden-odloc^iti-1
-empfinden-obc^utiti-1
-einladen-povabiti-1
-erkennen-prepoznati-1
-fliegen-leteti-1
-feiern-praznovati-1
-fangen-ujeti/loviti-1
-freuen-veseliti-1
-geschehen-dogajati-1
-gefallen-ugajati-1
-genies:en-uz^ivati-1
-glauben-verjeti-1
-gewinnen-zmagati-1
-ha:ngen-obes^ati-1
-holen-prinesti #2-1
-halten-ustaviti-1
-ha:ngen-viseti-1
-klingeln-zvoniti/pozvoniti-1
-klingen-zvoniti/zveneti-1
-meinen-meniti-1
-malen-slikati-1
-passieren-zgoditi-1
-reden-govoriti #2-1
-rauchen-kaditi-1
-rechnen-rac^unati-1
-suchen-iskati-1
-stellen-postaviti-1
-sagen-rec^i-1
-saugen-sesati-1
-setzen-usesti-1
-siegen-zmagati #2-1
+bluten-krvaveti-0
+bu:geln-likati-0
+bestellen-naroc^iti-0
+bleiben-ostati-0
+bringen-prinesti-0
+berichten-pripovedovati-0
+bezahlen-plac^ati-0
+bedeuten-pomeniti-0
+biegen-zaviti-0
+brechen-zlomiti-0
+die hand-dlan-0
+der kopf-glava-0
+das blut-kri-0
+der monat-mesec-1
+das bein-noga-1
+die nase-nos-0
+der unfall-nesrec^a-0
+das auge-oko-0
+der finger-prst-0
+der zehe-prst na nogi-0
+die brust-prsi-0
+der unterricht-pouk-0
+der arm-roka-0
+der fus:-stopalo-0
+der traum-sanje-0
+der bauch-trebuh-0
+dauern-trajati-0
+dort-tam-0
+das ohr-uho-0
+der hals-vrat-0
+das vorbild-zgled-0
+der ru:cken-hrbet-0
+einfach-enostavno-0
+einkaufen-nakupovati-0
+entscheiden-odloc^iti-0
+empfinden-obc^utiti-0
+einladen-povabiti-0
+erkennen-prepoznati-0
+fliegen-leteti-0
+feiern-praznovati-0
+fangen-ujeti/loviti-0
+freuen-veseliti-0
+geschehen-dogajati-0
+gefallen-ugajati-0
+genies:en-uz^ivati-0
+glauben-verjeti-0
+ganz-ves-0
+gewinnen-zmagati-0
+ha:ngen-obes^ati-0
+holen-prinesti #2-0
+halten-ustaviti-0
+ha:ngen-viseti-0
+klingeln-zvoniti/pozvoniti-0
+klingen-zvoniti/zveneti-0
+meinen-meniti-0
+malen-slikati-0
+meistens-vec^inoma-0
+niemand-nihc^e-0
+noch-s^e-0
+passieren-zgoditi-0
+reden-govoriti #2-0
+rauchen-kaditi-0
+rechnen-rac^unati-0
+retten-res^iti-0
+schauen-gledati-0
+suchen-iskati-0
+seit-od-0
+schrammen-opraskati-0
+stellen-postaviti-0
+senden-poslati-0
+sagen-rec^i-0
+saugen-sesati-0
+setzen-usesti-0
+schneiden-urezati-0
+siegen-zmagati #2-0
+vielleicht-mogoc^e-0
+verbrennen-opec^i-0
+vermissen-pogres^ati-0
+verstauchen-zviti-0
+wirklich-dejansko-0
 werden-postati-1
-wissen-vedeti-1
-zeigen-kazati-1
-zeichnen-risati-1
+wissen-vedeti-0
+zeigen-kazati-0
+zuerst-najprej-0
+zeichnen-risati-0
+es tut weh-boli me-1

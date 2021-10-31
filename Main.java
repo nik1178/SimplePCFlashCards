@@ -109,11 +109,15 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s)%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
-            for(int i=0; i<70; i++)System.out.println();
+
+            StringBuilder sb = new StringBuilder("");
+            for(int i=0; i<70; i++)sb.append("\n");
+            System.out.println(sb.toString());
+
             switch(userInput){
                 case "sl":
                     System.out.println("Set the new limit:");
@@ -131,6 +135,13 @@ public class Main {
                     break;
                 case "q":
                     saveStatus();
+                    break;
+                case "n":
+                    counter++;
+                    if(counter>=answers.size()){
+                        counter=0;
+                        generateSeed();
+                    }
                     break;
                 case "a":
                     addNewFlashcard(userInput);
@@ -172,6 +183,14 @@ public class Main {
                 case "rev":
                     reverseQuestionsAndAnswers();
                     break;
+                case "setc":
+                    setCurrentWordStreak(actualIndexForUse);
+                    counter++;
+                    if(counter>=answers.size()){
+                        counter=0;
+                        generateSeed();
+                    }
+                    break;
                 default:
                     userInput = userInput.toLowerCase();
                     if(actualIndexForUse<0){
@@ -197,6 +216,7 @@ public class Main {
                     }
                     break;
             }
+            saveStatus();
         }
     }
     void removeOrEdit(String userInput, Scanner scan){
@@ -224,8 +244,18 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.println("Question:");
         userInput = scan.nextLine();
+        if(userInput.length()<1){
+            System.out.println("Better luck next time buckaroo.");
+            return;
+        }
         System.out.println("Answer:");
-        userInput += "-" + scan.nextLine() + "-0";
+        String userInputNew = scan.nextLine();
+        if(userInputNew.length()<1){
+            System.out.println("Better luck next time buckaroo.");
+            return;
+        }
+        userInput += "-" + userInputNew + "-0";
+        
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, true));
             userInput = userInput.toLowerCase();
@@ -238,25 +268,7 @@ public class Main {
     }
     void listAll(){
         //Actual sort: Sort everything just by the first letter to not overcomplicate
-        if(flashcards.size()>1){
-            for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
-                for(int j=0; j<flashcards.size()-i-1; j++){ //current words in the array we are looking at
-                    if((int)flashcards.get(j).charAt(0)>(int)flashcards.get(j+1).charAt(0)){
-                        String stringtemp = flashcards.get(j);
-                        flashcards.set(j, flashcards.get(j+1));
-                        flashcards.set(j+1, stringtemp);
-    
-                        stringtemp = answers.get(j);
-                        answers.set(j, answers.get(j+1));
-                        answers.set(j+1, stringtemp);
-    
-                        int temp = streaks.get(j);
-                        streaks.set(j, streaks.get(j+1));
-                        streaks.set(j+1, temp);
-                    }
-                }
-            }
-        }
+        bubbleSortFirstLetter();
 
         //------Decide how many zeroes are needed
         int biggestIndex = flashcards.size();
@@ -291,6 +303,27 @@ public class Main {
         }
         saveStatus();
     }
+    void bubbleSortFirstLetter(){
+        if(flashcards.size()>1){
+            for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
+                for(int j=0; j<flashcards.size()-i-1; j++){ //current words in the array we are looking at
+                    if((int)flashcards.get(j).charAt(0)>(int)flashcards.get(j+1).charAt(0)){
+                        String stringtemp = flashcards.get(j);
+                        flashcards.set(j, flashcards.get(j+1));
+                        flashcards.set(j+1, stringtemp);
+    
+                        stringtemp = answers.get(j);
+                        answers.set(j, answers.get(j+1));
+                        answers.set(j+1, stringtemp);
+    
+                        int temp = streaks.get(j);
+                        streaks.set(j, streaks.get(j+1));
+                        streaks.set(j+1, temp);
+                    }
+                }
+            }
+        }
+    }
     void saveStatus(){
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, false));
@@ -306,10 +339,53 @@ public class Main {
         }
     }
     void reverseQuestionsAndAnswers(){
-        for(int i=0; i<answers.size(); i++){
+        listAll();
+        Scanner scan = new Scanner(System.in);
+        System.out.println("a-All, x-y - x to y");
+        String userInput = scan.nextLine();
+        int startIndex = -1;
+        int endIndex = -1;
+        if(userInput.equals("a")){
+            startIndex=0;
+            endIndex=flashcards.size();
+        } else{
+            String[] xAndY = userInput.split("-");
+            if(xAndY.length<2 || xAndY.length>2){
+                System.out.println("Invalid input.");
+                return;
+            }
+            try{
+                startIndex = Integer.parseInt(xAndY[0]);
+                endIndex = Integer.parseInt(xAndY[1])+1;
+            }catch(Exception e){
+                System.out.println("Please input numbers next time.");
+                System.out.println(e);
+                return;
+            }
+            if(startIndex<0 || endIndex>flashcards.size()){
+                System.out.println("Index out of bounds.");
+                return;
+            }
+        }
+        for(int i=startIndex; i<endIndex; i++){
             String temp = answers.get(i);
             answers.set(i, flashcards.get(i));
             flashcards.set(i, temp);
+        }
+        System.out.println();
+    }
+    void setCurrentWordStreak(int index){
+        Scanner scan = new Scanner(System.in);
+        try{
+            int newStreak = scan.nextInt();
+            if(newStreak<0){
+                System.out.println("Invalid streak.");
+                return;
+            }
+            streaks.set(index,newStreak);
+        } catch(Exception e){
+            System.out.println("Please input a number next time");
+            System.out.println(e);
         }
     }
 }
