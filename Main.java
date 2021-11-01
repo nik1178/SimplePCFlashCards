@@ -6,6 +6,7 @@ public class Main {
     /*
     * PROBLEMS:
     * FIXED (by making sort only sort the print, not the actual data): Sets don't really work, because we are constantly shuffling around the words. Sets only work until you add or remove flashcards, then they break;
+    * FIXED (In proposed way) Removing and editing has been broken by the change in sorting. PROPOSED FIX: Make the inputed number recognize the sorted word, then find the exact match in the actual list and remove/edit that one instead
     */
     public static void main(String[] args) {
         new Main();
@@ -28,7 +29,7 @@ public class Main {
             /* while(br.ready()){
                 counter++;
                 String fileLine = br.readLine();
-                String[] questionAndAnswer = fileLine.split("-");
+                String[] questionAndAnswer = fileLine.split("@");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
                 streaks.add(Integer.parseInt(questionAndAnswer[2]));
@@ -52,7 +53,7 @@ public class Main {
             while(br.ready()){
                 String fileLine = br.readLine();
                 if(fileLine.charAt(0) == '[') continue;
-                String[] questionAndAnswer = fileLine.split("-");
+                String[] questionAndAnswer = fileLine.split("@");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
                 streaks.add(Integer.parseInt(questionAndAnswer[2]));
@@ -117,6 +118,7 @@ public class Main {
                     }
                     counter=0;
                     generateSeed();
+                    saveStatus();
                 }
                 if(counter>=flashcards.size()){
                     counter=0;
@@ -217,7 +219,6 @@ public class Main {
                 case "r":
                 case "e":
                     removeOrEdit(userInput, scan);
-                    
                     break;
                 case "rev":
                     reverseQuestionsAndAnswers();
@@ -245,7 +246,7 @@ public class Main {
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     } else {
                         System.out.println("Wrong/////////; Correct answer: " + answers.get(actualIndexForUse));
-                        streaks.set(actualIndexForUse, 0);
+                        streaks.set(actualIndexForUse, -1);
                         counter--;
                     }
                     saveStatus();
@@ -274,9 +275,21 @@ public class Main {
             System.out.println("Please input a number next time");
             return;
         }
-        flashcards.remove(selectedIndex);
-        answers.remove(selectedIndex);
-        streaks.remove(selectedIndex);
+        //The number we have gotten now is equal to the temp lists, not the actual lists, so we now have to compare the two to find the actual index we want
+        String wanted = tempFlashcards.get(selectedIndex) + "@" + tempAnswers.get(selectedIndex) + "@" + tempStreaks.get(selectedIndex);
+        System.out.println(wanted);
+        int actualIndex = -1;
+        for(int i=0; i<flashcards.size(); i++){
+            String current = flashcards.get(i) + "@" + answers.get(i) + "@" + streaks.get(i);
+            if(current.equals(wanted)) actualIndex = i;
+        }
+        if(actualIndex < 0){
+            System.out.println("What..? Couldn't find the selected index in the actual lists.");
+            return;
+        }
+        flashcards.remove(actualIndex);
+        answers.remove(actualIndex);
+        streaks.remove(actualIndex);
         saveStatus();
         if(userInput.equals("e")) addNewFlashcard(userInput);
         generateSeed();
@@ -295,7 +308,7 @@ public class Main {
             System.out.println("Better luck next time buckaroo.");
             return;
         }
-        userInput += "-" + userInputNew + "-0";
+        userInput += "@" + userInputNew + "@0";
         
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, true));
@@ -322,7 +335,7 @@ public class Main {
         for(Integer x : streaks) tempStreaks.add(x);
 
         //Actual sort: Sort everything just by the first letter to not overcomplicate
-        bubbleSortFirstLetter();
+        radixSortWords();
 
         //------Decide how many zeroes are needed
         int biggestIndex = tempFlashcards.size();
@@ -357,8 +370,41 @@ public class Main {
         }
         saveStatus();
     }
-    void bubbleSortFirstLetter(){
-        if(tempFlashcards.size()>1){
+    void radixSortWords(){
+        int longestLength = findLongestWord();
+        for(int currentLength = longestLength-1; currentLength>=0; currentLength--){
+            for(int i=0; i<tempFlashcards.size(); i++){
+                for(int j=0; j<tempFlashcards.size()-i-1; j++){
+                    if(tempFlashcards.get(j).length() <= currentLength) continue;
+                    //if(tempFlashcards.get(j+1).length() <= currentLength) continue;
+                    if(/* tempFlashcards.get(j).length() > tempFlashcards.get(j+1).length() || */tempFlashcards.get(j+1).length()<=currentLength || tempFlashcards.get(j).charAt(currentLength)>tempFlashcards.get(j+1).charAt(currentLength)){
+                        String stringtemp = tempFlashcards.get(j);
+                        tempFlashcards.set(j, tempFlashcards.get(j+1));
+                        tempFlashcards.set(j+1, stringtemp);
+    
+                        stringtemp = tempAnswers.get(j);
+                        tempAnswers.set(j, tempAnswers.get(j+1));
+                        tempAnswers.set(j+1, stringtemp);
+    
+                        int temp = tempStreaks.get(j);
+                        tempStreaks.set(j, tempStreaks.get(j+1));
+                        tempStreaks.set(j+1, temp);
+                    }
+                    /* StringBuilder sb = new StringBuilder("");
+                    for(String x : tempFlashcards){
+                        sb.append(x+"\n");
+                    }
+                    System.out.println(sb.toString());
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        // TODO Auto-generated catch block
+                        e.printStackTrace();
+                    } */
+                }
+            }
+        }
+        /* if(tempFlashcards.size()>1){
             for(int i=0; i<tempFlashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
                 for(int j=0; j<tempFlashcards.size()-i-1; j++){ //current words in the array we are looking at
                     if((int)tempFlashcards.get(j).charAt(0)>(int)tempFlashcards.get(j+1).charAt(0)){
@@ -376,13 +422,24 @@ public class Main {
                     }
                 }
             }
+        } */
+    }
+    int findLongestWord(){
+        int longestLength = 0;
+        for(int i=0; i<tempFlashcards.size(); i++){
+            if(tempFlashcards.get(i).length() > longestLength){
+                longestLength = tempFlashcards.get(i).length();
+            }
         }
+        return longestLength;
     }
     void saveStatus(){
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, false));
             for(int i=0; i<answers.size(); i++){
-                String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-" + streaks.get(i);
+                int toPrintStreaks = 0;
+                if(streaks.get(i)>0) toPrintStreaks = streaks.get(i);
+                String toPrint = flashcards.get(i) + "@" + answers.get(i) + "@" + toPrintStreaks;
                 toPrint = toPrint.toLowerCase();
                 pw.println(toPrint);
             }
@@ -405,7 +462,7 @@ public class Main {
             startIndex=0;
             endIndex=flashcards.size();
         } else{
-            String[] xAndY = userInput.split("-");
+            String[] xAndY = userInput.split("@");
             if(xAndY.length<2 || xAndY.length>2){
                 System.out.println("Invalid input.");
                 return;
@@ -469,7 +526,7 @@ public class Main {
             StringBuilder sb = new StringBuilder("");
             for(int i=0; i<set.size(); i++){
                 sb.append(set.get(i).toString());
-                if(i<set.size()-1) sb.append("-");
+                if(i<set.size()-1) sb.append("@");
             }
             pw1.println(sb.toString());
             System.out.println(sb.toString());
@@ -502,7 +559,7 @@ public class Main {
                 return;
             }
             set.clear();
-            String[] tempStringSet = allSetsInFile.get(userInputInt).split("-");
+            String[] tempStringSet = allSetsInFile.get(userInputInt).split("@");
             for(int i=0; i<tempStringSet.length; i++){
                 set.add(Integer.parseInt(tempStringSet[i]));
             }
@@ -524,8 +581,8 @@ public class Main {
         }
         PrintWriter writer = new PrintWriter(new FileWriter(backupFile, true));
         for(int i=0; i<flashcards.size(); i++){
-            String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-0";
-            String toPrint1 = answers.get(i) + "-" + flashcards.get(i) + "-0";
+            String toPrint = flashcards.get(i) + "@" + answers.get(i) + "@0";
+            String toPrint1 = answers.get(i) + "@" + flashcards.get(i) + "@0";
             if(!backupFileStrings.contains(toPrint) && !backupFileStrings.contains(toPrint1)){
                 writer.println(toPrint);
             }
