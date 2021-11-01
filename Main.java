@@ -1,7 +1,12 @@
 import java.io.*;
+import java.lang.reflect.Array;
 import java.util.*;
 
 public class Main {
+    /*
+    * PROBLEMS:
+    * Sets don't really work, because we are constantly shuffling around the words. Sets only work until you add or remove flashcards, then they break;
+    */
     public static void main(String[] args) {
         new Main();
     }
@@ -55,6 +60,13 @@ public class Main {
             generateSeed();
         }catch(Exception e){
             System.out.println("Couldn't read from file");
+        }
+        try {
+            autoBackup();
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+            System.out.println("Something went wrong with autoBackup");
         }
     }
     ArrayList<Integer> seed = new ArrayList<>();
@@ -240,6 +252,7 @@ public class Main {
                     break;
             }
             saveStatus();
+            
         }
     }
     void removeOrEdit(String userInput, Scanner scan){
@@ -285,11 +298,13 @@ public class Main {
             pw.println(userInput);
             pw.close();
             readFlashcards();
+            autoBackup();
         } catch(Exception e){
-            System.out.println("Couldn't add new flashcard.");
+            System.out.println("Couldn't add new flashcard or something went wrong with autobackup.");
         }
     }
     void listAll(){
+        readFlashcards();
         //Actual sort: Sort everything just by the first letter to not overcomplicate
         bubbleSortFirstLetter();
 
@@ -356,8 +371,10 @@ public class Main {
                 pw.println(toPrint);
             }
             pw.close();
+            autoBackup();
+
         } catch(Exception e){
-            System.out.println("Couldn't save current score.");
+            System.out.println("Couldn't save current score or something went wrong with autobackup.");
             System.out.println(e);
         }
     }
@@ -476,5 +493,25 @@ public class Main {
         }catch(Exception e){
             System.out.println("Couldn't read sets from file or invalid number.");
         }
+    }
+    File backupFile = new File("dataAutoCopy.txt");
+    void autoBackup() throws Exception {
+        //A file that never deletes its contents, only adds
+        if(backupFile.createNewFile()){
+            System.out.println("Created backup file.");
+        }
+        BufferedReader br = new BufferedReader(new FileReader(backupFile));
+        ArrayList<String> backupFileStrings = new ArrayList<>();
+        while(br.ready()){
+            backupFileStrings.add(br.readLine());
+        }
+        PrintWriter writer = new PrintWriter(new FileWriter(backupFile, true));
+        for(int i=0; i<flashcards.size(); i++){
+            String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-" + streaks.get(i);
+            if(!backupFileStrings.contains(toPrint)){
+                writer.println(toPrint);
+            }
+        }
+        writer.close();
     }
 }

@@ -1,0 +1,156 @@
+boli-es tut weh-2
+delati-arbeiten-3
+drugo-anderen-2
+dobiti-bekommen-1
+dlan-die hand-0
+dogajati-geschehen-1
+dejansko-wirklich-2
+enostavno-einfach-1
+glava-der kopf-1
+govoriti #2-reden-1
+gledati-schauen-1
+hrbet-der ru:cken-0
+iti po nekaj-abholen-1
+iskati-suchen-2
+krvaveti-bluten-2
+kri-das blut-2
+kaditi-rauchen-3
+kazati-zeigen-0
+likati-bu:geln-1
+leteti-fliegen-3
+mesec-der monat-3
+meniti-meinen-2
+mogoc^e-vielleicht-2
+naroc^iti-bestellen-1
+noga-das bein-3
+nos-die nase-2
+nesrec^a-der unfall-3
+nakupovati-einkaufen-1
+nihc^e-niemand-2
+najprej-zuerst-0
+ostati-bleiben-1
+oko-das auge-1
+odloc^iti-entscheiden-1
+obc^utiti-empfinden-2
+obes^ati-ha:ngen-0
+od-seit-3
+opraskati-schrammen-2
+opec^i-verbrennen-1
+predati-aufgeben-3
+prinesti-bringen-2
+pripovedovati-berichten-1
+plac^ati-bezahlen-0
+pomeniti-bedeuten-1
+prst-der finger-2
+prst na nogi-der zehe-1
+prsi-die brust-2
+pouk-der unterricht-2
+povabiti-einladen-2
+prepoznati-erkennen-2
+praznovati-feiern-1
+prinesti #2-holen-2
+postaviti-stellen-2
+poslati-senden-3
+pogres^ati-vermissen-1
+postati-werden-3
+roka-der arm-0
+rac^unati-rechnen-2
+res^iti-retten-2
+rec^i-sagen-2
+risati-zeichnen-0
+stopalo-der fus:-2
+sanje-der traum-3
+slikati-malen-3
+s^e-noch-0
+sesati-saugen-1
+trebuh-der bauch-3
+trajati-dauern-0
+tam-dort-0
+uho-das ohr-2
+ujeti/loviti-fangen-2
+ugajati-gefallen-1
+uz^ivati-genies:en-2
+ustaviti-halten-2
+usesti-setzen-1
+urezati-schneiden-1
+vstati-aufstehen-0
+vrat-der hals-0
+veseliti-freuen-1
+verjeti-glauben-2
+ves-ganz-2
+viseti-ha:ngen-1
+vec^inoma-meistens-2
+vedeti-wissen-3
+zaviti-biegen-2
+zlomiti-brechen-1
+zgled-das vorbild-1
+zmagati-gewinnen-1
+zvoniti/pozvoniti-klingeln-0
+zvoniti/zveneti-klingen-3
+zgoditi-passieren-3
+zmagati #2-siegen-3
+zviti-verstauchen-2
+delati-arbeiten-2
+drugo-anderen-1
+dobiti-bekommen-0
+dlan-die hand-1
+dogajati-geschehen-2
+dejansko-wirklich-1
+gledati-schauen-0
+hrbet-der ru:cken-1
+iti po nekaj-abholen-2
+kri-das blut-3
+kaditi-rauchen-0
+kazati-zeigen-1
+likati-bu:geln-3
+mesec-der monat-2
+mogoc^e-vielleicht-1
+naroc^iti-bestellen-3
+noga-das bein-2
+nos-die nase-3
+nesrec^a-der unfall-1
+nakupovati-einkaufen-2
+nihc^e-niemand-0
+najprej-zuerst-1
+odloc^iti-entscheiden-2
+obc^utiti-empfinden-0
+obes^ati-ha:ngen-3
+od-seit-2
+opraskati-schrammen-1
+opec^i-verbrennen-3
+predati-aufgeben-2
+prinesti-bringen-1
+pripovedovati-berichten-0
+plac^ati-bezahlen-1
+pomeniti-bedeuten-2
+prst-der finger-1
+prst na nogi-der zehe-2
+prepoznati-erkennen-1
+praznovati-feiern-2
+postaviti-stellen-3
+poslati-senden-1
+pogres^ati-vermissen-3
+postati-werden-0
+roka-der arm-2
+rec^i-sagen-0
+risati-zeichnen-2
+stopalo-der fus:-3
+slikati-malen-0
+s^e-noch-1
+sesati-saugen-3
+trebuh-der bauch-0
+tam-dort-2
+ujeti/loviti-fangen-1
+ugajati-gefallen-2
+ustaviti-halten-1
+urezati-schneiden-0
+vrat-der hals-1
+veseliti-freuen-2
+ves-ganz-1
+viseti-ha:ngen-2
+vec^inoma-meistens-3
+vedeti-wissen-2
+zaviti-biegen-1
+zmagati-gewinnen-0
+zvoniti/pozvoniti-klingeln-3
+zmagati #2-siegen-2
