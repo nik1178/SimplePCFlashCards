@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
     /*
     * PROBLEMS:
-    * Sets don't really work, because we are constantly shuffling around the words. Sets only work until you add or remove flashcards, then they break;
+    * FIXED (by making sort only sort the print, not the actual data): Sets don't really work, because we are constantly shuffling around the words. Sets only work until you add or remove flashcards, then they break;
     */
     public static void main(String[] args) {
         new Main();
@@ -45,6 +45,7 @@ public class Main {
     void readFlashcards(){
         flashcards.clear();
         answers.clear();
+        streaks.clear();
         try{
             BufferedReader br = new BufferedReader(new FileReader(file));
         
@@ -96,6 +97,12 @@ public class Main {
             int actualIndexForUse = -1;
             if(!answers.isEmpty()){
                 actualIndexForUse = seed.get(counter);
+            }
+
+            if(doSet && set.isEmpty()){
+                System.out.println("Your set is empty.");
+                doSet = false;
+                continue;
             }
 
             //Check if this has been answered more times than the streaklimit allows. If so, skip it. If it's had to skip through all the items it resets the limit
@@ -152,12 +159,9 @@ public class Main {
                     saveStatus();
                     break;
                 case "ds":
-                    if(set.isEmpty()){
-                        System.out.println("Your set is empty.");
-                        continue;
-                    }
                     if(doSet==false)doSet=true;
                     else doSet=false;
+                    System.out.println("Do set: " + doSet);
                     break;
                 case "ss":
                     saveSetToFile();
@@ -240,8 +244,9 @@ public class Main {
                         System.out.printf("Correct; %s=%s%n",flashcards.get(actualIndexForUse),userInput);
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     } else {
-                        System.out.println("Wrong; Correct answer: " + answers.get(actualIndexForUse));
+                        System.out.println("Wrong/////////; Correct answer: " + answers.get(actualIndexForUse));
                         streaks.set(actualIndexForUse, 0);
+                        counter--;
                     }
                     saveStatus();
                     counter++;
@@ -303,13 +308,24 @@ public class Main {
             System.out.println("Couldn't add new flashcard or something went wrong with autobackup.");
         }
     }
+    ArrayList<String> tempFlashcards = new ArrayList<>();
+    ArrayList<String> tempAnswers = new ArrayList<>();
+    ArrayList<Integer> tempStreaks = new ArrayList<>();
     void listAll(){
         readFlashcards();
+
+        tempFlashcards.clear();
+        tempAnswers.clear();
+        tempStreaks.clear();
+        for(String x : flashcards) tempFlashcards.add(x);
+        for(String x : answers) tempAnswers.add(x);
+        for(Integer x : streaks) tempStreaks.add(x);
+
         //Actual sort: Sort everything just by the first letter to not overcomplicate
         bubbleSortFirstLetter();
 
         //------Decide how many zeroes are needed
-        int biggestIndex = flashcards.size();
+        int biggestIndex = tempFlashcards.size();
         int zerocounter = 0;
         while(biggestIndex>0){
             zerocounter++;
@@ -317,8 +333,8 @@ public class Main {
         }
 
         //print them all----------------
-        for(int i=0; i<answers.size(); i++){
-            String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-" + streaks.get(i);
+        for(int i=0; i<tempAnswers.size(); i++){
+            String toPrint = tempFlashcards.get(i) + "-" + tempAnswers.get(i) + "-" + tempStreaks.get(i);
             toPrint = toPrint.toLowerCase();
 
             //-------Add the zeroes---------------
@@ -342,21 +358,21 @@ public class Main {
         saveStatus();
     }
     void bubbleSortFirstLetter(){
-        if(flashcards.size()>1){
-            for(int i=0; i<flashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
-                for(int j=0; j<flashcards.size()-i-1; j++){ //current words in the array we are looking at
-                    if((int)flashcards.get(j).charAt(0)>(int)flashcards.get(j+1).charAt(0)){
-                        String stringtemp = flashcards.get(j);
-                        flashcards.set(j, flashcards.get(j+1));
-                        flashcards.set(j+1, stringtemp);
+        if(tempFlashcards.size()>1){
+            for(int i=0; i<tempFlashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
+                for(int j=0; j<tempFlashcards.size()-i-1; j++){ //current words in the array we are looking at
+                    if((int)tempFlashcards.get(j).charAt(0)>(int)tempFlashcards.get(j+1).charAt(0)){
+                        String stringtemp = tempFlashcards.get(j);
+                        tempFlashcards.set(j, tempFlashcards.get(j+1));
+                        tempFlashcards.set(j+1, stringtemp);
     
-                        stringtemp = answers.get(j);
-                        answers.set(j, answers.get(j+1));
-                        answers.set(j+1, stringtemp);
+                        stringtemp = tempAnswers.get(j);
+                        tempAnswers.set(j, tempAnswers.get(j+1));
+                        tempAnswers.set(j+1, stringtemp);
     
-                        int temp = streaks.get(j);
-                        streaks.set(j, streaks.get(j+1));
-                        streaks.set(j+1, temp);
+                        int temp = tempStreaks.get(j);
+                        tempStreaks.set(j, tempStreaks.get(j+1));
+                        tempStreaks.set(j+1, temp);
                     }
                 }
             }
@@ -436,6 +452,7 @@ public class Main {
             System.out.println(i + ": " + flashcards.get(i) + " - " + answers.get(i) + " - Add? (a)");
             String response = scan.nextLine();
             if(response.equals("a")) set.add(i);
+            else if(response.equals("q"))break;
         }
     }
     File setFile = new File("sets.txt");
@@ -507,8 +524,9 @@ public class Main {
         }
         PrintWriter writer = new PrintWriter(new FileWriter(backupFile, true));
         for(int i=0; i<flashcards.size(); i++){
-            String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-" + streaks.get(i);
-            if(!backupFileStrings.contains(toPrint)){
+            String toPrint = flashcards.get(i) + "-" + answers.get(i) + "-0";
+            String toPrint1 = answers.get(i) + "-" + flashcards.get(i) + "-0";
+            if(!backupFileStrings.contains(toPrint) && !backupFileStrings.contains(toPrint1)){
                 writer.println(toPrint);
             }
         }
