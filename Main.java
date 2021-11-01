@@ -19,16 +19,17 @@ public class Main {
     void createNewFile() throws IOException{
         if(!file.createNewFile()){
             BufferedReader br = new BufferedReader(new FileReader(file));
-            int counter = 0;
-            while(br.ready()){
+            //int counter = 0;
+            /* while(br.ready()){
                 counter++;
                 String fileLine = br.readLine();
                 String[] questionAndAnswer = fileLine.split("-");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
                 streaks.add(Integer.parseInt(questionAndAnswer[2]));
-            }
-            System.out.printf("Read from file. You have %s flashcards created.%n", counter);
+            } */
+            readFlashcards();
+            System.out.printf("Read from file. You have %s flashcards created.%n", flashcards.size());
             br.close();
             startProgram();
         } else {
@@ -44,6 +45,7 @@ public class Main {
         
             while(br.ready()){
                 String fileLine = br.readLine();
+                if(fileLine.charAt(0) == '[') continue;
                 String[] questionAndAnswer = fileLine.split("-");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
@@ -73,6 +75,7 @@ public class Main {
         }
     }
     int streakLimit = 3;
+    boolean doSet = false;
     void detectUserInput(){
         String userInput = "";
         int counter = 0; //loop through flashcards in order of seed
@@ -84,7 +87,7 @@ public class Main {
             }
 
             //Check if this has been answered more times than the streaklimit allows. If so, skip it. If it's had to skip through all the items it resets the limit
-            if(actualIndexForUse>=0 && streaks.get(actualIndexForUse)>=streakLimit){
+            if(actualIndexForUse>=0 && (streaks.get(actualIndexForUse)>=streakLimit || (doSet && !set.contains(actualIndexForUse)))){
                 counter++;
                 skipCounter++;
                 if(skipCounter==flashcards.size()){
@@ -109,7 +112,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -136,6 +139,23 @@ public class Main {
                 case "q":
                     saveStatus();
                     break;
+                case "ds":
+                    if(set.isEmpty()){
+                        System.out.println("Your set is empty.");
+                        continue;
+                    }
+                    if(doSet==false)doSet=true;
+                    else doSet=false;
+                    break;
+                case "ss":
+                    saveSetToFile();
+                    break;
+                case "os":
+                    openSetFromFile();
+                    break;
+                case "ps":
+                    System.out.println(set);
+                    break;
                 case "n":
                     counter++;
                     if(counter>=answers.size()){
@@ -145,6 +165,9 @@ public class Main {
                     break;
                 case "a":
                     addNewFlashcard(userInput);
+                    break;
+                case "m":
+                    makeNewSet();
                     break;
                 case "ca":
                 case "rs":
@@ -202,7 +225,7 @@ public class Main {
                         break;
                     }
                     if(userInput.equals(answers.get(actualIndexForUse))){
-                        System.out.println("Correct");
+                        System.out.printf("Correct; %s=%s%n",flashcards.get(actualIndexForUse),userInput);
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     } else {
                         System.out.println("Wrong; Correct answer: " + answers.get(actualIndexForUse));
@@ -386,6 +409,72 @@ public class Main {
         } catch(Exception e){
             System.out.println("Please input a number next time");
             System.out.println(e);
+        }
+    }
+    ArrayList<Integer> set = new ArrayList<>();
+    void makeNewSet(){
+        set.clear();
+        Scanner scan = new Scanner(System.in);
+        for(int i=0; i<flashcards.size(); i++){
+            System.out.println(i + ": " + flashcards.get(i) + " - " + answers.get(i) + " - Add? (a)");
+            String response = scan.nextLine();
+            if(response.equals("a")) set.add(i);
+        }
+    }
+    File setFile = new File("sets.txt");
+    void saveSetToFile(){
+        if(set.isEmpty()){
+            System.out.println("Set empty.");
+            return;
+        }
+        try{
+            if(setFile.createNewFile()){
+                System.out.println("Created new set file.");
+            }
+            PrintWriter pw1 = new PrintWriter(new FileWriter(setFile, true));
+            StringBuilder sb = new StringBuilder("");
+            for(int i=0; i<set.size(); i++){
+                sb.append(set.get(i).toString());
+                if(i<set.size()-1) sb.append("-");
+            }
+            pw1.println(sb.toString());
+            System.out.println(sb.toString());
+            pw1.close();
+            System.out.println("Set saved to file.");
+        } catch(Exception e){
+            System.out.println("Couldn't save current set.");
+            System.out.println(e);
+        }
+    }
+    void openSetFromFile(){
+        try{
+            BufferedReader br1 = new BufferedReader(new FileReader(setFile));
+        
+            ArrayList<String> allSetsInFile = new ArrayList<>();
+            System.out.println("Your sets:");
+            int setCounter = 0;
+            while(br1.ready()){
+                String fileLine = br1.readLine();
+                allSetsInFile.add(fileLine);
+                System.out.println(setCounter + ": " + fileLine);
+                setCounter++;
+            }
+            br1.close();
+            System.out.printf("Which set do you want? 0-%s%n",allSetsInFile.size()-1);
+            Scanner scanner = new Scanner(System.in);
+            int userInputInt = scanner.nextInt();
+            if(userInputInt>allSetsInFile.size()-1 || userInputInt<0){
+                System.out.println("Invalid input.");
+                return;
+            }
+            set.clear();
+            String[] tempStringSet = allSetsInFile.get(userInputInt).split("-");
+            for(int i=0; i<tempStringSet.length; i++){
+                set.add(Integer.parseInt(tempStringSet[i]));
+            }
+            
+        }catch(Exception e){
+            System.out.println("Couldn't read sets from file or invalid number.");
         }
     }
 }
