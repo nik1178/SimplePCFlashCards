@@ -12,7 +12,7 @@ prinesti@bringen@0
 pripovedovati@berichten@0
 plac^ati@bezahlen@0
 pomeniti@bedeuten@0
-zaviti@biegen@1
+zaviti@biegen@0
 zlomiti@brechen@0
 dlan@die hand@0
 glava@der kopf@0
@@ -82,7 +82,7 @@ mogoc^e@vielleicht@0
 opec^i@verbrennen@0
 pogres^ati@vermissen@0
 zviti@verstauchen@0
-postati@werden@1
+postati@werden@0
 vedeti@wissen@0
 kazati@zeigen@0
 najprej@zuerst@0
@@ -103,3 +103,41 @@ zgodaj@fru:h@0
 skupaj@zusammen@0
 sedeti@sitzen@0
 brati@lesen@0
+machen pr.@machte@0
+besuchen pr.@besuchte@0
+sehen pr.@sah@0
+fahren pr.@fuhr@0
+wollen pr.@wollte@0
+arbeiten pr.@arbeitete@0
+sein pr.@war@0
+kommen pr.@kam@0
+ziehen pr.@zog@0
+regnen pr.@regnete@0
+blitzen pr.@blitzte@0
+donnern pr.@donnerte@0
+halten pr.@hielt@0
+treten pr.@trat@0
+setzen pr.@setzte@0
+ko:nnen pr.@konnte@0
+verstehen pr.@verstand@0
+haben pr.@hatte@0
+essen pr.@as:@0
+nehmen pr.@nahm@0
+zeichnen pr.@zeichnete@0
+gehen pr.@ging@0
+freuen pr.@freute@0
+bringen pr.@brachte@0
+bekommen pr.@bekam@0
+sollen pr.@sollte@0
+du:rfen pr.@durfte@0
+kaufen pr.@kaufte@0
+wohnen pr.@wohnte@0
+schreiben pr.@schrieb@0
+einladen pr.@lud ein@0
+schicken pr.@schickte@0
+antworten pr.@antwortete@0
+telefonieren pr.@telefonierte@0
+spielen pr.@spielte@0
+stehen pr.@stand@0
+siegen pr.@siegte@0
+gewinnen pr.@gewann@0
