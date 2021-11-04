@@ -37,7 +37,7 @@ uho@das ohr@0
 vrat@der hals@0
 zgled@das vorbild@0
 boli@es tut weh@0
-enostavno@einfach@0
+enostavno@einfach@1
 nakupovati@einkaufen@0
 odloc^iti@entscheiden@0
 obc^utiti@empfinden@0
@@ -95,7 +95,6 @@ trgovina@das gescha:ft@0
 z^ivljenje@das leben@0
 potrebovati@brauchen@0
 zdravilo@das medikament@0
-obliz^@pflaster@0
 vozilo@das fahrzeug@0
 res^ilec@der krankenwagen@0
 odgovoriti@antworten@0
@@ -121,7 +120,7 @@ setzen pr.@setzte@0
 ko:nnen pr.@konnte@0
 verstehen pr.@verstand@0
 haben pr.@hatte@0
-essen pr.@as:@0
+essen pr.@as:@1
 nehmen pr.@nahm@0
 zeichnen pr.@zeichnete@0
 gehen pr.@ging@0
@@ -141,3 +140,29 @@ spielen pr.@spielte@0
 stehen pr.@stand@0
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
+obliz^@das pflaster@0
+sitzen pr.@sas:@0
+biegen pr.@bog@0
+neverjeten@unglaublich@0
+trainieren pr.@trainierte@0
+werden pr.@wurde@0
+holen pr.@holte@0
+pripovedovati #2@erza:hlen@0
+erza:hlen pr.@erza:hlte@0
+sprechen pr.@sprach@0
+sanjati@traumen@0
+traumen pr.@tra:umte@0
+promet@der verkehr@0
+pos^kodba@die verletzung@0
+urznina@der schnitt@0
+opeklina@die verbrennung@0
+zvin@a verstauchung@0
+zlom@der bruch@0
+praska@die schramme@0
+premikati@bewegen@0
+trk@der zusammenstos:@0
+domac^a naloga@die hausaufgabe@0
+helfen pr.@half@0
+smejati@lachen@0
+laufen pr.@lief@0
+geben pr.@gab@0

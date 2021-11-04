@@ -105,8 +105,6 @@ sedeti@sitzen@0
 brati@lesen@0
 zaviti@biegen@0
 postati@werden@0
-test@test1@0
-test@test2@0
 machen pr.@machte@0
 besuchen pr.@besuchte@0
 sehen pr.@sah@0
@@ -145,3 +143,29 @@ spielen pr.@spielte@0
 stehen pr.@stand@0
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
+obliz^@das pflaster@0
+sitzen pr.@sas:@0
+biegen pr.@bog@0
+neverjeten@unglaublich@0
+trainieren pr.@trainierte@0
+werden pr.@wurde@0
+holen pr.@holte@0
+pripovedovati #2@erza:hlen@0
+erza:hlen pr.@erza:hlte@0
+sprechen pr.@sprach@0
+sanjati@traumen@0
+traumen pr.@tra:umte@0
+promet@der verkehr@0
+pos^kodba@die verletzung@0
+urznina@der schnitt@0
+opeklina@die verbrennung@0
+zvin@a verstauchung@0
+zlom@der bruch@0
+praska@die schramme@0
+premikati@bewegen@0
+trk@der zusammenstos:@0
+domac^a naloga@die hausaufgabe@0
+helfen pr.@half@0
+smejati@lachen@0
+laufen pr.@lief@0
+geben pr.@gab@0

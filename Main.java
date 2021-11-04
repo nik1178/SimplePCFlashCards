@@ -90,12 +90,15 @@ public class Main {
     }
     int streakLimit = 3;
     boolean doSet = false;
+    boolean completeRandom = false;
     void detectUserInput(){
         String userInput = "";
         int counter = 0; //loop through flashcards in order of seed
         int skipCounter = 0;
         while(!userInput.equals("q")){
             int actualIndexForUse = -1;
+            if(completeRandom) generateSeed();
+            
             if(!answers.isEmpty()){
                 actualIndexForUse = seed.get(counter);
             }
@@ -133,7 +136,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -231,6 +234,11 @@ public class Main {
                         generateSeed();
                     }
                     break;
+                case "rand":
+                    if(!completeRandom) completeRandom=true;
+                    else completeRandom=false;
+                    System.out.println("Complete random: " + completeRandom);
+                    break;
                 default:
                     userInput = userInput.toLowerCase();
                     if(actualIndexForUse<0){
@@ -297,19 +305,43 @@ public class Main {
     void addNewFlashcard(String userInput){
         Scanner scan = new Scanner(System.in);
         System.out.println("Question:");
-        userInput = scan.nextLine();
-        if(userInput.length()<1){
+        String userInput1 = scan.nextLine();
+        if(userInput1.length()<1){
             System.out.println("Better luck next time buckaroo.");
             return;
         }
         System.out.println("Answer:");
-        String userInputNew = scan.nextLine();
-        if(userInputNew.length()<1){
+        String userInput2 = scan.nextLine();
+        if(userInput2.length()<1){
             System.out.println("Better luck next time buckaroo.");
             return;
         }
-        userInput += "@" + userInputNew + "@0";
+
+        for(int i=userInput1.length()-1; i>=0; i--){
+            if(userInput1.charAt(i) == ' '){
+                userInput1 = userInput1.substring(0, i);
+            } else break;
+        }
+        for(int i=userInput2.length()-1; i>=0; i--){
+            if(userInput2.charAt(i) == ' '){
+                userInput2 = userInput2.substring(0, i);
+            } else break;
+        }
+
+        userInput = userInput1 +  "@" + userInput2 + "@0";
         
+        //check if an exact copy already exists
+        for(int i=0; i<flashcards.size(); i++){
+            String checkString = flashcards.get(i) + "@" + answers.get(i);
+            if(checkString.equals(userInput1 + "@" + userInput2)){
+                System.out.println("This exact flashcard already exists.");
+                return;
+            } else if(checkString.equals(userInput2 + "@" + userInput1)){
+                System.out.println("This flashcard already exists, but in reverse order.");
+                return;
+            }
+        }
+
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, true));
             userInput = userInput.toLowerCase();
@@ -404,6 +436,7 @@ public class Main {
                 }
             }
         }
+        //old first letter bubble sort
         /* if(tempFlashcards.size()>1){
             for(int i=0; i<tempFlashcards.size(); i++){ //How many times we have to loop through all nums to get sorted
                 for(int j=0; j<tempFlashcards.size()-i-1; j++){ //current words in the array we are looking at
