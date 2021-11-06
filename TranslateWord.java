@@ -22,7 +22,7 @@ public class TranslateWord{
                 output  = getUrlContents(siteURL);
                 language = "ger";
             }
-        }
+        } 
 
         printToFile(output, "PONS"); 
         searchForGerTranslation(output, language);
@@ -56,7 +56,7 @@ public class TranslateWord{
             // reading from the urlconnection using the bufferedreader  
             while ((line = bufferedReader.readLine()) != null)  
             {  
-            content.append(line + "\n");  
+                content.append(line + "\n");  
             }  
             bufferedReader.close();  
             System.out.println("Downloaded website: " + theUrl);
@@ -103,6 +103,10 @@ public class TranslateWord{
             gerWord+=currentChar;
             counter++;
             currentChar = splitOutput[getFind].charAt(counter);
+            if(counter>10000){
+                System.out.println("Got stuck in a while loop");
+                return;
+            }
         }
 
         //pomeni da je dvo beseden prevod
@@ -111,11 +115,14 @@ public class TranslateWord{
             counter = 0;
             currentChar = ' ';
             while(currentChar!='\''){
-                System.out.println(currentChar);
                 currentChar = splitOutput[getFind+1].charAt(counter);
                 gerWord+=currentChar;
                 counter++;
                 currentChar = splitOutput[getFind+1].charAt(counter);
+                if(counter>10000){
+                    System.out.println("Got stuck in a while loop");
+                    return;
+                }
             }
         }
 
@@ -163,6 +170,7 @@ public class TranslateWord{
             gerGender += " ";
         }
 
+        System.out.println();
         if(language.equals("slo")) System.out.println(this.input + " = " + gerGender +gerWord);
         else if(language.equals("ger")) System.out.println(gerGender + this.input + " = " + gerWord);
     }

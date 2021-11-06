@@ -731,7 +731,7 @@ public class Main {
                 System.out.println(userInput + " = " + answers.get(i));
                 return;
             } else if(answers.get(i).equals(userInput)){
-                System.out.println(answers.get(i) + " = " + userInput);
+                System.out.println(userInput + " = " + flashcards.get(i));
                 return;
             }
         }

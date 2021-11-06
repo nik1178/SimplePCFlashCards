@@ -49,11 +49,17 @@ public class KonjugateWord{
             //form words from ---------------------------------------------
             char currentChar = splitOutput[i].charAt(0);
             int currentCharIndex = 1;
+            int tempCounter = 0;
             String currentWord = "";
             while(currentChar!='<'){
                 currentWord+=currentChar;
                 currentChar = splitOutput[i].charAt(currentCharIndex);
                 currentCharIndex++;
+                tempCounter++;
+                if(tempCounter>10000){
+                    System.out.println("Got stuck in a while loop");
+                    return;
+                }
             }
             allUsableWords[i]=currentWord;
         }
@@ -204,7 +210,7 @@ public class KonjugateWord{
             // reading from the urlconnection using the bufferedreader  
             while ((line = bufferedReader.readLine()) != null)  
             {  
-            content.append(line + "\n");  
+                content.append(line + "\n");  
             }  
             bufferedReader.close();  
             System.out.println("Downloaded website: " + theUrl);

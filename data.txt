@@ -1,5 +1,5 @@
 krvaveti@bluten@0
-drugo@anderen@0
+drugo@anderen@1
 iti po nekaj@abholen@0
 predati@aufgeben@0
 vstati@aufstehen@0
@@ -49,7 +49,7 @@ ujeti/loviti@fangen@0
 veseliti@freuen@0
 dogajati@geschehen@0
 ugajati@gefallen@0
-uz^ivati@genies:en@0
+uz^ivati@genies:en@1
 verjeti@glauben@0
 ves@ganz@0
 zmagati@gewinnen@0
