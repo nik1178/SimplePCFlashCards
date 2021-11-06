@@ -112,6 +112,27 @@ public class KonjugateWord{
                             "ihr "  + "\t" + prasenFolds[4] + "\t\t" + prateriumFolds[4] + "\n" +
                             "sind " + "\t" + prasenFolds[5] + "\t\t" + prateriumFolds[5]; */
 
+        //One \t equals 8 spaces in monosize. Make tester
+        int minTabs = 500;
+        int maxTabs = 0;
+        int[] allTabs = new int[6];
+        for(int i=0; i<prasenFolds.length; i++){
+            int wordLength = prasenFolds[i].length();
+            int tabAmount = 0;
+            while(wordLength>0){
+                wordLength-=8;
+                tabAmount++;
+            }
+            allTabs[i] = tabAmount;
+            if(tabAmount > maxTabs){
+                maxTabs = tabAmount;
+            }
+            if(tabAmount < minTabs){
+                minTabs = tabAmount;
+            }
+        }
+        int tabDiff = maxTabs - minTabs;
+
         //new system:
         StringBuilder sb = new StringBuilder("");
         sb.append(input + "\t\t\t" + habeOrSind + perfekt + "\n\n");
@@ -125,8 +146,10 @@ public class KonjugateWord{
                 case 5: sb.append("sind"); break;
                 default: sb.append("Something went wrong when finding folds."); break;
             }
-            sb.append("\t" + prasenFolds[i] + "\t");
-            if(prasenFolds[i].length()<12) sb.append("\t");
+            sb.append("\t" + prasenFolds[i] + "\t\t");
+            for(int j=0; i<maxTabs-allTabs[i]; j++){
+                sb.append("\t");
+            }
             sb.append(prateriumFolds[i]);
             if(i<5) sb.append("\n");
         }
@@ -149,6 +172,7 @@ public class KonjugateWord{
             }
         }
 
+        System.out.println();
         System.out.println(pasteReady);
     }
 

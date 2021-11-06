@@ -142,7 +142,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -283,7 +283,7 @@ public class Main {
                         System.out.printf("Correct; %s=%s%n",flashcards.get(actualIndexForUse),userInput);
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     } else {
-                        System.out.println("Wrong/////////; Correct answer: " + answers.get(actualIndexForUse));
+                        System.out.println("Wrong/////////; Correct answer: " + answers.get(actualIndexForUse) + "         Your answers: " + userInputOriginalCopy);
                         streaks.set(actualIndexForUse, -1);
                         counter--;
                     }

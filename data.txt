@@ -5,30 +5,30 @@ aufgeben@predati@0
 aufstehen@vstati@0
 bekommen@dobiti@0
 arbeiten@delati@0
-bügeln@likati@0
-bestellen@naročiti@0
+bu:geln@likati@0
+bestellen@naroc^iti@0
 bleiben@ostati@0
 bringen@prinesti@0
 berichten@pripovedovati@0
-bezahlen@plačati@0
+bezahlen@plac^ati@0
 bedeuten@pomeniti@0
 biegen@zaviti@0
 brechen@zlomiti@0
 die hand@dlan@0
 der kopf@glava@0
-der rücken@hrbet@0
+der ru:cken@hrbet@0
 das blut@kri@0
 der monat@mesec@0
 das bein@noga@0
 die nase@nos@0
-der unfall@nesreča@0
+der unfall@nesrec^a@0
 das auge@oko@0
 der finger@prst@0
 der zehe@prst na nogi@0
 die brust@prsi@0
 der unterricht@pouk@0
 der arm@roka@0
-der fuß@stopalo@0
+der fus:@stopalo@0
 der traum@sanje@0
 der bauch@trebuh@0
 dauern@trajati@0
@@ -39,8 +39,8 @@ das vorbild@zgled@0
 es tut weh@boli@0
 einfach@enostavno@1
 einkaufen@nakupovati@0
-entscheiden@odločiti@0
-empfinden@občutiti@0
+entscheiden@odloc^iti@0
+empfinden@obc^utiti@0
 einladen@povabiti@0
 erkennen@prepoznati@0
 fliegen@leteti@0
@@ -49,56 +49,56 @@ fangen@ujeti/loviti@0
 freuen@veseliti@0
 geschehen@dogajati@0
 gefallen@ugajati@0
-genießen@uživati@0
+genies:en@uz^ivati@0
 glauben@verjeti@0
 ganz@ves@0
 gewinnen@zmagati@0
-hängen@obešati@0
+ha:ngen@obes^ati@0
 holen@prinesti #2@0
-hängen@viseti@0
+ha:ngen@viseti@0
 klingeln@zvoniti/pozvoniti@0
 klingen@zvoniti/zveneti@0
 meinen@meniti@0
 malen@slikati@0
-meistens@večinoma@0
-niemand@nihče@0
+meistens@vec^inoma@0
+niemand@nihc^e@0
 passieren@zgoditi@0
 reden@govoriti #2@0
 rauchen@kaditi@0
-rechnen@računati@0
-retten@rešiti@0
+rechnen@rac^unati@0
+retten@res^iti@0
 schauen@gledati@0
 suchen@iskati@0
 seit@od@0
 schrammen@opraskati@0
 stellen@postaviti@0
-senden@poslati@0
-sagen@reči@0
+senden@poslati@1
+sagen@rec^i@0
 saugen@sesati@0
 setzen@usesti@0
 schneiden@urezati@0
 siegen@zmagati #2@0
-vielleicht@mogoče@0
-verbrennen@opeči@0
-vermissen@pogrešati@0
+vielleicht@mogoc^e@0
+verbrennen@opec^i@0
+vermissen@pogres^ati@0
 verstauchen@zviti@0
 werden@postati@0
 wissen@vedeti@0
 zeigen@kazati@0
 zuerst@najprej@0
 zeichnen@risati@0
-noch@še@0
+noch@s^e@0
 wirklich@dejansko@0
 halten@ustaviti@0
-die straße@cesta@0
-das geschäft@trgovina@0
-das leben@življenje@0
+die stras:e@cesta@0
+das gescha:ft@trgovina@0
+das leben@z^ivljenje@0
 brauchen@potrebovati@0
 das medikament@zdravilo@0
 das fahrzeug@vozilo@0
-der krankenwagen@rešilec@0
+der krankenwagen@res^ilec@0
 antworten@odgovoriti@0
-früh@zgodaj@0
+fru:h@zgodaj@0
 zusammen@skupaj@0
 sitzen@sedeti@0
 lesen@brati@0
@@ -117,10 +117,10 @@ donnerte@donnern pr.@0
 hielt@halten pr.@0
 trat@treten pr.@0
 setzte@setzen pr.@0
-konnte@können pr.@0
+konnte@ko:nnen pr.@0
 verstand@verstehen pr.@0
 hatte@haben pr.@0
-aß@essen pr.@1
+as:@essen pr.@1
 nahm@nehmen pr.@0
 zeichnete@zeichnen pr.@0
 ging@gehen pr.@0
@@ -128,7 +128,7 @@ freute@freuen pr.@0
 brachte@bringen pr.@0
 bekam@bekommen pr.@0
 sollte@sollen pr.@0
-durfte@dürfen pr.@0
+durfte@du:rfen pr.@0
 kaufte@kaufen pr.@0
 wohnte@wohnen pr.@0
 schrieb@schreiben pr.@0
@@ -140,28 +140,28 @@ spielte@spielen pr.@0
 stand@stehen pr.@0
 siegte@siegen pr.@0
 gewann@gewinnen pr.@0
-das pflaster@obliž@0
-saß@sitzen pr.@0
+das pflaster@obliz^@0
+sas:@sitzen pr.@0
 bog@biegen pr.@0
 unglaublich@neverjeten@0
 trainierte@trainieren pr.@0
 wurde@werden pr.@0
 holte@holen pr.@0
-erzählen@pripovedovati #2@0
-erzählte@erzählen pr.@0
+erza:hlen@pripovedovati #2@0
+erza:hlte@erza:hlen pr.@0
 sprach@sprechen pr.@1
 traumen@sanjati@0
-träumte@traumen pr.@0
+tra:umte@traumen pr.@0
 der verkehr@promet@0
-die verletzung@poškodba@0
+die verletzung@pos^kodba@0
 der schnitt@urznina@0
 die verbrennung@opeklina@0
 a verstauchung@zvin@0
 der bruch@zlom@0
 die schramme@praska@0
 bewegen@premikati@0
-der zusammenstoß@trk@0
-die hausaufgabe@domača naloga@0
+der zusammenstos:@trk@0
+die hausaufgabe@domac^a naloga@0
 half@helfen pr.@0
 lachen@smejati@0
 lief@laufen pr.@0
@@ -169,7 +169,7 @@ gab@geben pr.@0
 genug@dovolj@0
 niemals@nikoli@0
 der held@junak@0
-der rettungswagen@rešilec@0
+der rettungswagen@res^ilec@0
 der sieg@zmaga@0
 der sieger@zmagovalec@0
 was@kaj?@0
@@ -177,22 +177,22 @@ wie@kako/koliko?@0
 wer@kdo?@0
 wo@kje?@0
 wann@kdaj?@0
-wenn@ko/če@0
+wenn@ko/c^e@0
 wohin@kam?@0
 woher@od kod?@0
 warum@zakaj?@0
-stürzen@pasti@0
-das fieber@vročina@0
+stu:rzen@pasti@0
+das fieber@vroc^ina@0
 schmerzen@boleti@0
-der schmerz@bolečina@0
+der schmerz@bolec^ina@0
 die salbe@mazilo@0
 der gips@gips@0
 der verband@povoj@0
 gebrochen@zlomljen@0
 am@na/pri/ob@0
-treffen@srečati@0
+treffen@srec^ati@0
 donnern@grmeti@0
 blitzen@bliskati@0
-stürzte@stürzen pr.@0
+stu:rzte@stu:rzen pr.@0
 wehtun@boleti@0
 tat@tut pr.@0
