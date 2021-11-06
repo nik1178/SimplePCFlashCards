@@ -136,7 +136,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -216,8 +216,11 @@ public class Main {
                 case "g":
                     generateSeed();
                     break;
+                case "lu":
+                    listAll(false);
+                    break;
                 case "l":
-                    listAll();
+                    listAll(true);
                     break;
                 case "r":
                 case "e":
@@ -270,7 +273,7 @@ public class Main {
         }
     }
     void removeOrEdit(String userInput, Scanner scan){
-        listAll();
+        listAll(true);
         System.out.printf("Which flashcard? (0-%s)%n", flashcards.size()-1);
         int selectedIndex = -1;
         try{
@@ -356,7 +359,7 @@ public class Main {
     ArrayList<String> tempFlashcards = new ArrayList<>();
     ArrayList<String> tempAnswers = new ArrayList<>();
     ArrayList<Integer> tempStreaks = new ArrayList<>();
-    void listAll(){
+    void listAll(boolean sort){
         readFlashcards();
 
         tempFlashcards.clear();
@@ -367,7 +370,7 @@ public class Main {
         for(Integer x : streaks) tempStreaks.add(x);
 
         //Actual sort: Sort everything just by the first letter to not overcomplicate
-        radixSortWords();
+        if(sort)radixSortWords();
 
         //------Decide how many zeroes are needed
         int biggestIndex = tempFlashcards.size();
@@ -485,7 +488,7 @@ public class Main {
         }
     }
     void reverseQuestionsAndAnswers(){
-        listAll();
+        listAll(true);
         Scanner scan = new Scanner(System.in);
         System.out.println("a-All, x-y - x to y");
         String userInput = scan.nextLine();
@@ -539,11 +542,27 @@ public class Main {
         set.clear();
         Scanner scan = new Scanner(System.in);
         for(int i=0; i<flashcards.size(); i++){
-            System.out.println(i + ": " + flashcards.get(i) + " - " + answers.get(i) + " - Add? (a)");
+            if(checkSetDuplicate(i)) continue;
+            System.out.println(i + ": " + flashcards.get(i) + " - " + answers.get(i) + " - Add? (a), Skip to number (any num), Quit? (q)");
             String response = scan.nextLine();
-            if(response.equals("a")) set.add(i);
-            else if(response.equals("q"))break;
+            try{
+                int integerResponse = Integer.parseInt(response);
+                i=integerResponse-1;
+            } catch(Exception e){
+                if(response.equals("a")) {
+                    set.add(i);
+                }
+                else if(response.equals("q"))break;
+            }
         }
+    }
+    boolean checkSetDuplicate(int i){
+        for(int j=0; j<set.size(); j++){
+            if(set.get(j)==i){
+                return true;
+            }
+        }
+        return false;
     }
     File setFile = new File("sets.txt");
     void saveSetToFile(){
