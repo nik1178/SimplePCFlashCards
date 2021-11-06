@@ -442,47 +442,52 @@ public class Main {
             }
 
             //change the c^ and u: types to normal types
-            for(int j=0; j<toPrint.length(); j++){
-                if(toPrint.charAt(j) == '^' || toPrint.charAt(j) == ':'){
-                    char whichChar = toPrint.charAt(j-1);
-                    char charToReplaceWith = ' ';
-                    switch(whichChar){
-                        case 'c':
-                            charToReplaceWith = 'č';
-                            break;
-                        case 'z':
-                            charToReplaceWith = 'ž';
-                            break;
-                        case 'a':
-                            charToReplaceWith = 'ä';
-                            break;
-                        case 'u':
-                            charToReplaceWith = 'ü';
-                            break;
-                        case 'o':
-                            charToReplaceWith = 'ö';
-                            break;
-                        default:
-                            if(whichChar == 's'){
-                                if(toPrint.charAt(j) == ':'){
-                                    charToReplaceWith = 'ß';
-                                } else charToReplaceWith = 'š';
-                            } else{
-                                System.out.println("Something went wrong with turning ching cheng hanji into readable");
-                            }
-                            break;
-
-                    }
-                    toPrint = toPrint.substring(0, j-1) + charToReplaceWith + toPrint.substring(j+1, toPrint.length());
-
-                }
-            }
+            toPrint = unChingCheng(toPrint);
 
             //Print everything after the zeroes--------------
             System.out.println(i + " " + toPrint);
         }
         saveStatus();
     }
+    String unChingCheng(String toPrint) {
+        for(int j=0; j<toPrint.length(); j++){
+            if(toPrint.charAt(j) == '^' || toPrint.charAt(j) == ':'){
+                char whichChar = toPrint.charAt(j-1);
+                char charToReplaceWith = ' ';
+                switch(whichChar){
+                    case 'c':
+                        charToReplaceWith = 'č';
+                        break;
+                    case 'z':
+                        charToReplaceWith = 'ž';
+                        break;
+                    case 'a':
+                        charToReplaceWith = 'ä';
+                        break;
+                    case 'u':
+                        charToReplaceWith = 'ü';
+                        break;
+                    case 'o':
+                        charToReplaceWith = 'ö';
+                        break;
+                    default:
+                        if(whichChar == 's'){
+                            if(toPrint.charAt(j) == ':'){
+                                charToReplaceWith = 'ß';
+                            } else charToReplaceWith = 'š';
+                        } else{
+                            System.out.println("Something went wrong with turning ching cheng hanji into readable");
+                        }
+                        break;
+
+                }
+                toPrint = toPrint.substring(0, j-1) + charToReplaceWith + toPrint.substring(j+1, toPrint.length());
+
+            }
+        }
+        return toPrint;
+    }
+
     void radixSortWords(){
         int longestLength = findLongestWord();
         for(int currentLength = longestLength-1; currentLength>=0; currentLength--){
