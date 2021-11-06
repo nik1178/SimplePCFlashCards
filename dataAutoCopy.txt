@@ -193,3 +193,57 @@ pasti@stu:rzen@0
 vroc^ina@das fieber@0
 boleti@schmerzen@0
 bolec^ina@der schmerz@0
+mazilo@die salbe@0
+gips@der gips@0
+der verband@povoj@0
+zlomljen@gebrochen@0
+na/pri/ob@am@0
+srec^ati@treffen@0
+grmeti@donnern@0
+bliskati@blitzen@0
+stu:rzen pr.@stu:rzte@0
+boleti@wehtun@0
+tut pr.@tat@0
+bügeln@likati@0
+bestellen@naročiti@0
+bezahlen@plačati@0
+der rücken@hrbet@0
+der unfall@nesreča@0
+der fuß@stopalo@0
+entscheiden@odločiti@0
+empfinden@občutiti@0
+genießen@uživati@0
+hängen@obešati@0
+hängen@viseti@0
+meistens@večinoma@0
+niemand@nihče@0
+rechnen@računati@0
+retten@rešiti@0
+sagen@reči@0
+vielleicht@mogoče@0
+verbrennen@opeči@0
+vermissen@pogrešati@0
+noch@še@0
+die straße@cesta@0
+das geschäft@trgovina@0
+das leben@življenje@0
+der krankenwagen@rešilec@0
+früh@zgodaj@0
+konnte@können pr.@0
+aß@essen pr.@0
+durfte@dürfen pr.@0
+das pflaster@obliž@0
+saß@sitzen pr.@0
+erzählen@pripovedovati #2@0
+erzählte@erzählen pr.@0
+träumte@traumen pr.@0
+die verletzung@poškodba@0
+der zusammenstoß@trk@0
+die hausaufgabe@domača naloga@0
+der rettungswagen@rešilec@0
+wenn@ko/če@0
+stürzen@pasti@0
+das fieber@vročina@0
+der schmerz@bolečina@0
+treffen@srečati@0
+stürzte@stürzen pr.@0

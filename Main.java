@@ -257,6 +257,8 @@ public class Main {
                     System.out.println("Complete random: " + completeRandom);
                     break;
                 default:
+                    //this copy is for the definition method
+                    String userInputOriginalCopy = userInput;
                     userInput = userInput.toLowerCase();
                     if(actualIndexForUse<0){
                         System.out.println("You have no flashcards created. Try \"a\" to create a new flashcard.");
@@ -266,6 +268,17 @@ public class Main {
                         saveStatus();
                         break;
                     }
+
+                    //check for definitions
+                    if(userInput.length()>4 && userInput.substring(0,4).equals("def ")){
+                        define(userInput.substring(4,userInput.length()), userInputOriginalCopy.substring(4,userInputOriginalCopy.length()));
+                        break;
+                    }
+                    if(userInput.length()>5 && userInput.substring(0,5).equals("konj ")){
+                        konjugate(userInput.substring(5,userInput.length()));
+                        break;
+                    }
+
                     if(userInput.equals(answers.get(actualIndexForUse))){
                         System.out.printf("Correct; %s=%s%n",flashcards.get(actualIndexForUse),userInput);
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
@@ -654,5 +667,32 @@ public class Main {
             }
         }
         writer.close();
+    }
+
+    void define(String userInput, String originalInput){
+        for(int i=0; i<flashcards.size(); i++){
+            if(flashcards.get(i).equals(userInput)){
+                System.out.println(userInput + " = " + answers.get(i));
+                return;
+            } else if(answers.get(i).equals(userInput)){
+                System.out.println(answers.get(i) + " = " + userInput);
+                return;
+            }
+        }
+        System.out.println("Couldn't find that flashcard.");
+        System.out.println("Searching web.");
+        try{
+            new TranslateWord(originalInput);
+        } catch(Exception e){
+            System.out.println("Failed online translation.");
+        }
+    }
+
+    void konjugate(String userInput){
+        try{
+            new KonjugateWord(userInput);
+        } catch(Exception e){
+            System.out.println("Failed konjugation.");
+        }
     }
 }

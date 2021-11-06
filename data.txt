@@ -1,187 +1,198 @@
-krvaveti@bluten@0
-drugo@anderen@0
-iti po nekaj@abholen@0
-predati@aufgeben@0
-vstati@aufstehen@0
-dobiti@bekommen@0
-delati@arbeiten@0
-likati@bu:geln@0
-naroc^iti@bestellen@0
-ostati@bleiben@0
-prinesti@bringen@0
-pripovedovati@berichten@0
-plac^ati@bezahlen@0
-pomeniti@bedeuten@0
-zaviti@biegen@0
-zlomiti@brechen@0
-dlan@die hand@0
-glava@der kopf@0
-hrbet@der ru:cken@0
-kri@das blut@0
-mesec@der monat@0
-noga@das bein@0
-nos@die nase@0
-nesrec^a@der unfall@0
-oko@das auge@0
-prst@der finger@0
-prst na nogi@der zehe@0
-prsi@die brust@0
-pouk@der unterricht@0
-roka@der arm@0
-stopalo@der fus:@0
-sanje@der traum@0
-trebuh@der bauch@0
-trajati@dauern@0
-tam@dort@0
-uho@das ohr@0
-vrat@der hals@0
-zgled@das vorbild@0
-boli@es tut weh@0
-enostavno@einfach@1
-nakupovati@einkaufen@0
-odloc^iti@entscheiden@0
-obc^utiti@empfinden@0
-povabiti@einladen@0
-prepoznati@erkennen@0
-leteti@fliegen@0
-praznovati@feiern@0
-ujeti/loviti@fangen@0
-veseliti@freuen@0
-dogajati@geschehen@0
-ugajati@gefallen@0
-uz^ivati@genies:en@0
-verjeti@glauben@0
-ves@ganz@0
-zmagati@gewinnen@0
-obes^ati@ha:ngen@0
-prinesti #2@holen@0
-viseti@ha:ngen@0
-zvoniti/pozvoniti@klingeln@0
-zvoniti/zveneti@klingen@0
-meniti@meinen@0
-slikati@malen@0
-vec^inoma@meistens@0
-nihc^e@niemand@0
-zgoditi@passieren@0
-govoriti #2@reden@0
-kaditi@rauchen@0
-rac^unati@rechnen@0
-res^iti@retten@0
-gledati@schauen@0
-iskati@suchen@0
-od@seit@0
-opraskati@schrammen@0
-postaviti@stellen@0
-poslati@senden@0
-rec^i@sagen@0
-sesati@saugen@0
-usesti@setzen@0
-urezati@schneiden@0
-zmagati #2@siegen@0
-mogoc^e@vielleicht@0
-opec^i@verbrennen@0
-pogres^ati@vermissen@0
-zviti@verstauchen@0
-postati@werden@0
-vedeti@wissen@0
-kazati@zeigen@0
-najprej@zuerst@0
-risati@zeichnen@0
-s^e@noch@0
-dejansko@wirklich@0
-ustaviti@halten@0
-cesta@die stras:e@0
-trgovina@das gescha:ft@0
-z^ivljenje@das leben@0
-potrebovati@brauchen@0
-zdravilo@das medikament@0
-vozilo@das fahrzeug@0
-res^ilec@der krankenwagen@0
-odgovoriti@antworten@0
-zgodaj@fru:h@0
-skupaj@zusammen@0
-sedeti@sitzen@0
-brati@lesen@0
-machen pr.@machte@0
-besuchen pr.@besuchte@0
-sehen pr.@sah@0
-fahren pr.@fuhr@0
-wollen pr.@wollte@0
-arbeiten pr.@arbeitete@0
-sein pr.@war@0
-kommen pr.@kam@0
-ziehen pr.@zog@0
-regnen pr.@regnete@0
-blitzen pr.@blitzte@0
-donnern pr.@donnerte@0
-halten pr.@hielt@0
-treten pr.@trat@0
-setzen pr.@setzte@0
-ko:nnen pr.@konnte@0
-verstehen pr.@verstand@0
-haben pr.@hatte@0
-essen pr.@as:@1
-nehmen pr.@nahm@0
-zeichnen pr.@zeichnete@0
-gehen pr.@ging@0
-freuen pr.@freute@0
-bringen pr.@brachte@0
-bekommen pr.@bekam@0
-sollen pr.@sollte@0
-du:rfen pr.@durfte@0
-kaufen pr.@kaufte@0
-wohnen pr.@wohnte@0
-schreiben pr.@schrieb@0
-einladen pr.@lud ein@0
-schicken pr.@schickte@0
-antworten pr.@antwortete@0
-telefonieren pr.@telefonierte@0
-spielen pr.@spielte@0
-stehen pr.@stand@0
-siegen pr.@siegte@0
-gewinnen pr.@gewann@0
-obliz^@das pflaster@0
-sitzen pr.@sas:@0
-biegen pr.@bog@0
-neverjeten@unglaublich@0
-trainieren pr.@trainierte@0
-werden pr.@wurde@0
-holen pr.@holte@0
-pripovedovati #2@erza:hlen@0
-erza:hlen pr.@erza:hlte@0
-sprechen pr.@sprach@1
-sanjati@traumen@0
-traumen pr.@tra:umte@0
-promet@der verkehr@0
-pos^kodba@die verletzung@0
-urznina@der schnitt@0
-opeklina@die verbrennung@0
-zvin@a verstauchung@0
-zlom@der bruch@0
-praska@die schramme@0
-premikati@bewegen@0
-trk@der zusammenstos:@0
-domac^a naloga@die hausaufgabe@0
-helfen pr.@half@0
-smejati@lachen@0
-laufen pr.@lief@0
-geben pr.@gab@0
-dovolj@genug@0
-nikoli@niemals@0
-junak@der held@0
-res^ilec@der rettungswagen@0
-zmaga@der sieg@0
-zmagovalec@der sieger@0
-kaj?@was@0
-kako/koliko?@wie@0
-kdo?@wer@0
-kje?@wo@0
-kdaj?@wann@0
-ko/c^e@wenn@0
-kam?@wohin@0
-od kod?@woher@0
-zakaj?@warum@0
-pasti@stu:rzen@0
-vroc^ina@das fieber@0
-boleti@schmerzen@0
-bolec^ina@der schmerz@0
+bluten@krvaveti@0
+anderen@drugo@0
+abholen@iti po nekaj@0
+aufgeben@predati@0
+aufstehen@vstati@0
+bekommen@dobiti@0
+arbeiten@delati@0
+bügeln@likati@0
+bestellen@naročiti@0
+bleiben@ostati@0
+bringen@prinesti@0
+berichten@pripovedovati@0
+bezahlen@plačati@0
+bedeuten@pomeniti@0
+biegen@zaviti@0
+brechen@zlomiti@0
+die hand@dlan@0
+der kopf@glava@0
+der rücken@hrbet@0
+das blut@kri@0
+der monat@mesec@0
+das bein@noga@0
+die nase@nos@0
+der unfall@nesreča@0
+das auge@oko@0
+der finger@prst@0
+der zehe@prst na nogi@0
+die brust@prsi@0
+der unterricht@pouk@0
+der arm@roka@0
+der fuß@stopalo@0
+der traum@sanje@0
+der bauch@trebuh@0
+dauern@trajati@0
+dort@tam@0
+das ohr@uho@0
+der hals@vrat@0
+das vorbild@zgled@0
+es tut weh@boli@0
+einfach@enostavno@1
+einkaufen@nakupovati@0
+entscheiden@odločiti@0
+empfinden@občutiti@0
+einladen@povabiti@0
+erkennen@prepoznati@0
+fliegen@leteti@0
+feiern@praznovati@0
+fangen@ujeti/loviti@0
+freuen@veseliti@0
+geschehen@dogajati@0
+gefallen@ugajati@0
+genießen@uživati@0
+glauben@verjeti@0
+ganz@ves@0
+gewinnen@zmagati@0
+hängen@obešati@0
+holen@prinesti #2@0
+hängen@viseti@0
+klingeln@zvoniti/pozvoniti@0
+klingen@zvoniti/zveneti@0
+meinen@meniti@0
+malen@slikati@0
+meistens@večinoma@0
+niemand@nihče@0
+passieren@zgoditi@0
+reden@govoriti #2@0
+rauchen@kaditi@0
+rechnen@računati@0
+retten@rešiti@0
+schauen@gledati@0
+suchen@iskati@0
+seit@od@0
+schrammen@opraskati@0
+stellen@postaviti@0
+senden@poslati@0
+sagen@reči@0
+saugen@sesati@0
+setzen@usesti@0
+schneiden@urezati@0
+siegen@zmagati #2@0
+vielleicht@mogoče@0
+verbrennen@opeči@0
+vermissen@pogrešati@0
+verstauchen@zviti@0
+werden@postati@0
+wissen@vedeti@0
+zeigen@kazati@0
+zuerst@najprej@0
+zeichnen@risati@0
+noch@še@0
+wirklich@dejansko@0
+halten@ustaviti@0
+die straße@cesta@0
+das geschäft@trgovina@0
+das leben@življenje@0
+brauchen@potrebovati@0
+das medikament@zdravilo@0
+das fahrzeug@vozilo@0
+der krankenwagen@rešilec@0
+antworten@odgovoriti@0
+früh@zgodaj@0
+zusammen@skupaj@0
+sitzen@sedeti@0
+lesen@brati@0
+machte@machen pr.@0
+besuchte@besuchen pr.@0
+sah@sehen pr.@0
+fuhr@fahren pr.@0
+wollte@wollen pr.@0
+arbeitete@arbeiten pr.@0
+war@sein pr.@0
+kam@kommen pr.@0
+zog@ziehen pr.@0
+regnete@regnen pr.@0
+blitzte@blitzen pr.@0
+donnerte@donnern pr.@0
+hielt@halten pr.@0
+trat@treten pr.@0
+setzte@setzen pr.@0
+konnte@können pr.@0
+verstand@verstehen pr.@0
+hatte@haben pr.@0
+aß@essen pr.@1
+nahm@nehmen pr.@0
+zeichnete@zeichnen pr.@0
+ging@gehen pr.@0
+freute@freuen pr.@0
+brachte@bringen pr.@0
+bekam@bekommen pr.@0
+sollte@sollen pr.@0
+durfte@dürfen pr.@0
+kaufte@kaufen pr.@0
+wohnte@wohnen pr.@0
+schrieb@schreiben pr.@0
+lud ein@einladen pr.@0
+schickte@schicken pr.@0
+antwortete@antworten pr.@0
+telefonierte@telefonieren pr.@0
+spielte@spielen pr.@0
+stand@stehen pr.@0
+siegte@siegen pr.@0
+gewann@gewinnen pr.@0
+das pflaster@obliž@0
+saß@sitzen pr.@0
+bog@biegen pr.@0
+unglaublich@neverjeten@0
+trainierte@trainieren pr.@0
+wurde@werden pr.@0
+holte@holen pr.@0
+erzählen@pripovedovati #2@0
+erzählte@erzählen pr.@0
+sprach@sprechen pr.@1
+traumen@sanjati@0
+träumte@traumen pr.@0
+der verkehr@promet@0
+die verletzung@poškodba@0
+der schnitt@urznina@0
+die verbrennung@opeklina@0
+a verstauchung@zvin@0
+der bruch@zlom@0
+die schramme@praska@0
+bewegen@premikati@0
+der zusammenstoß@trk@0
+die hausaufgabe@domača naloga@0
+half@helfen pr.@0
+lachen@smejati@0
+lief@laufen pr.@0
+gab@geben pr.@0
+genug@dovolj@0
+niemals@nikoli@0
+der held@junak@0
+der rettungswagen@rešilec@0
+der sieg@zmaga@0
+der sieger@zmagovalec@0
+was@kaj?@0
+wie@kako/koliko?@0
+wer@kdo?@0
+wo@kje?@0
+wann@kdaj?@0
+wenn@ko/če@0
+wohin@kam?@0
+woher@od kod?@0
+warum@zakaj?@0
+stürzen@pasti@0
+das fieber@vročina@0
+schmerzen@boleti@0
+der schmerz@bolečina@0
+die salbe@mazilo@0
+der gips@gips@0
+der verband@povoj@0
+gebrochen@zlomljen@0
+am@na/pri/ob@0
+treffen@srečati@0
+donnern@grmeti@0
+blitzen@bliskati@0
+stürzte@stürzen pr.@0
+wehtun@boleti@0
+tat@tut pr.@0
