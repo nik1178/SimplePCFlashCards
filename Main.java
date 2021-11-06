@@ -101,7 +101,13 @@ public class Main {
             
             if(!answers.isEmpty()){
                 actualIndexForUse = seed.get(counter);
+                if(streaks.get(actualIndexForUse)>=0){
+                    for(int i=0; i<streaks.size(); i++){
+                        if(streaks.get(i)<0) streaks.set(i, 0);
+                    }
+                }
             }
+            
 
             if(doSet && set.isEmpty()){
                 System.out.println("Your set is empty.");
@@ -136,7 +142,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -225,6 +231,14 @@ public class Main {
                 case "r":
                 case "e":
                     removeOrEdit(userInput, scan);
+                    break;
+                case "el":
+                    System.out.println(flashcards.get(flashcards.size() - 1) + " " + answers.get(answers.size() -1));
+                    flashcards.remove(flashcards.size() - 1);
+                    answers.remove(answers.size()-1);
+                    streaks.remove(streaks.size()-1);
+                    saveStatus();
+                    addNewFlashcard(userInput);
                     break;
                 case "rev":
                     reverseQuestionsAndAnswers();

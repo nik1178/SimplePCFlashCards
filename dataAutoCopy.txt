@@ -169,3 +169,27 @@ helfen pr.@half@0
 smejati@lachen@0
 laufen pr.@lief@0
 geben pr.@gab@0
+dovolj@genug@0
+nikoli@niemals@0
+junak@der held@0
+res^ilec@der rettungswagen@0
+zmaga@der sieg@0
+zmagovalec@der sieger@0
+kaj?@was@0
+kako/koliko?@wie@0
+kdo?@wer?@0
+kdo?@wer@0
+kje?@wo@0
+kdaj?@wann@0
+ko/c^e@wenn@0
+kam?@whoin@0
+test@test1@0
+kam?@wohin@0
+asdasd@asdasdas@0
+od kod?@woher@0
+asiodasdoih@aspasppao@0
+zakaj?@warum@0
+pasti@stu:rzen@0
+vroc^ina@das fieber@0
+boleti@schmerzen@0
+bolec^ina@der schmerz@0
