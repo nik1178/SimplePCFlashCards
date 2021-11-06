@@ -142,7 +142,7 @@ public class Main {
             if(!answers.isEmpty()) {
                 System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -195,6 +195,20 @@ public class Main {
                     break;
                 case "m":
                     makeNewSet();
+                    break;
+                case "m pr.":
+                    set.clear();
+                    for(int i=0; i<flashcards.size(); i++){
+                        if(flashcards.get(i).length()<3) continue;
+                        if(flashcards.get(i).substring(flashcards.get(i).length()-3, flashcards.get(i).length()).equals("pr.")){
+                            set.add(i);
+                            continue;
+                        }
+                        if(answers.get(i).length()<3) continue;
+                        if(answers.get(i).substring(answers.get(i).length()-3, answers.get(i).length()).equals("pr.")){
+                            set.add(i);
+                        }
+                    }
                     break;
                 case "ca":
                 case "rs":
@@ -424,6 +438,43 @@ public class Main {
                 int howManyZeroesNeeded = zerocounter-iZeroes;
                 for(int j=0;j<howManyZeroesNeeded; j++){
                     System.out.print("0");
+                }
+            }
+
+            //change the c^ and u: types to normal types
+            for(int j=0; j<toPrint.length(); j++){
+                if(toPrint.charAt(j) == '^' || toPrint.charAt(j) == ':'){
+                    char whichChar = toPrint.charAt(j-1);
+                    char charToReplaceWith = ' ';
+                    switch(whichChar){
+                        case 'c':
+                            charToReplaceWith = 'č';
+                            break;
+                        case 'z':
+                            charToReplaceWith = 'ž';
+                            break;
+                        case 'a':
+                            charToReplaceWith = 'ä';
+                            break;
+                        case 'u':
+                            charToReplaceWith = 'ü';
+                            break;
+                        case 'o':
+                            charToReplaceWith = 'ö';
+                            break;
+                        default:
+                            if(whichChar == 's'){
+                                if(toPrint.charAt(j) == ':'){
+                                    charToReplaceWith = 'ß';
+                                } else charToReplaceWith = 'š';
+                            } else{
+                                System.out.println("Something went wrong with turning ching cheng hanji into readable");
+                            }
+                            break;
+
+                    }
+                    toPrint = toPrint.substring(0, j-1) + charToReplaceWith + toPrint.substring(j+1, toPrint.length());
+
                 }
             }
 
