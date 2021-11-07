@@ -55,7 +55,7 @@ public class TranslateWord{
             String line;  
             // reading from the urlconnection using the bufferedreader  
             while ((line = bufferedReader.readLine()) != null)  
-            {  
+            {
                 content.append(line + "\n");  
             }  
             bufferedReader.close();  
@@ -154,7 +154,7 @@ public class TranslateWord{
                     }
                 }
             } else if(language.equals("ger")){
-                for(int i=samostalnikIndex; i<samostalnikIndex+50; i++){
+                for(int i=0; i<splitOutput[getFind].length()-genderKeyWords[2].length(); i++){
                     if(output.substring(i,i+genderKeyWords[0].length()).equals(genderKeyWords[0])){
                         gerGender = "der";
                         break;

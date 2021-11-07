@@ -259,7 +259,7 @@ public class Main {
                     removeOrEdit(userInput, scan);
                     break;
                 case "el":
-                    System.out.println(flashcards.get(flashcards.size() - 1) + " " + answers.get(answers.size() -1));
+                    System.out.println(flashcards.get(flashcards.size() - 1) + " - " + answers.get(answers.size() -1));
                     flashcards.remove(flashcards.size() - 1);
                     answers.remove(answers.size()-1);
                     streaks.remove(streaks.size()-1);
@@ -267,7 +267,7 @@ public class Main {
                     addNewFlashcard(userInput);
                     break;
                 case "ec":
-                    System.out.println(flashcards.get(actualIndexForUse) + " " + answers.get(actualIndexForUse));
+                    System.out.println(flashcards.get(actualIndexForUse) + " - " + answers.get(actualIndexForUse));
                     flashcards.remove(actualIndexForUse);
                     answers.remove(actualIndexForUse);
                     streaks.remove(actualIndexForUse);
@@ -355,7 +355,7 @@ public class Main {
                     break;
             }
             saveStatus();
-            
+            checkAllDuplicates();
         }
     }
     void removeOrEdit(String userInput, Scanner scan){
@@ -772,6 +772,7 @@ public class Main {
 
     void define(boolean internet, String userInput, String originalInput){
         if(!internet){
+            boolean foundCard = false;
             for(int i=0; i<flashcards.size(); i++){
                 String toPrint = "";
                 if(flashcards.get(i).equals(userInput)){
@@ -781,8 +782,11 @@ public class Main {
                 }
                 if(toPrint.length()>0){
                     System.out.println(unChingCheng(toPrint));
-                    return;
+                    foundCard = true;
                 }
+            }
+            if(foundCard){
+                return;
             }
             System.out.println("Couldn't find that flashcard.");
         }
@@ -826,6 +830,20 @@ public class Main {
             new KonjugateWord(userInput);
         } catch(Exception e){
             System.out.println("Failed konjugation.");
+        }
+    }
+
+    void checkAllDuplicates(){
+        for(int i=0; i<flashcards.size(); i++){
+            for(int j=0; j<flashcards.size(); j++){
+                if(j==i) continue;
+                String flash1 = flashcards.get(i)+"@"+answers.get(i);
+                String flash2 = flashcards.get(j)+"@"+answers.get(j);
+                String flash3 = answers.get(j)+"@"+flashcards.get(j);
+                if(flash1.equals(flash2) || flash1.equals(flash3)){
+                    System.out.println("You have duplicate flashcards; " + flash1 + "(" + i + ")" + " = " + flash2 + "(" + j + ")");
+                }
+            }
         }
     }
 }

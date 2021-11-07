@@ -304,3 +304,4 @@ nikoli@nie@0
 entscheiden pr.@entschied@0
 poslati@schicken@0
 gledati@sehen@0
+sunek@der stos:@0
