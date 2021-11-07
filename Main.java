@@ -145,7 +145,7 @@ public class Main {
 
                 System.out.print(toPrint + " || "); //get flashcard from seed number and not in numerical order
             }
-            System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
+            System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
             
             userInput = scan.nextLine();
@@ -155,8 +155,11 @@ public class Main {
             System.out.println(sb.toString());
 
             switch(userInput){
+                case "rf":
+                    readFlashcards();
+                    break;
                 case "sl":
-                    System.out.println("Set the new limit:");
+                    System.out.printf("Set the new limit(%s):%n",streakLimit);
                     try{
                         int prevLimit = streakLimit;
                         streakLimit = scan.nextInt();
@@ -171,6 +174,12 @@ public class Main {
                     break;
                 case "q":
                     saveStatus();
+                    break;
+                case "b":
+                    counter--;
+                    if(counter<0){
+                        counter = flashcards.size()-1;
+                    }
                     break;
                 case "ds":
                     if(doSet==false)doSet=true;
@@ -257,6 +266,14 @@ public class Main {
                     saveStatus();
                     addNewFlashcard(userInput);
                     break;
+                case "ec":
+                    System.out.println(flashcards.get(actualIndexForUse) + " " + answers.get(actualIndexForUse));
+                    flashcards.remove(actualIndexForUse);
+                    answers.remove(actualIndexForUse);
+                    streaks.remove(actualIndexForUse);
+                    saveStatus();
+                    addNewFlashcard(userInput);
+                    break;
                 case "rev":
                     reverseQuestionsAndAnswers();
                     break;
@@ -287,8 +304,14 @@ public class Main {
                     }
 
                     //check for definitions
+                    if(userInput.length()>5 && userInput.substring(0,5).equals("defi ")){
+                        boolean internet = true;
+                        define(internet, userInput.substring(5,userInput.length()), userInputOriginalCopy.substring(5,userInputOriginalCopy.length()));
+                        break;
+                    }
                     if(userInput.length()>4 && userInput.substring(0,4).equals("def ")){
-                        define(userInput.substring(4,userInput.length()), userInputOriginalCopy.substring(4,userInputOriginalCopy.length()));
+                        boolean internet = false;
+                        define(internet, userInput.substring(4,userInput.length()), userInputOriginalCopy.substring(4,userInputOriginalCopy.length()));
                         break;
                     }
                     if(userInput.length()>5 && userInput.substring(0,5).equals("konj ")){
@@ -296,20 +319,39 @@ public class Main {
                         break;
                     }
 
+                    //check for duplicates. If a duplicate exists say that it's correct, but not what the program wanted
+                    int duplicates = 0;
+                    boolean wrongAnswer = true;
+                    for(int i=0; i<flashcards.size(); i++){
+                        if(flashcards.get(i).equals(flashcards.get(actualIndexForUse))){
+                            duplicates++;
+                        }
+                    }
                     if(userInput.equals(answers.get(actualIndexForUse))){
-                        System.out.printf("Correct; %s=%s%n",flashcards.get(actualIndexForUse),userInput);
+                        wrongAnswer = false;
+                        System.out.printf("Correct; %s=%s%n",unChingCheng(flashcards.get(actualIndexForUse)),unChingCheng(userInputOriginalCopy));
                         streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
-                    } else {
-                        System.out.println("Wrong/////////; Correct answer: " + answers.get(actualIndexForUse) + "         Your answers: " + userInputOriginalCopy);
+                        counter++;
+                        if(counter>=answers.size()){
+                            counter=0;
+                            generateSeed();
+                        }
+                    } else if(duplicates>1){
+                        for(int i=0; i<answers.size(); i++){
+                            if(flashcards.get(i).equals(flashcards.get(actualIndexForUse))){
+                                if(userInput.equals(answers.get(i))){
+                                    System.out.println("Also correct, but not what the program wanted. Try again.");
+                                    wrongAnswer = false;
+                                }
+                            }
+                        }
+                    }
+                    if(wrongAnswer){
+                        System.out.println("Duplicates = " + duplicates);
+                        System.out.println("Wrong/////////; Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "         Your answers: " + unChingCheng(userInputOriginalCopy));
                         streaks.set(actualIndexForUse, -1);
-                        counter--;
                     }
                     saveStatus();
-                    counter++;
-                    if(counter>=answers.size()){
-                        counter=0;
-                        generateSeed();
-                    }
                     break;
             }
             saveStatus();
@@ -728,17 +770,22 @@ public class Main {
         writer.close();
     }
 
-    void define(String userInput, String originalInput){
-        for(int i=0; i<flashcards.size(); i++){
-            if(flashcards.get(i).equals(userInput)){
-                System.out.println(userInput + " = " + answers.get(i));
-                return;
-            } else if(answers.get(i).equals(userInput)){
-                System.out.println(userInput + " = " + flashcards.get(i));
-                return;
+    void define(boolean internet, String userInput, String originalInput){
+        if(!internet){
+            for(int i=0; i<flashcards.size(); i++){
+                String toPrint = "";
+                if(flashcards.get(i).equals(userInput)){
+                    toPrint = userInput + " = " + answers.get(i);
+                } else if(answers.get(i).equals(userInput)){
+                    toPrint = userInput + " = " + flashcards.get(i);
+                }
+                if(toPrint.length()>0){
+                    System.out.println(unChingCheng(toPrint));
+                    return;
+                }
             }
+            System.out.println("Couldn't find that flashcard.");
         }
-        System.out.println("Couldn't find that flashcard.");
         System.out.println("Searching web.");
         String toPrint = unChingCheng(originalInput);
         toPrint = recodeIntoWebsiteSymbols(toPrint);

@@ -125,9 +125,13 @@ public class KonjugateWord{
         for(int i=0; i<prasenFolds.length; i++){
             int wordLength = prasenFolds[i].length();
             int tabAmount = 0;
-            while(wordLength>0){
+            while(wordLength>=0){
                 wordLength-=8;
                 tabAmount++;
+                if(tabAmount > 10000){
+                    System.out.println("Somehow magically got stuck in while loop");
+                    return;
+                }
             }
             allTabs[i] = tabAmount;
             if(tabAmount > maxTabs){
@@ -138,11 +142,18 @@ public class KonjugateWord{
             }
         }
         int tabDiff = maxTabs - minTabs;
+        System.out.println("Maxtabs: " + maxTabs);
+        System.out.println("Got tab amount:");
+        for(int i=0; i<allTabs.length; i++){
+            System.out.println("Tabs " + i + " = " + allTabs[i]);
+        }
+        System.out.println("Amount of prasen fold = " + prasenFolds.length);
 
         //new system:
         StringBuilder sb = new StringBuilder("");
         sb.append(input + "\t\t\t" + habeOrSind + perfekt + "\n\n");
         for(int i=0; i<prasenFolds.length; i++){
+            System.out.println("The forloop that's supposed to go 6 times");
             switch(i){
                 case 0: sb.append("ich"); break;
                 case 1: sb.append("du"); break;
@@ -153,7 +164,7 @@ public class KonjugateWord{
                 default: sb.append("Something went wrong when finding folds."); break;
             }
             sb.append("\t" + prasenFolds[i] + "\t\t");
-            for(int j=0; i<maxTabs-allTabs[i]; j++){
+            for(int j=0; j<maxTabs-allTabs[i]; j++){
                 sb.append("\t");
             }
             sb.append(prateriumFolds[i]);

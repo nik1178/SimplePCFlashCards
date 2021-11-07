@@ -247,3 +247,60 @@ das fieber@vročina@0
 der schmerz@bolečina@0
 treffen@srečati@0
 stürzte@stürzen pr.@0
+razumeti@verstehen@0
+stopati@treten@0
+ureznina@der schnitt@0
+prinesti@holen@0
+govoriti@reden@0
+zmagati@siegen@0
+pripovedovati@erza:hlen@0
+zlom@a verstauchung@0
+praska@der bruch@0
+premikati@die schramme@0
+trk@bewegen@0
+domac^a naloga@der zusammenstos:@0
+helfen pr.@die hausaufgabe@0
+smejati@half@0
+laufen pr.@lachen@0
+geben pr.@lief@0
+dovolj@gab@0
+nikoli@genug@0
+junak@niemals@0
+res^ilec@der held@0
+zmaga@der rettungswagen@0
+zmagovalec@der sieg@0
+kaj?@der sieger@0
+kako/koliko?@was@0
+kdo?@wie@0
+kje?@wer@0
+kdaj?@wo@0
+ko/c^e@wann@0
+kam?@wenn@0
+od kod?@wohin@0
+zakaj?@woher@0
+pasti@warum@0
+vroc^ina@stu:rzen@0
+boleti@das fieber@0
+bolec^ina@schmerzen@0
+mazilo@der schmerz@0
+gips@die salbe@0
+povoj@der gips@0
+zlomljen@der verband@0
+na/pri/ob@gebrochen@0
+srec^ati@am@0
+grmeti@treffen@0
+bliskati@donnern@0
+stu:rzen pr.@blitzen@0
+boleti@stu:rzte@0
+tut pr.@wehtun@0
+razumeti@tat@0
+stopati@verstehen@0
+ureznina@treten@0
+zvin@die verstauchung@0
+premikati@bewgen@0
+govoriti@sprechen@0
+vlec^i@ziehen@0
+nikoli@nie@0
+entscheiden pr.@entschied@0
+poslati@schicken@0
+gledati@sehen@0
