@@ -87,6 +87,7 @@ public class Main {
                 seed.add(currentNum);
             }
         }
+        System.out.println("Generated new seed.");
     }
     int streakLimit = 3;
     boolean doSet = false;
@@ -220,6 +221,12 @@ public class Main {
                         if(answers.get(i).substring(answers.get(i).length()-3, answers.get(i).length()).equals("pr.")){
                             set.add(i);
                         }
+                    }
+                    break;
+                case "m 0":
+                    set.clear();
+                    for(int i=0; i<streaks.size(); i++){
+                        if(streaks.get(i)==0) set.add(i);
                     }
                     break;
                 case "ca":

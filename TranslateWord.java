@@ -154,7 +154,7 @@ public class TranslateWord{
                     }
                 }
             } else if(language.equals("ger")){
-                for(int i=0; i<splitOutput[getFind].length()-genderKeyWords[2].length(); i++){
+                for(int i=0; i<splitOutput[getFind-1].length()-genderKeyWords[2].length(); i++){
                     if(output.substring(i,i+genderKeyWords[0].length()).equals(genderKeyWords[0])){
                         gerGender = "der";
                         break;
