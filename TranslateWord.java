@@ -171,7 +171,32 @@ public class TranslateWord{
         }
 
         System.out.println();
+
+        gerWord = unChingCheng(gerWord);
+        this.input = unChingCheng(this.input);
+
         if(language.equals("slo")) System.out.println(this.input + " = " + gerGender +gerWord);
         else if(language.equals("ger")) System.out.println(gerGender + this.input + " = " + gerWord);
+    }
+    String unChingCheng(String toPrint) {
+        for(int i=0; i<toPrint.length()-5; i++){
+            if(toPrint.charAt(i)=='%'){
+                String currentSymbols = toPrint.substring(i, i+6);
+                char newLetter = '/';
+                System.out.println(currentSymbols + " <--- current detected unknown symbols in TranslateWord");
+                switch(currentSymbols){
+                    case "%C3%A4": newLetter = 'ä'; break;
+                    case "%C3%BC": newLetter = 'ü'; break;
+                    case "%C3%B6": newLetter = 'ö'; break;
+                    case "%C3%9F": newLetter = 'ß'; break;
+                    case "%C4%8D": newLetter = 'č'; break;
+                    case "%C5%A1": newLetter = 'š'; break;
+                    case "%C5%BE": newLetter = 'ž'; break;
+                    default: System.out.println("New unrecognized symbol"); break;
+                }
+                toPrint = toPrint.substring(0, i) + newLetter + toPrint.substring(i+6);
+            }
+        }
+        return toPrint;
     }
 }  

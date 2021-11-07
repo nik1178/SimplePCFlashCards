@@ -6,28 +6,28 @@
     <meta name="p:domain_verify" content="ac38cd16f883ac251f3baf3806dfb628"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="Cache-Control" content="private, max-age=0, must-revalidate"/>
-<link rel="canonical" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen" />
+<link rel="canonical" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1" />
     <link rel="manifest" href="/manifest.json" crossorigin="use-credentials"/>
-    <meta name="description" content="Tu si lahko ogledate prevod nem&scaron;čina-sloven&scaron;čina za streichen v PONS spletnem slovarju! Brezplačna jezikovna vadnica, tabele sklanjatev, funkcija izgovorjave."/>
-<meta name="keywords" content="Streich, streichen, Schabernack, Wind, umherstreifen, Stoff, Haare, Butter, Br&ouml;tchen, entfernen, durch ein Sieb, Plan, Auftrag, Zuschuss, Schlag, dar&uuml;ber , potepati se, potikati se po, pogladiti se po, zvrhana žlica moke, pihljati, pleskati"/>
-<link rel="alternate" hreflang="de" href="https://de.pons.com/%C3%BCbersetzung/deutsch-slowenisch/streichen" />
-<link rel="alternate" hreflang="ru" href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/streichen" />
-<link rel="alternate" hreflang="pt" href="https://pt.pons.com/tradu%C3%A7%C3%A3o/alem%C3%A3o-esloveno/streichen" />
-<link rel="alternate" hreflang="bg" href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8/streichen" />
-<link rel="alternate" hreflang="el" href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC-%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC/streichen" />
-<link rel="alternate" hreflang="en" href="https://en.pons.com/translate/german-slovenian/streichen" />
-<link rel="alternate" hreflang="it" href="https://it.pons.com/traduzione/tedesco-sloveno/streichen" />
-<link rel="alternate" hreflang="fr" href="https://fr.pons.com/traduction/allemand-slov%C3%A8ne/streichen" />
-<link rel="alternate" hreflang="es" href="https://es.pons.com/traducci%C3%B3n/alem%C3%A1n-esloveno/streichen" />
-<link rel="alternate" hreflang="zh" href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E5%BE%B7%E8%AF%AD-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD/streichen" />
-<link rel="alternate" hreflang="sl" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen" />
-<link rel="alternate" hreflang="pl" href="https://pl.pons.com/t%C5%82umaczenie/niemiecki-s%C5%82owe%C5%84ski/streichen" />
-<link rel="alternate" hreflang="tr" href="https://tr.pons.com/%C3%A7eviri/almanca-slovence/streichen" />
-<link rel="alternate" hreflang="sr" href="https://sr.pons.com/prevo%C4%91enje/nema%C4%8Dki-slovena%C4%8Dki/streichen" />
+    <meta name="description" content="Tu si lahko ogledate prevod sloven&scaron;čina-nem&scaron;čina za mi&scaron; v PONS spletnem slovarju! Brezplačna jezikovna vadnica, tabele sklanjatev, funkcija izgovorjave."/>
+<meta name="keywords" content="m&igrave;&scaron;, otro&scaron;ka igra, Maus, M&auml;use z&auml;hlt man zu den Nagetieren, Blindekuh spielen, weder Fisch noch Fleisch sein, arm wie eine Kirchenmaus sein, ist die Katze aus dem Haus, tanzen die M&auml;use"/>
+<link rel="alternate" hreflang="de" href="https://de.pons.com/%C3%BCbersetzung/slowenisch-deutsch/mi%C5%A1" />
+<link rel="alternate" hreflang="ru" href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9/mi%C5%A1" />
+<link rel="alternate" hreflang="pt" href="https://pt.pons.com/tradu%C3%A7%C3%A3o/esloveno-alem%C3%A3o/mi%C5%A1" />
+<link rel="alternate" hreflang="bg" href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8/mi%C5%A1" />
+<link rel="alternate" hreflang="el" href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC-%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/mi%C5%A1" />
+<link rel="alternate" hreflang="en" href="https://en.pons.com/translate/slovenian-german/mi%C5%A1" />
+<link rel="alternate" hreflang="it" href="https://it.pons.com/traduzione/sloveno-tedesco/mi%C5%A1" />
+<link rel="alternate" hreflang="fr" href="https://fr.pons.com/traduction/slov%C3%A8ne-allemand/mi%C5%A1" />
+<link rel="alternate" hreflang="es" href="https://es.pons.com/traducci%C3%B3n/esloveno-alem%C3%A1n/mi%C5%A1" />
+<link rel="alternate" hreflang="zh" href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD-%E5%BE%B7%E8%AF%AD/mi%C5%A1" />
+<link rel="alternate" hreflang="sl" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1" />
+<link rel="alternate" hreflang="pl" href="https://pl.pons.com/t%C5%82umaczenie/s%C5%82owe%C5%84ski-niemiecki/mi%C5%A1" />
+<link rel="alternate" hreflang="tr" href="https://tr.pons.com/%C3%A7eviri/slovence-almanca/mi%C5%A1" />
+<link rel="alternate" hreflang="sr" href="https://sr.pons.com/prevo%C4%91enje/slovena%C4%8Dki-nema%C4%8Dki/mi%C5%A1" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 <meta name="apple-itunes-app" content="app-id=577741918"/>
 
-    <title>streichen - nemščina-slovenščina prevod | PONS</title>
+    <title>miš - slovenščina-nemščina prevod | PONS</title>
     <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro.woff" as="font" crossorigin="anonymous"/>
 <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro-Medium.woff" as="font" crossorigin="anonymous"/>
 <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro-Italic.woff" as="font" crossorigin="anonymous"/>
@@ -36,20 +36,20 @@
 <script type="text/javascript">
 //<![CDATA[
   window.Infos = {
-    "time": new Date(2021, (11-1), 6, 19, 48, 37),
+    "time": new Date(2021, (11-1), 7, 9, 3, 28),
     "dictionary": "desl",
-    "source_language": "de",
+    "source_language": "sl",
     "lingenio": false,
-    "searchTerm": "streichen",
+    "searchTerm": "miš",
     "pathParts": {    "translate": "prevod",
     "de": "nemščina-slovenščina",
     "sl": "slovenščina-nemščina",
     "last": "last"
 },
     "adRegion": "SI",
-    "adNbMPUs": 4,
+    "adNbMPUs": 1,
     "country": "SI",
-    "pageName": "\/catalogue\/results\/desl\/de",
+    "pageName": "\/catalogue\/results\/desl\/sl",
     "pageType": "dict_catalogue_result",
     "isSuggestions": false,
     "userLocale": "sl",
@@ -61,8 +61,8 @@
     "rp18Enabled": false,
     "isCmpEnabled": true,
     "cmpProvider": "ONETRUST",
-    "translations": 22,
-    "instance": "dict-15",
+    "translations": 6,
+    "instance": "dict-12",
     "env": "PRODUCTION",
     "cacheBuster": "1635852099",
     "trainerHomePage": "https://trainer.pons.com",
@@ -614,7 +614,7 @@ var ponsAdKeywords="";
     };
 
     // tr
-    dataLayerObj['WbSprache']='de';
+    dataLayerObj['WbSprache']='sl';
 
     if (window.Infos.user) {
       dataLayerObj['UserID']=window.Infos.userHash;
@@ -1651,7 +1651,7 @@ var ponsAdKeywords="";
     <form class="form-inline search" action="/prevod" method="get">
   <div id="qKeyboardPlacer" class="input-append">
     <div class="containerSearch">
-      <input id="q" class="pons-search-input" name="q" type="text" placeholder="Najdi" value="streichen" data-pons-redirect-input="true" data-pons-autofocus="true" autocomplete="off"/>
+      <input id="q" class="pons-search-input" name="q" type="text" placeholder="Najdi" value="miš" data-pons-redirect-input="true" data-pons-autofocus="true" autocomplete="off"/>
       <span class="clearInput camoflage headerbutton mobileOnly ">
         <svg id="input-clear" class="cross-svg" viewBox="0 0 24 24">
           <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
@@ -1662,13 +1662,13 @@ var ponsAdKeywords="";
     <span id="dict-indicator" class="camoflage headerbutton mobileOnly">
       <div id="flags-holder" class="">
         <span class="fromspan">
-          <i id="from-flag" class="flag flag_de"></i>
-          DE
+          <i id="from-flag" class="flag flag_sl"></i>
+          SL
         </span>
         <br/>
         <span class="tospan ">
-          <i id="to-flag" class="flag flag_sl"></i>
-          SL
+          <i id="to-flag" class="flag flag_de"></i>
+          DE
         </span>
         <br/>
       </div>
@@ -1878,10 +1878,10 @@ var ponsAdKeywords="";
   </select>
   <div class="jsselect2">
     <div class="btn-group source"
- data-pons-lang="de"    >
+ data-pons-lang="sl"    >
     <button class="btn dropdown-toggle" data-toggle="dropdown">
       <span class="text">
-nemščina        <i class="icon-angle-down"></i>
+slovenščina        <i class="icon-angle-down"></i>
       </span>
     </button>
     </div>
@@ -1921,10 +1921,10 @@ nemščina        <i class="icon-angle-down"></i>
         </li>
       </ul>
     </div>
-    <div class="btn-group target" data-pons-lang="sl">
+    <div class="btn-group target" data-pons-lang="de">
       <button class="btn dropdown-toggle" data-toggle="dropdown">
         <span class="text">
-slovenščina          <i class="icon-angle-down"></i>
+nemščina          <i class="icon-angle-down"></i>
         </span>
       </button>
     </div>
@@ -1990,26 +1990,21 @@ slovenščina          <i class="icon-angle-down"></i>
       <meta itemprop="position" content="1"/>
     </li>
     <li itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="item" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina">
+      <a itemprop="item" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina">
         <span itemprop="name">
-          nemško » slovenski
+          slovensko » nemški
         </span>
       </a>
       <meta itemprop="position" content="2"/>
     </li>
     <li>
-      <a href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/-/S">
-        S
-      </a>
-    </li>
-    <li>
-      <a href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/-/stre">
-        stre
+      <a href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/-/M">
+        M
       </a>
     </li>
     <li itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement">
       <span itemprop="name">
-        streichen
+        miš
       </span>
       <meta itemprop="position" content="3"/>
     </li>
@@ -2025,485 +2020,139 @@ slovenščina          <i class="icon-angle-down"></i>
 
     <div id="desl" class="result_list result-list-v1 with_examples">
 
-<div id="de" class="lang first">
+<div id="sl" class="lang first">
   <div class="mobileOnly mockMobileStyle">
     <div class="mobileCaption">
-      nemško » slovenski
+      slovensko » nemški
     </div>
   </div>
   <div>
     <div class="lang_dir">
-      <span class="flag flag_de" title="nemščina"></span>
-      <i class="icon-double-angle-right"></i>
       <span class="flag flag_sl" title="slovenščina"></span>
+      <i class="icon-double-angle-right"></i>
+      <span class="flag flag_de" title="nemščina"></span>
     </div>
     <h1 class="lang_header">
-      Prevodi za &bdquo;<em>streichen</em>&ldquo; v slovarju nemško » slovenski
+      Prevodi za &bdquo;<em>miš</em>&ldquo; v slovarju slovensko » nemški
       <span>
-        (Skoči na <a rel='nofollow' href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/streichen'>slovensko » nemški</a>)
+        (Skoči na <a rel='nofollow' href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/mi%C5%A1'>nemško » slovenski</a>)
       </span>
     </h1>
-    <div class="results-header">
-      <a href="#toc" data-toggle="collapse">
-  Pokaži vse zadetke
-  <i class="icon-angle-down"></i>
-</a>
-<dl id="toc" class="collapse dl-horizontal">
-  <dt class="_entry_title">
-    <a href="#Edesl16306152">
-      streichen
-    </a>
-  </dt>
-  <dd>
-    <a href="#Rdesl16306153">
-      <span class="roman">I.</span>
-      neprehodni glagol
-    </a>
-    <a href="#Rdesl16306161">
-      <span class="roman">II.</span>
-      prehodni glagol
-    </a>
-  </dd>
-  <dt class="_entry_title">
-    <a href="#Edesl16306134">
-      Streich
-    </a>
-  </dt>
-  <dd>
-    <a href="#Rdesl16306135">
-      
-      samostalnik
-    </a>
-  </dd>
-</dl>
-
-    </div>
     
   </div>
   
   <div class="results">
     
-<div id="Edesl16306152" class="entry first" rel="streichen">
+<div id="Edesl15564223" class="entry first" rel="mìš">
   <div class="rom first">
-    <div id="Rdesl16306153" class="romhead">
+    <div id="Rdesl15564224" class="romhead">
       <h2 class="">
-        <span class="roman">
-          I
-          .
-        </span>
-streichen   <span class="flexion">&lt;streicht, strich, gestrichen&gt;</span>  <span class='phonetics'>[ˈʃtraɪç͂ən]</span> <span class="wordclass"><acronym title="glagol">GLAG.</acronym></span> <span class="verbclass"><acronym title="neprehoden glagol">nepreh. glag.</acronym></span>      </h2>
-      <ul class="inline romhead-options desktopOnly">
-<a class="flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Header" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/streichen?r=16306153&l=desl" rel="nofollow"><i class="icon-columns" title="Prikaži razpredelnico z glagolom"></i> </a>        <li class="dropdown romhead-options-info">
-<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"sy","t":"&amp;nbsp;Kliknite tukaj za prikaz sinonimov besede streichen."},{"s":"fb","t":"&amp;nbsp;Predlogi za streichen"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
-      </ul>
-    </div>
-<div class="link-examples-toolbar" style="padding-bottom: 10px"><a class="link-examples flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_inline" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/streichen?r=16306153&l=desl" rel="nofollow"><i class="icon-columns"></i> Prikaži razpredelnico z glagolom</a></div>    <div id="Adesl16306154" class="translations first">
-      <h3 class="">
-1. streichen <span class="auxiliary_verb">+sein</span> <span class="sense">(umherstreifen)</span>:      </h3>
-      <dl id="Tdesl16306155" class="dl-horizontal kne first" data-translation="0">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/potepati'>potepati</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl16306156" class="dl-horizontal kne" data-translation="1">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong> <span class="complement"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/durch'>durch</a></span> <span class="object-case">+<acronym title="tožilnik">tož.</acronym></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/potikati'>potikati</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <span class="complement"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/po'>po</a></span> <span class="object-case"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/%2Blok'>+lok</a></span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-    <div id="Adesl16306157" class="translations">
-      <h3 class="">
-2. streichen <span class="sense">(darüber <strong class="tilde">streichen</strong>)</span>:      </h3>
-      <dl id="Tdesl16306158" class="dl-horizontal kne first" data-translation="2">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong> <span class="complement"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/durch'>durch</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/%C3%BCber'>über</a></span> <span class="object-case">+<acronym title="tožilnik">tož.</acronym></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pogladiti'>pogladiti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <span class="complement"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/po'>po</a></span> <span class="object-case"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/%2Blok'>+lok</a></span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890562" class="dl-horizontal kne" data-translation="3">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ein'>ein</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gestrichener'>gestrichener</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Essl%C3%B6ffel'>Esslöffel</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Mehl'>Mehl</a></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zvrhana'>zvrhana</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/%C5%BElica'>žlica</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/moke'>moke</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_1' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_1'); });</script>    </div>  </div></div>    <div id="Adesl16306159" class="translations">
-      <h3 class="">
-3. streichen <span class="sense">(Wind)</span>:      </h3>
-      <dl id="Tdesl16306160" class="dl-horizontal kne first" data-translation="4">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pihljati'>pihljati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zapihljati'>zapihljati</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-  </div>
-  <div class="rom">
-    <div id="Rdesl16306161" class="romhead">
-      <h2 class="">
-        <span class="roman">
-          II
-          .
-        </span>
-streichen   <span class="flexion">&lt;streicht, strich, gestrichen&gt;</span>  <span class='phonetics'>[ˈʃtraɪç͂ən]</span> <span class="wordclass"><acronym title="glagol">GLAG.</acronym></span> <span class="verbclass"><acronym title="prehoden glagol">preh. glag.</acronym></span>      </h2>
-      <ul class="inline romhead-options desktopOnly">
-<a class="flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Header" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/streichen?r=16306161&l=desl" rel="nofollow"><i class="icon-columns" title="Prikaži razpredelnico z glagolom"></i> </a>        <li class="dropdown romhead-options-info">
-<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"sy","t":"&amp;nbsp;Kliknite tukaj za prikaz sinonimov besede streichen."},{"s":"fb","t":"&amp;nbsp;Predlogi za streichen"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
-      </ul>
-    </div>
-<div class="link-examples-toolbar" style="padding-bottom: 10px"><a class="link-examples flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_inline" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/streichen?r=16306161&l=desl" rel="nofollow"><i class="icon-columns"></i> Prikaži razpredelnico z glagolom</a></div>    <div id="Adesl16306162" class="translations first">
-      <h3 class="">
-1. streichen <span class="sense">(<strong class="tilde">anstreichen</strong>)</span>:      </h3>
-      <dl id="Tdesl16306163" class="dl-horizontal kne first" data-translation="5">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pleskati'>pleskati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prepleskati'>prepleskati</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890563" class="dl-horizontal kne" data-translation="6">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/frisch'>frisch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gestrichen'>gestrichen</a>!</span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/sve%C5%BEe'>sveže</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pleskano'>pleskano</a>!    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-    <div id="Adesl16306164" class="translations">
-      <h3 class="">
-2. streichen:      </h3>
-      <dl id="Tdesl16306165" class="dl-horizontal kne first" data-translation="7">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong> <span class="sense">(<strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/durchstreichen'>durchstreichen</a></strong>)</span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/%C4%8Drtati'>črtati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C4%8Drtati'>prečrtati</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890564" class="dl-horizontal kne" data-translation="8">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong> <span class="sense">(<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Zuschuss'>Zuschuss</a>)</span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<span class="perf-only"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/odpovedati'>odpovedati</a></span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890565" class="dl-horizontal kne" data-translation="9">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong> <span class="sense">(<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Plan'>Plan</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Auftrag'>Auftrag</a>)</span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<span class="perf-only"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/preklicati'>preklicati</a></span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890566" class="dl-horizontal kne" data-translation="10">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Nichtzutreffendes'>„Nichtzutreffendes</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen“</a></strong></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/neustrezno'>neustrezno</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C4%8Drtajte'>prečrtajte</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_2' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_2'); });</script>    </div>  </div></div>    <div id="Adesl16306166" class="translations">
-      <h3 class="">
-3. streichen <span class="sense">(Butter, Brötchen)</span>:      </h3>
-      <dl id="Tdesl16306167" class="dl-horizontal kne first" data-translation="11">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mazati'>mazati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/namazati'>namazati</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-    <div id="Adesl16306168" class="translations">
-      <h3 class="">
-4. streichen <span class="sense">(entfernen)</span>:      </h3>
-      <dl id="Tdesl15890567" class="dl-horizontal kne first" data-translation="12">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<span class="perf-only"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/izbrisati'>izbrisati</a></span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-    <div id="Adesl16306169" class="translations">
-      <h3 class="">
-5. streichen <span class="sense">(Stoff, Haare)</span>:      </h3>
-      <dl id="Tdesl16306370" class="dl-horizontal kne first" data-translation="13">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gladiti'>gladiti</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl16306371" class="dl-horizontal kne" data-translation="14">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pogladiti'>pogladiti</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15890568" class="dl-horizontal kne" data-translation="15">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<span class="idiom_proverb"><acronym title="etwas"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/etw'>etw</a></acronym> (<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/mit'>mit</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/der'>der</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Hand'>Hand</a>) <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/glatt'>glatt</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pogladiti'>pogladiti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kaj'>kaj</a> (z <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/roko'>roko</a>)    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_3' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_3'); });</script>    </div>  </div></div>    <div id="Adesl16306372" class="translations">
-      <h3 class="">
-6. streichen <span class="sense">(durch ein Sieb)</span>:      </h3>
-      <dl id="Tdesl16306373" class="dl-horizontal kne first" data-translation="16">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pasirati'>pasirati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prepasirati'>prepasirati</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-  </div>
-</div>
-    
-<div id="Edesl16306134" class="entry" rel="Streich">
-  <div class="rom first">
-    <div id="Rdesl16306135" class="romhead">
-      <h2 class="">
-Streich   <span class="flexion">&lt;-(e)s, -e&gt;</span>  <span class='phonetics'>[ʃtraɪç͂]</span> <span class="wordclass"><acronym title="samostalnik">SAM.</acronym></span> <span class="genus"><acronym title="moški spol">m. spol</acronym></span>      </h2>
+mìš   <span class="flexion">&lt;míši, míši, míši&gt;</span>  <span class="wordclass"><acronym title="samostalnik">SAM.</acronym></span> <span class="genus"><acronym title="ženski spol">ž. spol</acronym></span>      </h2>
       <ul class="inline romhead-options desktopOnly">
         <li class="dropdown romhead-options-info">
-<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"sy","t":"&amp;nbsp;Kliknite tukaj za prikaz sinonimov besede Streich."},{"s":"fb","t":"&amp;nbsp;Predlogi za Streich"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
+<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"fb","t":"&amp;nbsp;Predlogi za m&amp;igrave;&amp;scaron;"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
       </ul>
     </div>
-    <div id="Adesl16306136" class="translations first">
+    <div id="Adesl15564225" class="translations first">
       <h3 class="">
-1. Streich <span class="style"><acronym title="uradno, litearno">ur.</acronym></span> <span class="sense">(Schlag)</span>:      </h3>
-      <dl id="Tdesl16306137" class="dl-horizontal kne first" data-translation="17">
+1. miš <span class="topic"><acronym title="zoologija">ZOOL.</acronym></span>:      </h3>
+      <dl id="Tdesl15564226" class="dl-horizontal kne first" data-translation="0">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Streich'>Streich</a></strong>    </div>
+<strong class="headword"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a></strong>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/udar'>udar</a> <span class="genus"><acronym title="moški spol">m. spol</acronym></span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <span class="genus"><acronym title="ženski spol">ž. spol</acronym></span>    </div>
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+  </dd>
+<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
+
+      <dl id="Tdesl15423544" class="dl-horizontal kne" data-translation="1">
+  <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
 <li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+    <div class="source">
+<span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1i'>mìši</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/uvr%C5%A1%C4%8Damo'>uvrščamo</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/med'>med</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/glodavce'>glodavce</a></span>    </div>
+  </dt>
+  <dd class="dd-inner">
+    <div class="target">
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/M%C3%A4use'>Mäuse</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/z%C3%A4hlt'>zählt</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/man'>man</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/zu'>zu</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/den'>den</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Nagetieren'>Nagetieren</a>    </div>
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
       
     </div>
-    <div id="Adesl16306138" class="translations">
+    <div id="Adesl15564227" class="translations">
       <h3 class="">
-2. Streich <span class="sense">(Schabernack)</span>:      </h3>
-      <dl id="Tdesl16306139" class="dl-horizontal kne first" data-translation="18">
+2. miš <span class="sense">(otroška igra)</span>:      </h3>
+      <dl id="Tdesl15423545" class="dl-horizontal kne first" data-translation="2">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Streich'>Streich</a></strong>    </div>
+<span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/igrati'>igrati</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/slepe'>slepe</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1i'>mìši</a></strong></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nor%C4%8Dije'>norčije</a> <span class="genus"><acronym title="ženski spol">ž. spol</acronym></span> <span class="number"><acronym title="množina">mn.</acronym></span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Blindekuh'>Blindekuh</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/spielen'>spielen</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      <dl id="Tdesl16306140" class="dl-horizontal kne" data-translation="19">
+      
+    </div>
+    <div id="Adesl15564228" class="translations">
+      <h3 class="">
+3. miš:      </h3>
+      <dl id="Tdesl15423546" class="dl-horizontal kne first" data-translation="3">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Streich'>Streich</a></strong>    </div>
+<span class="rhetoric"><acronym title="figurativno">fig.</acronym></span> <span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/biti'>biti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ti%C4%8D'>tič</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a>  <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1'>mìš</a></strong></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/%C5%A1ala'>šala</a> <span class="genus"><acronym title="ženski spol">ž. spol</acronym></span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weder'>weder</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Fisch'>Fisch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/noch'>noch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Fleisch'>Fleisch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sein'>sein</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      <dl id="Tdesl15890554" class="dl-horizontal kne" data-translation="20">
+      <dl id="Tdesl15423547" class="dl-horizontal kne" data-translation="4">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/jmdm'>jmdm</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/einen'>einen</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Streich'>Streich</a></strong> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/spielen'>spielen</a></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span>    </div>
+<span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/reven'>reven</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kot'>kot</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/cerkvena'>cerkvena</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1'>mìš</a></strong></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zagosti'>zagosti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/jo'>jo</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/komu'>komu</a>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/arm'>arm</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wie'>wie</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/eine'>eine</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Kirchenmaus'>Kirchenmaus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sein'>sein</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      <dl id="Tdesl15890555" class="dl-horizontal kne" data-translation="21">
+      <dl id="Tdesl15423548" class="dl-horizontal kne" data-translation="5">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/da'>da</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/hat'>hat</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/mir'>mir</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/mein'>mein</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Ged%C3%A4chtnis'>Gedächtnis</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/einen'>einen</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Streich'>Streich</a></strong> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gespielt'>gespielt</a></span>    </div>
+<span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kadar'>kadar</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ma%C4%8Dke'>mačke</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ni'>ni</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/doma'>doma</a>, <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1i'>mìši</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ple%C5%A1ejo'>plešejo</a></span> <span class="rhetoric"><acronym title="pregovor">preg.</acronym></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/moj'>moj</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/spomin'>spomin</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/me'>me</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/tokrat'>tokrat</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pustil'>pustil</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/na'>na</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/cedilu'>cedilu</a>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ist'>ist</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Katze'>Katze</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/dem'>dem</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Haus'>Haus</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/tanzen'>tanzen</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/M%C3%A4use'>Mäuse</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
@@ -2511,7 +2160,7 @@ Streich   <span class="flexion">&lt;-(e)s, -e&gt;</span>  <span class='phonetics
     </div>
   </div>
 </div>
-<div id='ad_mpuslot_4'></div>    
+<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_1' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_1'); });</script>    </div>  </div></div>    
   </div>
   <!-- / .results -->
 </div>
@@ -2525,11 +2174,11 @@ Streich   <span class="flexion">&lt;-(e)s, -e&gt;</span>  <span class='phonetics
           
         </div>
         <div id="results-tab-examples" class="result-page-examples-template">
-          <div class="results-dict-examples pons content-box"><div class="content-inner"><h4>Primeri uporabe besede streichen</h4><dl class="dl-horizontal" id="Tdesl15890566"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Nichtzutreffendes'>„Nichtzutreffendes</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen“</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/neustrezno'>neustrezno</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C4%8Drtajte'>prečrtajte</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15730353"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/den'>den</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Bass'>Bass</a></strong> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/igrati'>igrati</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/bas'>bas</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15898987"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Unzutreffendes'>Unzutreffendes</a></strong> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/bitte'>bitte</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a>!</span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/neustrezno'>neustrezno</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C4%8Drtajte'>prečrtajte</a>!</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15845085"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Nichtzutreffendess'>Nichtzutreffendess</a></strong> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/bitte'>bitte</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/neustrezno'>neustrezno</a>, <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prosim'>prosim</a>, <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C4%8Drtajte'>prečrtajte</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15890568"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><acronym title="etwas"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/etw'>etw</a></acronym> (<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/mit'>mit</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/der'>der</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Hand'>Hand</a>) <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/glatt'>glatt</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen'>streichen</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pogladiti'>pogladiti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kaj'>kaj</a> (z <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/roko'>roko</a>)</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl></div></div><div id='ad_mpuslot_5'></div>
+          <div class="results-dict-examples pons content-box"><div class="content-inner"><h4>Primeri uporabe besede miš</h4><dl class="dl-horizontal" id="Tdesl15476296"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ma%C4%8Dka'>mačka</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ulov%C3%ADla'>ulovíla</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Katze'>Katze</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/hat'>hat</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/eine'>eine</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gefangen'>gefangen</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15423547"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/reven'>reven</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kot'>kot</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/cerkvena'>cerkvena</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1'>mìš</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/arm'>arm</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wie'>wie</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/eine'>eine</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Kirchenmaus'>Kirchenmaus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sein'>sein</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15453550"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ma%C4%8Dka'>mačka</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pre%C5%BEi'>preži</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/na'>na</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Katze'>Katze</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/lauert'>lauert</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/auf'>auf</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15466652"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/sp%C3%A1da'>spáda</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/med'>med</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/glodavce'>glodavce</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/geh%C3%B6rt'>gehört</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/zu'>zu</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/den'>den</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Nagetieren'>Nagetieren</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15423546"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="rhetoric"><acronym title="figurativno">fig.</acronym></span> <span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/biti'>biti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ti%C4%8D'>tič</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a>  <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AC%C5%A1'>mìš</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weder'>weder</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Fisch'>Fisch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/noch'>noch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Fleisch'>Fleisch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sein'>sein</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15420388"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zbe%C5%BEala'>zbežala</a> v <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/l%C3%BAknjo'>lúknjo</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/floh'>floh</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ins'>ins</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Loch'>Loch</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15423590"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pokukala'>pokukala</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/iz'>iz</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AD%C5%A1nice'>míšnice</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/guckte'>guckte</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/dem'>dem</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Mauseloch'>Mauseloch</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15423589"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1'>miš</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ujela'>ujela</a> v <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/m%C3%AD%C5%A1nico'>míšnico</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Maus'>Maus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/tappte'>tappte</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/in'>in</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/die'>die</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Mausefalle'>Mausefalle</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl></div></div><div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_2' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_2'); });</script>    </div>  </div></div>
 
         </div>
         <div id="tt-suggest-container" class="content-inner pons content-box">
-          <form class="tt-suggestion" accept-charset="utf-8" method="POST" action="https://sl.pons.com/prevod-besedišča"><input name="utf8" type="hidden" value="&#9760;" /><input type="hidden" name="source_language" value="de"/><input type="hidden" name="target_language" value="sl"/><input type="hidden" name="source" value="streichen"/><button type="submit" class="btn btn-primary tt-suggestion" rel="nofollow">Želite prevesti cel stavek? Potem uporabite "Prevajanje besedila". </button></form>
+          <form class="tt-suggestion" accept-charset="utf-8" method="POST" action="https://sl.pons.com/prevod-besedišča"><input name="utf8" type="hidden" value="&#9760;" /><input type="hidden" name="source_language" value="sl"/><input type="hidden" name="target_language" value="de"/><input type="hidden" name="source" value="mi&scaron;"/><button type="submit" class="btn btn-primary tt-suggestion" rel="nofollow">Želite prevesti cel stavek? Potem uporabite "Prevajanje besedila". </button></form>
 
           <div id="add-od">
   <p>
@@ -2541,7 +2190,7 @@ Streich   <span class="flexion">&lt;-(e)s, -e&gt;</span>  <span class='phonetics
   <br/>
   <form class="od" method="get" action="/open_dict/entries/new">
     <input type="hidden" name="l" value="desl"/>
-    <input type="hidden" name="q" value="streichen"/>
+    <input type="hidden" name="q" value="miš"/>
     <button class="btn btn-primary" type="submit">
       <i class="icon-plus-sign"></i>
       Dodaj nov prevod
@@ -2570,14 +2219,12 @@ Streich   <span class="flexion">&lt;-(e)s, -e&gt;</span>  <span class='phonetics
   </div>
 </div>
 
-<div id="widget_vocablist" class="widget"><div class="widget-header" id="trainer-import">
+<div id='right-sticky-container'><div id="widget_vocablist" class="widget"><div class="widget-header" id="trainer-import">
   <h4>Moja vadnica besedišča <a href="#" class="pull-right"><i class="icon-info-sign"></i></a></h4>
 </div>
 <div id="trainer-rows" class="widget-body" style="min-height: 64px">
   <!-- empty -->
-</div></div><div id='right-sticky-container'><div id="widget_flection_table_preview" class="widget"><div class="widget-header"><h4>Razpredelnica za glagol streichen</h4></div><div class="widget-body"><div id="flection_table" class="de"><div class="responsive_bs3"><div class="row">
-<div class="flection-row"><div class="flection-table col-xs-12 col-sm-6 col-md-3"><div class="ft-single-table"><table class="table"><tbody><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_1S">ich</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_1S">streiche</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_2S">du</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_2S">streichst</span></span></td></tr><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_3S">er/sie/es</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_3S">streicht</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_1P">wir</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_1P">streichen</span></span></td></tr><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_2P">ihr</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_2P">streicht</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_3P">sie</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_3P">streichen</span></span></td></tr></tbody></table><div class="ft-ellipsis-helper"></div></div></div></div>
-</div></div></div></div><div class="widget-footer"><a data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Widget" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/streichen"><i class="icon-chevron-sign-right"></i>Več</a></div></div>  <div id="ad_rightslot2">
+</div></div>  <div id="ad_rightslot2">
   <script type="text/javascript">
     iaw.cmd.push(function() { iaw.display("ad_rightslot2"); });
   </script>
@@ -2838,59 +2485,59 @@ Avtorske pravice &#169;  2001 - <span class="debug_switch">2021</span> ima PONS 
     <span id="locale_links">
   <br/>
   Stran
-  <a  href="https://de.pons.com/%C3%BCbersetzung/deutsch-slowenisch/streichen" class="de">
+  <a  href="https://de.pons.com/%C3%BCbersetzung/slowenisch-deutsch/mi%C5%A1" class="de">
   Deutsch
   </a>
   |
-  <a  href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8/streichen" class="bg">
+  <a  href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8/mi%C5%A1" class="bg">
   Български
   </a>
   |
-  <a  href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC-%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC/streichen" class="el">
+  <a  href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC-%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/mi%C5%A1" class="el">
   Ελληνικά
   </a>
   |
-  <a  href="https://en.pons.com/translate/german-slovenian/streichen" class="en">
+  <a  href="https://en.pons.com/translate/slovenian-german/mi%C5%A1" class="en">
   English
   </a>
   |
-  <a  href="https://es.pons.com/traducci%C3%B3n/alem%C3%A1n-esloveno/streichen" class="es">
+  <a  href="https://es.pons.com/traducci%C3%B3n/esloveno-alem%C3%A1n/mi%C5%A1" class="es">
   Español
   </a>
   |
-  <a  href="https://fr.pons.com/traduction/allemand-slov%C3%A8ne/streichen" class="fr">
+  <a  href="https://fr.pons.com/traduction/slov%C3%A8ne-allemand/mi%C5%A1" class="fr">
   Français
   </a>
   |
-  <a  href="https://it.pons.com/traduzione/tedesco-sloveno/streichen" class="it">
+  <a  href="https://it.pons.com/traduzione/sloveno-tedesco/mi%C5%A1" class="it">
   Italiano
   </a>
   |
-  <a  href="https://pl.pons.com/t%C5%82umaczenie/niemiecki-s%C5%82owe%C5%84ski/streichen" class="pl">
+  <a  href="https://pl.pons.com/t%C5%82umaczenie/s%C5%82owe%C5%84ski-niemiecki/mi%C5%A1" class="pl">
   Polski
   </a>
   |
-  <a  href="https://pt.pons.com/tradu%C3%A7%C3%A3o/alem%C3%A3o-esloveno/streichen" class="pt">
+  <a  href="https://pt.pons.com/tradu%C3%A7%C3%A3o/esloveno-alem%C3%A3o/mi%C5%A1" class="pt">
   Português
   </a>
   |
-  <a  href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/streichen" class="ru">
+  <a  href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9/mi%C5%A1" class="ru">
   Русский
   </a>
   |
-  <a  href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/streichen" class="sl">
+  <a  href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mi%C5%A1" class="sl">
   Slovenščina
   </a>
   |
-  <a  href="https://sr.pons.com/prevo%C4%91enje/nema%C4%8Dki-slovena%C4%8Dki/streichen" class="sr">
+  <a  href="https://sr.pons.com/prevo%C4%91enje/slovena%C4%8Dki-nema%C4%8Dki/mi%C5%A1" class="sr">
   Srpski
   </a>
   |
-  <a  href="https://tr.pons.com/%C3%A7eviri/almanca-slovence/streichen" class="tr">
+  <a  href="https://tr.pons.com/%C3%A7eviri/slovence-almanca/mi%C5%A1" class="tr">
   Türkçe
   </a>
   |
-  <a  href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E5%BE%B7%E8%AF%AD-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD/streichen" class="zh">
+  <a  href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD-%E5%BE%B7%E8%AF%AD/mi%C5%A1" class="zh">
   中文
   </a>
 <script type="text/javascript">
@@ -3000,7 +2647,7 @@ document.getElementById('locale_links').style.display = 'none';
             <input name="user_feedback[homepage]" size="30" type="text" value="http://pons.de/"/>
             <input class="entry_id" name="user_feedback[entry_id]" type="hidden"/>
             <input name="user_feedback[lang]" type="hidden" value="desl"/>
-            <input name="user_feedback[query]" type="hidden" value="streichen"/>
+            <input name="user_feedback[query]" type="hidden" value="miš"/>
           </div>
         </div>
       </form>
@@ -4284,32 +3931,4 @@ document.getElementById('locale_links').style.display = 'none';
       <li>
         <span class="flag flag_sv"></span>
         <span class="flag flag_de"></span>
-        <a title="švedsko ⇄ nemški" href="https://sl.pons.com/prevod/%C5%A1ved%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina">
-          švedsko ⇄ nemški
-        </a>
-      </li>
-    </ul>
-  </div>
-  <div class="dicts-category dicts-category-tr" style="display:none">
-    <div class="category-title">
-      turščina Slovarji
-    </div>
-    <ul class="bilingual-dicts">
-      <li>
-        <span class="flag flag_tr"></span>
-        <span class="flag flag_de"></span>
-        <a title="turško ⇄ nemški" href="https://sl.pons.com/prevod/tur%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina">
-          turško ⇄ nemški
-        </a>
-      </li>
-    </ul>
-  </div>
-  <div class="dicts-category dicts-category-lb" style="display:none">
-    <div class="category-title">
-      vilinščina Slovarji
-    </div>
-    <ul class="bilingual-dicts">
-      <li>
-        <span class="flag flag_lb"></span>
-        <span class="flag flag_de"></span>
-        <a title="vilinsko ⇄ nemški" href="https://sl.pons.com/prevod/vilin%C5%A1%C4%8Dina-nem%C5%A1%C4%8D
+        <a titl

@@ -162,24 +162,31 @@ public class KonjugateWord{
 
         String pasteReady = sb.toString();
         //Convert ching cheng symbols to ä ü and ö
-        for(int i=0; i<pasteReady.length()-6; i++){
-            if(pasteReady.charAt(i)=='%'){
-                String currentSymbols = pasteReady.substring(i, i+6);
+        pasteReady = unChingCheng(pasteReady);
+
+        System.out.println();
+        System.out.println(pasteReady);
+    }
+    String unChingCheng(String toPrint) {
+        for(int i=0; i<toPrint.length()-5; i++){
+            if(toPrint.charAt(i)=='%'){
+                String currentSymbols = toPrint.substring(i, i+6);
                 char newLetter = '/';
-                System.out.println(currentSymbols + " <--- current detected unknown symbol");
+                System.out.println(currentSymbols + " <--- current detected unknown symbols in TranslateWord");
                 switch(currentSymbols){
                     case "%C3%A4": newLetter = 'ä'; break;
                     case "%C3%BC": newLetter = 'ü'; break;
                     case "%C3%B6": newLetter = 'ö'; break;
                     case "%C3%9F": newLetter = 'ß'; break;
+                    case "%C4%8D": newLetter = 'č'; break;
+                    case "%C5%A1": newLetter = 'š'; break;
+                    case "%C5%BE": newLetter = 'ž'; break;
                     default: System.out.println("New unrecognized symbol"); break;
                 }
-                pasteReady = pasteReady.substring(0, i) + newLetter + pasteReady.substring(i+6);
+                toPrint = toPrint.substring(0, i) + newLetter + toPrint.substring(i+6);
             }
         }
-
-        System.out.println();
-        System.out.println(pasteReady);
+        return toPrint;
     }
 
     static void printToFile(String output, String websiteName){

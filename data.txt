@@ -34,7 +34,7 @@ trebuh@der bauch@0
 trajati@dauern@0
 tam@dort@0
 uho@das ohr@0
-vrat@der hals@0
+vrat@der hals@1
 zgled@das vorbild@0
 boli@es tut weh@0
 enostavno@einfach@1
@@ -54,53 +54,53 @@ verjeti@glauben@0
 ves@ganz@0
 zmagati@gewinnen@0
 obes^ati@ha:ngen@0
-prinesti #2@holen@0
+prinesti #2@holen@1
 viseti@ha:ngen@0
 zvoniti/pozvoniti@klingeln@0
 zvoniti/zveneti@klingen@0
 meniti@meinen@0
 slikati@malen@0
 vec^inoma@meistens@0
-nihc^e@niemand@0
+nihc^e@niemand@1
 zgoditi@passieren@0
 govoriti #2@reden@0
 kaditi@rauchen@0
 rac^unati@rechnen@0
-res^iti@retten@0
+res^iti@retten@1
 gledati@schauen@0
 iskati@suchen@0
 od@seit@0
 opraskati@schrammen@0
 postaviti@stellen@0
-poslati@senden@1
+poslati@senden@2
 rec^i@sagen@0
 sesati@saugen@0
 usesti@setzen@0
 urezati@schneiden@0
-zmagati #2@siegen@0
+zmagati #2@siegen@1
 mogoc^e@vielleicht@0
 opec^i@verbrennen@0
 pogres^ati@vermissen@0
 zviti@verstauchen@0
 postati@werden@0
 vedeti@wissen@0
-kazati@zeigen@0
-najprej@zuerst@0
+kazati@zeigen@1
+najprej@zuerst@1
 risati@zeichnen@0
 s^e@noch@0
 dejansko@wirklich@0
 ustaviti@halten@0
 cesta@die stras:e@0
 trgovina@das gescha:ft@0
-z^ivljenje@das leben@0
+z^ivljenje@das leben@1
 potrebovati@brauchen@0
 zdravilo@das medikament@0
 vozilo@das fahrzeug@0
 res^ilec@der krankenwagen@0
-odgovoriti@antworten@0
+odgovoriti@antworten@1
 zgodaj@fru:h@0
 skupaj@zusammen@0
-sedeti@sitzen@0
+sedeti@sitzen@1
 brati@lesen@0
 machen pr.@machte@0
 besuchen pr.@besuchte@0
@@ -125,8 +125,8 @@ nehmen pr.@nahm@0
 zeichnen pr.@zeichnete@0
 gehen pr.@ging@0
 freuen pr.@freute@1
-bringen pr.@brachte@0
-bekommen pr.@bekam@0
+bringen pr.@brachte@1
+bekommen pr.@bekam@1
 sollen pr.@sollte@0
 du:rfen pr.@durfte@0
 kaufen pr.@kaufte@0
@@ -134,13 +134,13 @@ wohnen pr.@wohnte@0
 schreiben pr.@schrieb@0
 einladen pr.@lud ein@0
 schicken pr.@schickte@0
-antworten pr.@antwortete@0
+antworten pr.@antwortete@1
 telefonieren pr.@telefonierte@0
 spielen pr.@spielte@0
 stehen pr.@stand@0
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
-obliz^@das pflaster@0
+obliz^@das pflaster@1
 sitzen pr.@sas:@0
 biegen pr.@bog@0
 neverjeten@unglaublich@0
@@ -158,7 +158,7 @@ urznina@der schnitt@0
 opeklina@die verbrennung@0
 zvin@a verstauchung@0
 zlom@der bruch@0
-praska@die schramme@0
+praska@die schramme@1
 premikati@bewegen@0
 trk@der zusammenstos:@0
 domac^a naloga@die hausaufgabe@0
@@ -173,9 +173,9 @@ res^ilec@der rettungswagen@0
 zmaga@der sieg@0
 zmagovalec@der sieger@0
 kaj?@was@0
-kako/koliko?@wie@0
+kako/koliko?@wie@1
 kdo?@wer@0
-kje?@wo@0
+kje?@wo@1
 kdaj?@wann@0
 ko/c^e@wenn@0
 kam?@wohin@0

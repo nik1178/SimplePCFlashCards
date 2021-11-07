@@ -140,7 +140,10 @@ public class Main {
             //END
 
             if(!answers.isEmpty()) {
-                System.out.print(flashcards.get(seed.get(counter)) + " || "); //get flashcard from seed number and not in numerical order
+                String toPrint = flashcards.get(actualIndexForUse);
+                toPrint = unChingCheng(toPrint);
+
+                System.out.print(toPrint + " || "); //get flashcard from seed number and not in numerical order
             }
             System.out.printf("q-Quit, n-next, a-Add, r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
             Scanner scan = new Scanner(System.in);
@@ -737,11 +740,38 @@ public class Main {
         }
         System.out.println("Couldn't find that flashcard.");
         System.out.println("Searching web.");
+        String toPrint = unChingCheng(originalInput);
+        toPrint = recodeIntoWebsiteSymbols(toPrint);
+
         try{
-            new TranslateWord(originalInput);
+            new TranslateWord(toPrint);
         } catch(Exception e){
             System.out.println("Failed online translation.");
         }
+    }
+    String recodeIntoWebsiteSymbols(String toPrint){
+        for(int i=0; i<toPrint.length(); i++){
+            char[] unknownSymbols = {'ä','ü','ö','ß','č','š','ž'};
+            for(int j=0; j<unknownSymbols.length; j++){
+                if(toPrint.charAt(i)==unknownSymbols[j]){
+                    char currentSymbol = unknownSymbols[j];
+                    String newSymbols = "";
+                    System.out.println(currentSymbol + " <--- current detected unknown symbol in Main");
+                    switch(currentSymbol){
+                        case 'ä': newSymbols = "%C3%A4"; break;
+                        case 'ü': newSymbols = "%C3%BC"; break;
+                        case 'ö': newSymbols = "%C3%B6"; break;
+                        case 'ß': newSymbols = "%C3%9F"; break;
+                        case 'č': newSymbols = "%C4%8D"; break;
+                        case 'š': newSymbols = "%C5%A1"; break;
+                        case 'ž': newSymbols = "%C5%BE"; break;
+                        default: System.out.println("New unrecognized symbol"); break;
+                    }
+                    toPrint = toPrint.substring(0, i) + newSymbols + toPrint.substring(i+1);
+                }
+            }
+        }
+        return toPrint;
     }
 
     void konjugate(String userInput){
