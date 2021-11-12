@@ -312,3 +312,28 @@ der rettungswagen@sasas@0
 do@bis@0
 pos^kodovati@verletzen@0
 bolnis^nica@das krankenhaus@0
+c^aj@der tee@0
+zob@der zahn@0
+smrt@der tod@0
+z^rtev@das opfer@0
+mrtev@tot@0
+tres^c^iti@krachen@0
+s^koda@der schaden@0
+pasti@fallen@0
+test@test2@0
+test@test3@0
+navdus^evati@begeisteren@0
+navdus^evati@begeistern@0
+hudo@schwer@0
+zaviti@abbiegen@0
+mladost@die jugend@0
+dirka@das rennen@0
+wessen@c^igav@0
+das glu:ck@srec^a@0
+pos^kodovati@bescha:digen@0
+povzroc^iti@verursachen@0
+operirati@operieren@0
+koga?@wen@0
+komu?@wem@0
+c^akati@warten@0
+bitten pr.@bat@0
