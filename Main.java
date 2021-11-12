@@ -8,6 +8,13 @@ public class Main {
     * FIXED (by making sort only sort the print, not the actual data): Sets don't really work, because we are constantly shuffling around the words. Sets only work until you add or remove flashcards, then they break;
     * FIXED (In proposed way) Removing and editing has been broken by the change in sorting. PROPOSED FIX: Make the inputed number recognize the sorted word, then find the exact match in the actual list and remove/edit that one instead
     */
+    /*
+    * TODO:
+    * Make all the commands have a special activation character in front, such as "/" so that they are not accidentally triggered when trying to type in a quick false response or if there is an actual flashcard with the exact text
+    * Add a /help instead of having all the commands written in the main sysout
+    * (Optional) Clean-up and document code
+    * (Dreamful) Make this an actual UI program for multi-language learning
+    */
     public static void main(String[] args) {
         new Main();
     }
@@ -310,22 +317,48 @@ public class Main {
                         break;
                     }
 
-                    //check for definitions
+                    //Custom commands that can't be in the switch case---------------------------------------------------------------------------------------
+                    //Online definition
                     if(userInput.length()>5 && userInput.substring(0,5).equals("defi ")){
                         boolean internet = true;
                         define(internet, userInput.substring(5,userInput.length()), userInputOriginalCopy.substring(5,userInputOriginalCopy.length()));
                         break;
                     }
+                    //Flashcard or online definition
                     if(userInput.length()>4 && userInput.substring(0,4).equals("def ")){
                         boolean internet = false;
                         define(internet, userInput.substring(4,userInput.length()), userInputOriginalCopy.substring(4,userInputOriginalCopy.length()));
                         break;
                     }
+                    //Konjugate
                     if(userInput.length()>5 && userInput.substring(0,5).equals("konj ")){
                         konjugate(userInput.substring(5,userInput.length()));
                         break;
                     }
+                    //Make set out of words that start with...
+                    if(userInput.length()>4 && userInput.substring(0,4).equals("m f ")){
+                        String keyword = userInput.substring(4, userInput.length());
+                        set.clear();
+                        for(int i=0; i<flashcards.size(); i++){
+                            if(flashcards.get(i).substring(0, keyword.length()).equals(keyword)){
+                                set.add(i);
+                            }
+                        }
+                        break;
+                    }
+                    //Make set out of words that start end...
+                    if(userInput.length()>4 && userInput.substring(0,4).equals("m l ")){
+                        String keyword = userInput.substring(4, userInput.length());
+                        set.clear();
+                        for(int i=0; i<flashcards.size(); i++){
+                            if(flashcards.get(i).substring(flashcards.get(i).length()-keyword.length(),flashcards.get(i).length()).equals(keyword)){
+                                set.add(i);
+                            }
+                        }
+                        break;
+                    }
 
+                    //Check for correct or wrong answer if it didn't detect any custom commands--------------------------------------------------------------
                     //check for duplicates. If a duplicate exists say that it's correct, but not what the program wanted
                     int duplicates = 0;
                     boolean wrongAnswer = true;
