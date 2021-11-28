@@ -1,5 +1,4 @@
 import java.io.*;
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Main {
@@ -274,11 +273,14 @@ public class Main {
                     break;
                 case "el":
                     System.out.println(flashcards.get(flashcards.size() - 1) + " - " + answers.get(answers.size() -1));
-                    flashcards.remove(flashcards.size() - 1);
-                    answers.remove(answers.size()-1);
-                    streaks.remove(streaks.size()-1);
                     saveStatus();
+                    int flashcardamount = flashcards.size();
                     addNewFlashcard(userInput);
+                    if(flashcardamount<flashcards.size()){
+                        flashcards.remove(flashcards.size() - 2);
+                        answers.remove(answers.size()-2);
+                        streaks.remove(streaks.size()-2);
+                    }
                     break;
                 case "ec":
                     System.out.println(flashcards.get(actualIndexForUse) + " - " + answers.get(actualIndexForUse));
