@@ -9,6 +9,7 @@ public class Main {
     */
     /*
     * TODO:
+    *
     * Make all the commands have a special activation character in front, such as "/" so that they are not accidentally triggered when trying to type in a quick false response or if there is an actual flashcard with the exact text
     * Add a /help instead of having all the commands written in the main sysout
     * (Optional) Clean-up and document code
