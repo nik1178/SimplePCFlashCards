@@ -1,233 +1,233 @@
 krvaveti@bluten@1
-drugo@anderen@0
-iti po nekaj@abholen@0
-predati@aufgeben@0
+drugo@anderen@1
+iti po nekaj@abholen@1
+predati@aufgeben@1
 vstati@aufstehen@1
 dobiti@bekommen@1
-delati@arbeiten@0
+delati@arbeiten@1
 likati@bu:geln@1
-naroc^iti@bestellen@0
+naroc^iti@bestellen@1
 ostati@bleiben@1
-prinesti@bringen@0
-pripovedovati@berichten@0
-plac^ati@bezahlen@0
-pomeniti@bedeuten@0
-zlomiti@brechen@0
-dlan@die hand@1
+prinesti@bringen@1
+pripovedovati@berichten@1
+plac^ati@bezahlen@1
+pomeniti@bedeuten@1
+zlomiti@brechen@1
+dlan@die hand@0
 glava@der kopf@1
-hrbet@der ru:cken@0
+hrbet@der ru:cken@1
 kri@das blut@1
-mesec@der monat@0
-noga@das bein@0
-nos@die nase@0
-nesrec^a@der unfall@0
-oko@das auge@0
-prst@der finger@0
+mesec@der monat@1
+noga@das bein@1
+nos@die nase@1
+nesrec^a@der unfall@1
+oko@das auge@1
+prst@der finger@1
 prst na nogi@der zehe@1
 prsi@die brust@1
-pouk@der unterricht@0
+pouk@der unterricht@1
 roka@der arm@1
-stopalo@der fus:@0
-sanje@der traum@0
-trebuh@der bauch@0
-trajati@dauern@0
-tam@dort@0
-uho@das ohr@0
-vrat@der hals@0
-zgled@das vorbild@0
-boli@es tut weh@0
-enostavno@einfach@0
-nakupovati@einkaufen@0
-odloc^iti@entscheiden@0
-obc^utiti@empfinden@1
-povabiti@einladen@0
+stopalo@der fus:@1
+sanje@der traum@1
+trebuh@der bauch@1
+trajati@dauern@1
+tam@dort@1
+uho@das ohr@1
+vrat@der hals@1
+zgled@das vorbild@1
+boli@es tut weh@1
+enostavno@einfach@1
+nakupovati@einkaufen@1
+odloc^iti@entscheiden@1
+obc^utiti@empfinden@0
+povabiti@einladen@1
 prepoznati@erkennen@1
-leteti@fliegen@0
-praznovati@feiern@0
-ujeti/loviti@fangen@0
-veseliti@freuen@0
+leteti@fliegen@1
+praznovati@feiern@1
+ujeti/loviti@fangen@1
+veseliti@freuen@1
 dogajati@geschehen@0
-ugajati@gefallen@0
+ugajati@gefallen@1
 uz^ivati@genies:en@1
-verjeti@glauben@0
-ves@ganz@0
+verjeti@glauben@1
+ves@ganz@1
 zmagati@gewinnen@1
-obes^ati@ha:ngen@0
-prinesti@holen@0
-viseti@ha:ngen@0
+obes^ati@ha:ngen@1
+prinesti@holen@1
+viseti@ha:ngen@1
 zvoniti/pozvoniti@klingeln@1
-zvoniti/zveneti@klingen@0
+zvoniti/zveneti@klingen@1
 meniti@meinen@1
 slikati@malen@1
-vec^inoma@meistens@0
-nihc^e@niemand@0
-zgoditi@passieren@0
+vec^inoma@meistens@1
+nihc^e@niemand@1
+zgoditi@passieren@1
 govoriti@reden@1
-kaditi@rauchen@0
-rac^unati@rechnen@0
+kaditi@rauchen@1
+rac^unati@rechnen@1
 res^iti@retten@1
 gledati@schauen@1
-iskati@suchen@0
-od@seit@0
-opraskati@schrammen@0
+iskati@suchen@1
+od@seit@1
+opraskati@schrammen@1
 postaviti@stellen@1
 poslati@senden@1
 rec^i@sagen@1
-sesati@saugen@0
-usesti@setzen@0
-urezati@schneiden@0
+sesati@saugen@1
+usesti@setzen@1
+urezati@schneiden@1
 zmagati@siegen@1
-mogoc^e@vielleicht@0
+mogoc^e@vielleicht@1
 opec^i@verbrennen@1
-pogres^ati@vermissen@0
-zviti@verstauchen@0
+pogres^ati@vermissen@1
+zviti@verstauchen@1
 postati@werden@1
-vedeti@wissen@0
-kazati@zeigen@0
-najprej@zuerst@0
-risati@zeichnen@0
+vedeti@wissen@1
+kazati@zeigen@1
+najprej@zuerst@1
+risati@zeichnen@1
 s^e@noch@1
 dejansko@wirklich@1
-ustaviti@halten@0
-cesta@die stras:e@0
+ustaviti@halten@1
+cesta@die stras:e@1
 trgovina@das gescha:ft@1
-z^ivljenje@das leben@0
-potrebovati@brauchen@0
+z^ivljenje@das leben@1
+potrebovati@brauchen@1
 zdravilo@das medikament@0
 vozilo@das fahrzeug@0
-res^ilec@der krankenwagen@0
-odgovoriti@antworten@0
+res^ilec@der krankenwagen@1
+odgovoriti@antworten@1
 zgodaj@fru:h@1
-skupaj@zusammen@0
-sedeti@sitzen@0
+skupaj@zusammen@1
+sedeti@sitzen@1
 brati@lesen@1
-machen pr.@machte@0
+machen pr.@machte@1
 besuchen pr.@besuchte@1
 sehen pr.@sah@1
 fahren pr.@fuhr@1
 wollen pr.@wollte@1
-arbeiten pr.@arbeitete@0
+arbeiten pr.@arbeitete@1
 sein pr.@war@1
-kommen pr.@kam@0
-ziehen pr.@zog@0
-regnen pr.@regnete@0
-blitzen pr.@blitzte@0
+kommen pr.@kam@1
+ziehen pr.@zog@1
+regnen pr.@regnete@1
+blitzen pr.@blitzte@1
 donnern pr.@donnerte@1
-halten pr.@hielt@0
+halten pr.@hielt@1
 treten pr.@trat@1
-setzen pr.@setzte@0
-ko:nnen pr.@konnte@0
-verstehen pr.@verstand@0
-haben pr.@hatte@0
-essen pr.@as:@0
+setzen pr.@setzte@1
+ko:nnen pr.@konnte@1
+verstehen pr.@verstand@1
+haben pr.@hatte@1
+essen pr.@as:@1
 nehmen pr.@nahm@1
-zeichnen pr.@zeichnete@0
+zeichnen pr.@zeichnete@1
 gehen pr.@ging@1
-freuen pr.@freute@0
+freuen pr.@freute@1
 bringen pr.@brachte@0
-bekommen pr.@bekam@0
-sollen pr.@sollte@0
-du:rfen pr.@durfte@0
-wohnen pr.@wohnte@0
-schreiben pr.@schrieb@0
+bekommen pr.@bekam@1
+sollen pr.@sollte@1
+du:rfen pr.@durfte@1
+wohnen pr.@wohnte@1
+schreiben pr.@schrieb@1
 einladen pr.@lud ein@1
-schicken pr.@schickte@0
+schicken pr.@schickte@1
 antworten pr.@antwortete@1
-telefonieren pr.@telefonierte@0
-spielen pr.@spielte@0
-stehen pr.@stand@0
-siegen pr.@siegte@0
-gewinnen pr.@gewann@0
-obliz^@das pflaster@0
-sitzen pr.@sas:@0
-biegen pr.@bog@0
-neverjeten@unglaublich@0
+telefonieren pr.@telefonierte@1
+spielen pr.@spielte@1
+stehen pr.@stand@1
+siegen pr.@siegte@1
+gewinnen pr.@gewann@1
+obliz^@das pflaster@1
+sitzen pr.@sas:@1
+biegen pr.@bog@1
+neverjeten@unglaublich@1
 trainieren pr.@trainierte@1
 werden pr.@wurde@0
 holen pr.@holte@1
 pripovedovati@erza:hlen@0
 erza:hlen pr.@erza:hlte@1
-sprechen pr.@sprach@0
+sprechen pr.@sprach@1
 sanjati@traumen@1
 traumen pr.@tra:umte@0
-promet@der verkehr@0
+promet@der verkehr@1
 pos^kodba@die verletzung@0
-opeklina@die verbrennung@0
+opeklina@die verbrennung@1
 zlom@der bruch@0
-praska@die schramme@0
-trk@der zusammenstos:@0
-domac^a naloga@die hausaufgabe@1
+praska@die schramme@1
+trk@der zusammenstos:@1
+domac^a naloga@die hausaufgabe@0
 helfen pr.@half@1
-zvin@die verstauchung@0
+zvin@die verstauchung@1
 ureznina@der schnitt@1
-premikati@bewegen@0
-boleti@schmerzen@0
-mazilo@die salbe@0
+premikati@bewegen@1
+boleti@schmerzen@1
+mazilo@die salbe@1
 kaj?@was@1
 govoriti@sprechen@1
 vlec^i@ziehen@0
-laufen pr.@lief@0
-nikoli@niemals@0
-nikoli@nie@0
+laufen pr.@lief@1
+nikoli@niemals@1
+nikoli@nie@1
 tut pr.@tat@1
-gips@der gips@0
+gips@der gips@1
 grmeti@donnern@1
-entscheiden pr.@entschied@0
+entscheiden pr.@entschied@1
 poslati@schicken@1
 vroc^ina@das fieber@1
-na/pri/ob@am@0
-gledati@sehen@0
-srec^ati@treffen@0
-smejati@lachen@0
-pasti@stu:rzen@0
+na/pri/ob@am@1
+gledati@sehen@1
+srec^ati@treffen@1
+smejati@lachen@1
+pasti@stu:rzen@1
 dovolj@genug@1
 kje?@wo@1
 junak@der held@1
-geben pr.@gab@0
-kdaj?@wann@0
-stopati@treten@0
+geben pr.@gab@1
+kdaj?@wann@1
+stopati@treten@1
 sunek@der stos:@0
-razumeti@verstehen@1
+razumeti@verstehen@0
 ko/c^e@wenn@0
-bolec^ina@der schmerz@0
+bolec^ina@der schmerz@1
 boleti@wehtun@1
 zakaj?@warum@1
-od kod?@woher@0
+od kod?@woher@1
 stu:rzen pr.@stu:rzte@1
-povoj@der verband@0
+povoj@der verband@1
 zmagovalec@der sieger@1
-hlac^e@die hose@0
-tam@da@0
-res^ilec@der rettungswagen@0
-kdo?@wer@0
-do@bis@0
-kako/koliko?@wie@0
-pos^kodovati@verletzen@0
-bliskati@blitzen@0
-zlomljen@gebrochen@0
-kam?@wohin@0
-zmaga@der sieg@0
-bolnis^nica@das krankenhaus@0
+hlac^e@die hose@1
+tam@da@1
+res^ilec@der rettungswagen@1
+kdo?@wer@1
+do@bis@1
+kako/koliko?@wie@1
+pos^kodovati@verletzen@1
+bliskati@blitzen@1
+zlomljen@gebrochen@1
+kam?@wohin@1
+zmaga@der sieg@1
+bolnis^nica@das krankenhaus@1
 c^aj@der tee@1
-zob@der zahn@0
-smrt@der tod@0
-z^rtev@das opfer@0
-mrtev@tot@0
+zob@der zahn@1
+smrt@der tod@1
+z^rtev@das opfer@1
+mrtev@tot@1
 tres^c^iti@krachen@0
 s^koda@der schaden@0
-pasti@fallen@0
+pasti@fallen@1
 navdus^evati@begeistern@0
-hudo@schwer@0
-zaviti@abbiegen@0
+hudo@schwer@1
+zaviti@abbiegen@1
 mladost@die jugend@0
 dirka@das rennen@0
 c^igav@wessen@0
-srec^a@das glu:ck@0
+srec^a@das glu:ck@1
 pos^kodovati@bescha:digen@0
-povzroc^iti@verursachen@0
+povzroc^iti@verursachen@1
 operirati@operieren@1
 koga?@wen@0
-komu?@wem@0
-c^akati@warten@0
-bitten pr.@bat@0
-izgubiti z^ivljenje@kommen ums leben@0
+komu?@wem@1
+c^akati@warten@1
+bitten pr.@bat@1
+izgubiti z^ivljenje@kommen ums leben@1

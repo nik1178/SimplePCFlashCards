@@ -6,28 +6,28 @@
     <meta name="p:domain_verify" content="ac38cd16f883ac251f3baf3806dfb628"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="Cache-Control" content="private, max-age=0, must-revalidate"/>
-<link rel="canonical" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen" />
+<link rel="canonical" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam" />
     <link rel="manifest" href="/manifest.json" crossorigin="use-credentials"/>
-    <meta name="description" content="Tu si lahko ogledate prevod nem&scaron;čina-sloven&scaron;čina za verstellen v PONS spletnem slovarju! Brezplačna jezikovna vadnica, tabele sklanjatev, funkcija izgovorjave."/>
-<meta name="keywords" content="verstellen, &ouml;rtlich, falsch stellen, Stimme, Handschrift, Person, einstellen, versperren, prestavljati, nastavljati, zapirati, zapreti komu pot, ponarejati, pretvarjati se, prestaviti v napačen položaj"/>
-<link rel="alternate" hreflang="de" href="https://de.pons.com/%C3%BCbersetzung/deutsch-slowenisch/verstellen" />
-<link rel="alternate" hreflang="ru" href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/verstellen" />
-<link rel="alternate" hreflang="pt" href="https://pt.pons.com/tradu%C3%A7%C3%A3o/alem%C3%A3o-esloveno/verstellen" />
-<link rel="alternate" hreflang="bg" href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8/verstellen" />
-<link rel="alternate" hreflang="el" href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC-%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC/verstellen" />
-<link rel="alternate" hreflang="en" href="https://en.pons.com/translate/german-slovenian/verstellen" />
-<link rel="alternate" hreflang="it" href="https://it.pons.com/traduzione/tedesco-sloveno/verstellen" />
-<link rel="alternate" hreflang="fr" href="https://fr.pons.com/traduction/allemand-slov%C3%A8ne/verstellen" />
-<link rel="alternate" hreflang="es" href="https://es.pons.com/traducci%C3%B3n/alem%C3%A1n-esloveno/verstellen" />
-<link rel="alternate" hreflang="zh" href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E5%BE%B7%E8%AF%AD-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD/verstellen" />
-<link rel="alternate" hreflang="sl" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen" />
-<link rel="alternate" hreflang="pl" href="https://pl.pons.com/t%C5%82umaczenie/niemiecki-s%C5%82owe%C5%84ski/verstellen" />
-<link rel="alternate" hreflang="tr" href="https://tr.pons.com/%C3%A7eviri/almanca-slovence/verstellen" />
-<link rel="alternate" hreflang="sr" href="https://sr.pons.com/prevo%C4%91enje/nema%C4%8Dki-slovena%C4%8Dki/verstellen" />
+    <meta name="description" content="Tu si lahko ogledate prevod sloven&scaron;čina-nem&scaron;čina za kam v PONS spletnem slovarju! Brezplačna jezikovna vadnica, tabele sklanjatev, funkcija izgovorjave."/>
+<meta name="keywords" content="k&aacute;m, k&agrave;m, wohin, wohin gehst du?, wohin so eilig?, was wird aus uns werden?, sag, wohin wir gehen, irgendwohin, woandershin"/>
+<link rel="alternate" hreflang="de" href="https://de.pons.com/%C3%BCbersetzung/slowenisch-deutsch/kam" />
+<link rel="alternate" hreflang="ru" href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9/kam" />
+<link rel="alternate" hreflang="pt" href="https://pt.pons.com/tradu%C3%A7%C3%A3o/esloveno-alem%C3%A3o/kam" />
+<link rel="alternate" hreflang="bg" href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8/kam" />
+<link rel="alternate" hreflang="el" href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC-%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/kam" />
+<link rel="alternate" hreflang="en" href="https://en.pons.com/translate/slovenian-german/kam" />
+<link rel="alternate" hreflang="it" href="https://it.pons.com/traduzione/sloveno-tedesco/kam" />
+<link rel="alternate" hreflang="fr" href="https://fr.pons.com/traduction/slov%C3%A8ne-allemand/kam" />
+<link rel="alternate" hreflang="es" href="https://es.pons.com/traducci%C3%B3n/esloveno-alem%C3%A1n/kam" />
+<link rel="alternate" hreflang="zh" href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD-%E5%BE%B7%E8%AF%AD/kam" />
+<link rel="alternate" hreflang="sl" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam" />
+<link rel="alternate" hreflang="pl" href="https://pl.pons.com/t%C5%82umaczenie/s%C5%82owe%C5%84ski-niemiecki/kam" />
+<link rel="alternate" hreflang="tr" href="https://tr.pons.com/%C3%A7eviri/slovence-almanca/kam" />
+<link rel="alternate" hreflang="sr" href="https://sr.pons.com/prevo%C4%91enje/slovena%C4%8Dki-nema%C4%8Dki/kam" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 <meta name="apple-itunes-app" content="app-id=577741918"/>
 
-    <title>verstellen - nemščina-slovenščina prevod | PONS</title>
+    <title>kam - slovenščina-nemščina prevod | PONS</title>
     <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro.woff" as="font" crossorigin="anonymous"/>
 <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro-Medium.woff" as="font" crossorigin="anonymous"/>
 <link rel="preload" href="https://assets.pons.com/assets/fonts/SeroWebPro-Italic.woff" as="font" crossorigin="anonymous"/>
@@ -36,11 +36,11 @@
 <script type="text/javascript">
 //<![CDATA[
   window.Infos = {
-    "time": new Date(2021, (11-1), 28, 17, 20, 39),
+    "time": new Date(2021, (11-1), 29, 20, 1, 37),
     "dictionary": "desl",
-    "source_language": "de",
+    "source_language": "sl",
     "lingenio": false,
-    "searchTerm": "verstellen",
+    "searchTerm": "kam",
     "pathParts": {    "translate": "prevod",
     "de": "nemščina-slovenščina",
     "sl": "slovenščina-nemščina",
@@ -49,7 +49,7 @@
     "adRegion": "SI",
     "adNbMPUs": 2,
     "country": "SI",
-    "pageName": "\/catalogue\/results\/desl\/de",
+    "pageName": "\/catalogue\/results\/desl\/sl",
     "pageType": "dict_catalogue_result",
     "isSuggestions": false,
     "userLocale": "sl",
@@ -61,10 +61,10 @@
     "rp18Enabled": false,
     "isCmpEnabled": true,
     "cmpProvider": "ONETRUST",
-    "translations": 8,
+    "translations": 9,
     "instance": "dict-13",
     "env": "PRODUCTION",
-    "cacheBuster": "1637850989",
+    "cacheBuster": "1638197440",
     "trainerHomePage": "https://trainer.pons.com",
     "dictHomePage": "https://sl.pons.com/prevod",
     "browserType": "OTHER",
@@ -642,7 +642,7 @@ var ponsAdKeywords="";
     };
 
     // tr
-    dataLayerObj['WbSprache']='de';
+    dataLayerObj['WbSprache']='sl';
 
     if (window.Infos.user) {
       dataLayerObj['UserID']=window.Infos.userHash;
@@ -708,7 +708,7 @@ var ponsAdKeywords="";
 </script>
 
 <link href="https://assets.pons.com/assets/min/adserver-D9AB44DB-min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="https://assets.pons.com/assets/min/bootstrap_dict_catalogue_result-601EF2D2-min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://assets.pons.com/assets/min/bootstrap_dict_catalogue_result-83E592B4-min.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="https://assets.pons.com/assets/min/dict-EACD448D-min.css" media="screen" rel="stylesheet" type="text/css" />
 <script type="application/ld+json">
   {
@@ -1655,7 +1655,7 @@ var ponsAdKeywords="";
 <form class="form-inline search" action="/prevod" method="get">
   <div id="qKeyboardPlacer" class="input-append">
     <div class="containerSearch">
-      <input id="q" class="pons-search-input" name="q" type="text" placeholder="Najdi" value="verstellen" data-pons-redirect-input="true" data-pons-autofocus="true" autocomplete="off"/>
+      <input id="q" class="pons-search-input" name="q" type="text" placeholder="Najdi" value="kam" data-pons-redirect-input="true" data-pons-autofocus="true" autocomplete="off"/>
       <span class="clearInput camoflage headerbutton mobileOnly ">
         <svg id="input-clear" class="cross-svg" viewBox="0 0 24 24">
           <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
@@ -1666,13 +1666,13 @@ var ponsAdKeywords="";
     <span id="dict-indicator" class="camoflage headerbutton mobileOnly">
       <div id="flags-holder" class="">
         <span class="fromspan">
-          <i id="from-flag" class="flag flag_de"></i>
-          DE
+          <i id="from-flag" class="flag flag_sl"></i>
+          SL
         </span>
         <br/>
         <span class="tospan ">
-          <i id="to-flag" class="flag flag_sl"></i>
-          SL
+          <i id="to-flag" class="flag flag_de"></i>
+          DE
         </span>
         <br/>
       </div>
@@ -1882,10 +1882,10 @@ var ponsAdKeywords="";
   </select>
   <div class="jsselect2">
     <div class="btn-group source"
- data-pons-lang="de"    >
+ data-pons-lang="sl"    >
     <button class="btn dropdown-toggle" data-toggle="dropdown">
       <span class="text">
-nemščina        <i class="icon-angle-down"></i>
+slovenščina        <i class="icon-angle-down"></i>
       </span>
     </button>
     </div>
@@ -1925,10 +1925,10 @@ nemščina        <i class="icon-angle-down"></i>
         </li>
       </ul>
     </div>
-    <div class="btn-group target" data-pons-lang="sl">
+    <div class="btn-group target" data-pons-lang="de">
       <button class="btn dropdown-toggle" data-toggle="dropdown">
         <span class="text">
-slovenščina          <i class="icon-angle-down"></i>
+nemščina          <i class="icon-angle-down"></i>
         </span>
       </button>
     </div>
@@ -2035,26 +2035,21 @@ slovenščina          <i class="icon-angle-down"></i>
       <meta itemprop="position" content="1"/>
     </li>
     <li itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="item" href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina">
+      <a itemprop="item" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina">
         <span itemprop="name">
-          nemško » slovenski
+          slovensko » nemški
         </span>
       </a>
       <meta itemprop="position" content="2"/>
     </li>
     <li>
-      <a href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/-/V">
-        V
-      </a>
-    </li>
-    <li>
-      <a href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/-/verst">
-        verst
+      <a href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/-/K">
+        K
       </a>
     </li>
     <li itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement">
       <span itemprop="name">
-        verstellen
+        kam
       </span>
       <meta itemprop="position" content="3"/>
     </li>
@@ -2070,202 +2065,187 @@ slovenščina          <i class="icon-angle-down"></i>
 
     <div id="desl" class="result_list result-list-v1 with_examples">
 
-<div id="de" class="lang first">
+<div id="sl" class="lang first">
   <div class="mobileOnly mockMobileStyle">
     <div class="mobileCaption">
-      nemško » slovenski
+      slovensko » nemški
     </div>
   </div>
   <div>
     <div class="lang_dir">
-      <span class="flag flag_de" title="nemščina"></span>
-      <i class="icon-double-angle-right"></i>
       <span class="flag flag_sl" title="slovenščina"></span>
+      <i class="icon-double-angle-right"></i>
+      <span class="flag flag_de" title="nemščina"></span>
     </div>
     <h1 class="lang_header">
-      Prevodi za &bdquo;<em>verstellen</em>&ldquo; v slovarju nemško » slovenski
+      Prevodi za &bdquo;<em>kam</em>&ldquo; v slovarju slovensko » nemški
       <span>
-        (Skoči na <a rel='nofollow' href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/verstellen'>slovensko » nemški</a>)
+        (Skoči na <a rel='nofollow' href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/kam'>nemško » slovenski</a>)
       </span>
     </h1>
+    <div class="results-header">
+      <a href="#toc" data-toggle="collapse">
+  Pokaži vse zadetke
+  <i class="icon-angle-down"></i>
+</a>
+<dl id="toc" class="collapse dl-horizontal">
+  <dt class="_entry_title">
+    <a href="#Edesl15542172">
+      kám
+    </a>
+  </dt>
+  <dd>
+    <a href="#Rdesl15542173">
+      <span class="roman">I.</span>
+      prislov
+    </a>
+    <a href="#Rdesl15542176">
+      <span class="roman">II.</span>
+      veznik
+    </a>
+  </dd>
+  <dt class="_entry_title">
+    <a href="#Edesl15542180">
+      kàm
+    </a>
+  </dt>
+  <dd>
+    <a href="#Rdesl15542181">
+      
+      prislov
+    </a>
+  </dd>
+</dl>
+
+    </div>
     
   </div>
   
   <div class="results">
     
-<div id="Edesl16347162" class="entry first" rel="verstellen">
+<div id="Edesl15542172" class="entry first" rel="kám">
   <div class="rom first">
-    <div id="Rdesl16347163" class="romhead">
+    <div id="Rdesl15542173" class="romhead">
       <h2 class="">
         <span class="roman">
           I
           .
         </span>
-<span class="headword_attributes" title="deležnik Perfekta se tvori brez -ge">verstellen*</span>    <span class="wordclass"><acronym title="glagol">GLAG.</acronym></span> <span class="verbclass"><acronym title="prehoden glagol">preh. glag.</acronym></span>      </h2>
+kám    <span class="wordclass"><acronym title="prislov">PRISL.</acronym></span> <span class="info">vprašalni</span>      </h2>
       <ul class="inline romhead-options desktopOnly">
-<a class="flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Header" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/verstellen?r=16347163&l=desl" rel="nofollow"><i class="icon-columns" title="Prikaži razpredelnico z glagolom"></i> </a>        <li class="dropdown romhead-options-info">
-<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"sy","t":"&amp;nbsp;Kliknite tukaj za prikaz sinonimov besede verstellen."},{"s":"fb","t":"&amp;nbsp;Predlogi za verstellen"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
+        <li class="dropdown romhead-options-info">
+<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"fb","t":"&amp;nbsp;Predlogi za k&amp;aacute;m"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
       </ul>
     </div>
-<div class="link-examples-toolbar" style="padding-bottom: 10px"><a class="link-examples flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_inline" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/verstellen?r=16347163&l=desl" rel="nofollow"><i class="icon-columns"></i> Prikaži razpredelnico z glagolom</a></div>    <div id="Adesl16347164" class="translations first">
-      <h3 class="">
-1. verstellen:      </h3>
-      <dl id="Tdesl16347165" class="dl-horizontal kne first" data-translation="0">
+    <div id="Adesl15542174" class="translations first">
+      <h3 class="empty hidden ">
+      </h3>
+      <dl id="Tdesl15542175" class="dl-horizontal kne first" data-translation="0">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong> <span class="sense">(<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/%C3%B6rtlich'>örtlich</a>)</span>    </div>
+<strong class="headword"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></strong>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prestavljati'>prestavljati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prestaviti'>prestaviti</a></span>]</span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      <dl id="Tdesl15902376" class="dl-horizontal kne" data-translation="1">
+      <dl id="Tdesl15410290" class="dl-horizontal kne" data-translation="1">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong> <span class="sense">(<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/falsch'>falsch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/stellen'>stellen</a>)</span>    </div>
+<span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gre%C5%A1'>greš</a>?</span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<span class="perf-only"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/narobe'>narobe</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/postaviti'>postaviti</a></span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gehst'>gehst</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/du'>du</a>?    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      
-    </div>
-    <div id="Adesl16347166" class="translations">
-      <h3 class="">
-2. verstellen <span class="sense">(einstellen)</span>:      </h3>
-      <dl id="Tdesl16347167" class="dl-horizontal kne first" data-translation="2">
+      <dl id="Tdesl15410291" class="dl-horizontal kne" data-translation="2">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong>    </div>
+<span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ti'>ti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/tako'>tako</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mudi'>mudi</a>?</span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nastavljati'>nastavljati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nastaviti'>nastaviti</a></span>]</span>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/so'>so</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/eilig'>eilig</a>?    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      
-    </div>
-    <div id="Adesl16347168" class="translations">
-      <h3 class="">
-3. verstellen <span class="sense">(versperren)</span>:      </h3>
-      <dl id="Tdesl16347169" class="dl-horizontal kne first" data-translation="3">
+      <dl id="Tdesl15410292" class="dl-horizontal kne" data-translation="3">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong>    </div>
+<span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gre'>gre</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ta'>ta</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/svet'>svet</a>?</span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zapirati'>zapirati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zapreti'>zapreti</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      <dl id="Tdesl15902377" class="dl-horizontal kne" data-translation="4">
-  <dt class="dt-inner">
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/was'>was</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wird'>wird</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/uns'>uns</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/werden'>werden</a>?    </div>
     <ul class="inline translation-options dropdown">
 <li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/jmdm'>jmdm</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/den'>den</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Weg'>Weg</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong></span>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zapreti'>zapreti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/komu'>komu</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pot'>pot</a>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
-  </dd>
-<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
-
-      
-    </div>
-<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_1' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_1'); });</script>    </div>  </div></div>    <div id="Adesl16347170" class="translations">
-      <h3 class="">
-4. verstellen <span class="sense">(Stimme, Handschrift)</span>:      </h3>
-      <dl id="Tdesl16347171" class="dl-horizontal kne first" data-translation="5">
-  <dt class="dt-inner">
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
-    <div class="source">
-<strong class="headword"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong>    </div>
-  </dt>
-  <dd class="dd-inner">
-    <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ponarejati'>ponarejati</a> <span class="perf">[<span class="tempus"><acronym title="dovršna oblika">dov. obl.</acronym></span> <span class="perf"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ponarediti'>ponarediti</a></span>]</span>    </div>
-    <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
       
     </div>
   </div>
-  <div class="rom">
-    <div id="Rdesl16347172" class="romhead">
+<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_1' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_1'); });</script>    </div>  </div></div>  <div class="rom">
+    <div id="Rdesl15542176" class="romhead">
       <h2 class="">
         <span class="roman">
           II
           .
         </span>
-<span class="headword_attributes" title="deležnik Perfekta se tvori brez -ge">verstellen*</span>    <span class="wordclass"><acronym title="glagol">GLAG.</acronym></span> <span class="verbclass"><acronym title="povratni glagol">povr. glag.</acronym></span> <span class="reflection">sich verstellen</span>      </h2>
+kám    <span class="wordclass"><acronym title="veznik">VEZ.</acronym></span>      </h2>
       <ul class="inline romhead-options desktopOnly">
-<a class="flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Header" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/verstellen?r=16347172&l=desl" rel="nofollow"><i class="icon-columns" title="Prikaži razpredelnico z glagolom"></i> </a>        <li class="dropdown romhead-options-info">
-<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"sy","t":"&amp;nbsp;Kliknite tukaj za prikaz sinonimov besede verstellen."},{"s":"fb","t":"&amp;nbsp;Predlogi za verstellen"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
+        <li class="dropdown romhead-options-info">
+<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"fb","t":"&amp;nbsp;Predlogi za k&amp;aacute;m"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
       </ul>
     </div>
-<div class="link-examples-toolbar" style="padding-bottom: 10px"><a class="link-examples flection-table-link" data-pons-trackable="Wörterbuch-Verbtabellen-Link_inline" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/verstellen?r=16347172&l=desl" rel="nofollow"><i class="icon-columns"></i> Prikaži razpredelnico z glagolom</a></div>    <div id="Adesl16347173" class="translations first">
-      <h3 class="">
-1. verstellen <span class="sense">(Person)</span>:      </h3>
-      <dl id="Tdesl16347174" class="dl-horizontal kne first" data-translation="6">
+    <div id="Adesl15542177" class="translations first">
+      <h3 class="empty hidden ">
+      </h3>
+      <dl id="Tdesl15542178" class="dl-horizontal kne first" data-translation="4">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<span class="reflection"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sich'>sich</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></span>    </div>
+<strong class="headword"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></strong>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pretvarjati'>pretvarjati</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
-      
-    </div>
-    <div id="Adesl16347175" class="translations">
-      <h3 class="">
-2. verstellen <span class="topic"><acronym title="tehnika">TEH.</acronym></span>:      </h3>
-      <dl id="Tdesl16347176" class="dl-horizontal kne first" data-translation="7">
+      <dl id="Tdesl15410293" class="dl-horizontal kne" data-translation="5">
   <dt class="dt-inner">
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
     <div class="source">
-<span class="reflection"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sich'>sich</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></span>    </div>
+<span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/povej'>povej</a>, <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gremo'>gremo</a></span>    </div>
   </dt>
   <dd class="dd-inner">
     <div class="target">
-<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/prestaviti'>prestaviti</a> v <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/napa%C4%8Den'>napačen</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/polo%C5%BEaj'>položaj</a>    </div>
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sag'>sag</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wir'>wir</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gehen'>gehen</a>    </div>
     <ul class="inline translation-options dropdown">
-<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
   </dd>
 <span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
 
@@ -2274,6 +2254,69 @@ slovenščina          <i class="icon-angle-down"></i>
   </div>
 </div>
     
+<div id="Edesl15542180" class="entry" rel="kàm">
+  <div class="rom first">
+    <div id="Rdesl15542181" class="romhead">
+      <h2 class="">
+kàm    <span class="wordclass"><acronym title="prislov">PRISL.</acronym></span> <span class="info">poljubnostni</span>      </h2>
+      <ul class="inline romhead-options desktopOnly">
+        <li class="dropdown romhead-options-info">
+<a class="dropdown-toggle entry-options-dropdown" data-toggle="dropdown" href="#" data-options='[{"s":"fb","t":"&amp;nbsp;Predlogi za k&amp;agrave;m"},{"s":"ex","t":"&amp;nbsp;Druga spletna mesta"}]'><i class="icon-info-sign" title="Možnosti"></i></a>        </li>
+      </ul>
+    </div>
+    <div id="Adesl15542182" class="translations first">
+      <h3 class="empty hidden ">
+      </h3>
+      <dl id="Tdesl15542183" class="dl-horizontal kne first" data-translation="6">
+  <dt class="dt-inner">
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+    <div class="source">
+<strong class="headword"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></strong>    </div>
+  </dt>
+  <dd class="dd-inner">
+    <div class="target">
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/irgendwohin'>irgendwohin</a>    </div>
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+  </dd>
+<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
+
+      <dl id="Tdesl15410296" class="dl-horizontal kne" data-translation="7">
+  <dt class="dt-inner">
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+    <div class="source">
+<span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A0m'>kàm</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/drugam'>drugam</a></span>    </div>
+  </dt>
+  <dd class="dd-inner">
+    <div class="target">
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/woandershin'>woandershin</a>    </div>
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+  </dd>
+<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
+
+      <dl id="Tdesl15410297" class="dl-horizontal kne" data-translation="8">
+  <dt class="dt-inner">
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li>    </ul>
+    <div class="source">
+<span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ve'>ve</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kod'>kod</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A0m'>kàm</a></strong></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span>    </div>
+  </dt>
+  <dd class="dd-inner">
+    <div class="target">
+<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/er'>er</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weder'>weder</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ein'>ein</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/noch'>noch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a>    </div>
+    <ul class="inline translation-options dropdown">
+<li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li>    </ul>
+  </dd>
+<span class="dropdown"><a href="#" data-toggle="dropdown" data-options='[{"s":"fa","c":"favorites","t":"&amp;nbsp;Dodaj med priljubljene","h":"#","i":"star"},{"s":"tr","c":"trainer","t":"&amp;nbsp;Označi za vadnico","h":"#","i":"inbox"},{"s":"ti","c":"trainer-import","t":"&amp;nbsp;Poglej označeno besedi&scaron;če","nf":"1","h":"\/trainer-import","i":"inbox"}]'><div class="ico-menu-option"></div></a></span></dl>
+
+      
+    </div>
+  </div>
+</div>
+<div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_2' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_2'); });</script>    </div>  </div></div>    
   </div>
   <!-- / .results -->
 </div>
@@ -2288,12 +2331,12 @@ slovenščina          <i class="icon-angle-down"></i>
         </div>
         <div id="results-tab-examples" class="result-page-examples-template">
           <div id="results-tab-examples-anchor"></div>
-          <div class="results-dict-examples pons content-box"><div class="content-inner"><h4>Primeri uporabe besede verstellen</h4><dl class="dl-horizontal" id="Tdesl15902377"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/jmdm'>jmdm</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/den'>den</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Weg'>Weg</a> <strong class="tilde"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen'>verstellen</a></strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/zapreti'>zapreti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/komu'>komu</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pot'>pot</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul></dd></dl></div></div><div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_2' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_2'); });</script>    </div>  </div></div>
-<div id="results-monolingual-examples" class="results-monolingual-examples pons content-box"><div class="content-inner"><div><h2>Enojezični primeri (nepregledani od uredni&scaron;tva PONS)</h2><div class="lang"><span class="flag flag_de"></span>nemščina</div></div><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Damit will er zeigen, dass eine &quot;zergliedernde&quot; Sicht der Dinge den Blick auf die Wirklichkeit verstellen kann.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Die&#95;implizite&#95;Ordnung" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Damit der Motor in allen Drehzahlbereichen optimale Leistungs- und Abgaswerte erreicht, muss der Z&uuml;ndzeitpunkt je nach Betriebszustand verstellt werden.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Z&#37;C3&#37;BCndverteiler" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Ein Dreiwegeneiger l&auml;sst sich in drei Achsen unabh&auml;ngig verstellen.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Dreiwegeneiger" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Bei konstanten Wassermengen kann auf die Anpassung der Drehzahl bzw. das Verstellen der Laufradfl&uuml;gel verzichtet und direkt ins Netz eingespeist werden.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Kaplan&#45;Turbine" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Zum Fokussieren wurde nicht, wie h&auml;ufig &uuml;blich, nur das Frontlinsenelement, sondern es das komplette Linsensystem verstellt.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Agfa&#95;Karat" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Das Portal ist jedoch durch ein gro&szlig;es marmornes Kreuz verstellt, das den Zugang der Hinterbliebenen ins Jenseits symbolisch versperrt.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Friedhof&#95;Wilmersdorf" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Die Piloten verstellten die Auftriebshilfen von 40 auf 15 Grad.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Pacific&#45;Western&#45;Airlines&#45;Flug&#95;314" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Zum Ausgleich des Ventilspiels wird der Drehpunkt vertikal verstellt.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Schlepphebel" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Die Form der Spiegelschrift habe er gew&auml;hlt, um seine Handschrift leichter verstellen zu k&ouml;nnen, und hierbei seien ihm seine F&auml;higkeiten als gewandter Zeichner zugutegekommen.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Kaspar&#95;Hauser" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl><dl class="dl-horizontal"><dt class="dt-inner"><div class="example">Im Betrieb kann Klopfen durch Benzin mit h&ouml;herer Oktanzahl und durch Verstellen der Z&uuml;ndung nach sp&auml;t verhindert werden.</div><a href="https&#58;&#47;&#47;de&#46;wikipedia&#46;org&#47;wiki&#47;Verdichtungsverh&#37;C3&#37;A4ltnis" rel="nofollow" target="_blank" class="example-source"><i class="icon-signout"></i>de&#46;wikipedia&#46;org</a></dt></dl></div></div>
+          <div class="results-dict-examples pons content-box"><div class="content-inner"><h4>Primeri uporabe besede kam</h4><dl class="dl-horizontal" id="Tdesl15410290"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gre%C5%A1'>greš</a>?</span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gehst'>gehst</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/du'>du</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15410296"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A0m'>kàm</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/drugam'>drugam</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/woandershin'>woandershin</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15410292"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gre'>gre</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ta'>ta</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/svet'>svet</a>?</span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/was'>was</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wird'>wird</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/uns'>uns</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/werden'>werden</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15479248"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nas'>nas</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/to'>to</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/v%C3%AAde'>vêde</a>?</strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/f%C3%BChrt'>führt</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/uns'>uns</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/das'>das</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/hin'>hin</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15426928"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/si'>si</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nam%C3%A9njen'>naménjen</a>?</strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/willst'>willst</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/du'>du</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15432856"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/oditi'>oditi</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nezn%C3%A1no'>neznáno</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wer'>wer</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gehen'>gehen</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15410293"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/povej'>povej</a>, <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gremo'>gremo</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/sag'>sag</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wir'>wir</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/gehen'>gehen</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15424958"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/gre%C5%A1'>greš</a>, <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/motov%C3%ADlo'>motovílo</a>?</strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/l%C3%A4ufst'>läufst</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/du'>du</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/T%C3%B6lpel'>Tölpel</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15481723"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kdo'>kdo</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kje'>kje</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/vs%C3%A8'>vsè</a>?</strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wer'>wer</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/alles'>alles</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15440796"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kdo'>kdo</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kje'>kje</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/p%C3%A0'>pà</a>?</strong></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wer'>wer</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/denn'>denn</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15410291"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A1m'>kám</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/se'>se</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ti'>ti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/tako'>tako</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mudi'>mudi</a>?</span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/so'>so</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/eilig'>eilig</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15426946"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/namer%C3%A1vate'>namerávate</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/iti'>iti</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/na'>na</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/dopust'>dopust</a>?</span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/habt'>habt</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ihr'>ihr</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/vor'>vor</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Urlaub'>Urlaub</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/zu'>zu</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/machen'>machen</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15472097"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/vem'>vem</a>, <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pes'>pes</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/t%C3%A1co'>táco</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/moli'>moli</a></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ich'>ich</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wie'>wie</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/der'>der</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Hase'>Hase</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/l%C3%A4uft'>läuft</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15454447"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/nas'>nas</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/bo'>bo</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/to'>to</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pripeljalo'>pripeljalo</a>?</strong></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/f%C3%BChrt'>führt</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/uns'>uns</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/das'>das</a>?</div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15424364"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/vedeti'>vedeti</a>, <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pes'>pes</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/taco'>taco</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/mol%C3%AD'>molí</a></strong></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wissen'>wissen</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/der'>der</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Hund'>Hund</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/begraben'>begraben</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/liegt'>liegt</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15437196"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/babica'>babica</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/je'>je</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/odt%C3%A1vala'>odtávala</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/neznano'>neznano</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Oma'>Oma</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/taumelte'>taumelte</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/irgendwohin'>irgendwohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weg'>weg</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15442232"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/vem'>vem</a>, <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/pes'>pes</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/taco'>taco</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/moli'>moli</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ich'>ich</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a>, <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/der'>der</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Hase'>Hase</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/l%C3%A4uft'>läuft</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15478668"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="rhetoric"><acronym title="figurativno">fig.</acronym></span> <span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/bog'>bog</a>  <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/v%C3%A9'>vé</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kje'>kje</a>/<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kdaj'>kdaj</a></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/Gott'>Gott</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wohin'>wohin</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wo'>wo</a>/<a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wann'>wann</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15410297"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ve'>ve</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kod'>kod</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%A0m'>kàm</a></strong></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/er'>er</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weder'>weder</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ein'>ein</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/noch'>noch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl><dl class="dl-horizontal" id="Tdesl15413011"><dt class="dt-inner"><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="sl"></i></li></ul><div class="source"><span class="idiom_proverb"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/vem'>vem</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <strong class="tilde"><a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/k%C3%B3d'>kód</a></strong> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/ne'>ne</a> <a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam'>kam</a></span> <span class="rhetoric"><acronym title="figurativno">fig.</acronym></span></div></dt><dd class="dd-inner"><div class="target"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ich'>ich</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/wei%C3%9F'>weiß</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/weder'>weder</a>
+             <span class="target">[<span class="or"><a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ali'>ali</a></span> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/nicht'>nicht</a>]</span> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/ein'>ein</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/noch'>noch</a> <a href='/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/aus'>aus</a></div><ul class="inline translation-options"><li><i class="audio tts trackable trk-audio icon-volume-down" data-pons-lang="de"></i></li></ul></dd></dl></div></div><div class='parallax-container'>  <div class='parallax-abs'>    <div id='ad_mpuslot_3' class='parallax-fix'>      <script type='text/javascript'>iaw.cmd.push(function() { iaw.display('ad_mpuslot_3'); });</script>    </div>  </div></div>
 
         </div>
         <div id="tt-suggest-container" class="content-inner pons content-box">
-          <form class="tt-suggestion" accept-charset="utf-8" method="POST" action="https://sl.pons.com/prevod-besedišča"><input name="utf8" type="hidden" value="&#9760;" /><input type="hidden" name="source_language" value="de"/><input type="hidden" name="target_language" value="sl"/><input type="hidden" name="source" value="verstellen"/><button type="submit" class="btn btn-primary tt-suggestion" rel="nofollow">Želite prevesti cel stavek? Potem uporabite "Prevajanje besedila". </button></form>
+          <form class="tt-suggestion" accept-charset="utf-8" method="POST" action="https://sl.pons.com/prevod-besedišča"><input name="utf8" type="hidden" value="&#9760;" /><input type="hidden" name="source_language" value="sl"/><input type="hidden" name="target_language" value="de"/><input type="hidden" name="source" value="kam"/><button type="submit" class="btn btn-primary tt-suggestion" rel="nofollow">Želite prevesti cel stavek? Potem uporabite "Prevajanje besedila". </button></form>
 
           <div id="add-od">
   <p>
@@ -2305,7 +2348,7 @@ slovenščina          <i class="icon-angle-down"></i>
   <br/>
   <form class="od" method="get" action="/open_dict/entries/new">
     <input type="hidden" name="l" value="desl"/>
-    <input type="hidden" name="q" value="verstellen"/>
+    <input type="hidden" name="q" value="kam"/>
     <button class="btn btn-primary" type="submit">
       <i class="icon-plus-sign"></i>
       Dodaj nov prevod
@@ -2334,14 +2377,12 @@ slovenščina          <i class="icon-angle-down"></i>
   </div>
 </div>
 
-<div id="widget_vocablist" class="widget"><div class="widget-header" id="trainer-import">
+<div id='right-sticky-container'><div id="widget_vocablist" class="widget"><div class="widget-header" id="trainer-import">
   <h4>Moja vadnica besedišča <a href="#" class="pull-right"><i class="icon-info-sign"></i></a></h4>
 </div>
 <div id="trainer-rows" class="widget-body" style="min-height: 64px">
   <!-- empty -->
-</div></div><div id='right-sticky-container'><div id="widget_flection_table_preview" class="widget"><div class="widget-header"><h4>Razpredelnica za glagol verstellen</h4></div><div class="widget-body"><div id="flection_table" class="de"><div class="responsive_bs3"><div class="row">
-<div class="flection-row"><div class="flection-table col-xs-12 col-sm-6 col-md-3"><div class="ft-single-table"><table class="table"><tbody><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_1S">ich</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_1S">verstelle</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_2S">du</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_2S">verstellst</span></span></td></tr><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_3S">er/sie/es</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_3S">verstellt</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_1P">wir</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_1P">verstellen</span></span></td></tr><tr class="ft-cell-dark"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_2P">ihr</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_2P">verstellt</span></span></td></tr><tr class="ft-cell-light"><td><span data-pons-flection-id="INDIKATIV_PRAESENS_3P">sie</span></td><td><span><span class="flected_form" data-pons-variant="DEFAULT" data-pons-flection-id="INDIKATIV_PRAESENS_3P">verstellen</span></span></td></tr></tbody></table><div class="ft-ellipsis-helper"></div></div></div></div>
-</div></div></div></div><div class="widget-footer"><a data-pons-trackable="Wörterbuch-Verbtabellen-Link_im_Widget" href="/razpredelnice-glagolov/nem%C5%A1%C4%8Dina/verstellen"><i class="icon-chevron-sign-right"></i>Več</a></div></div>  <div id="ad_rightslot2">
+</div></div>  <div id="ad_rightslot2">
   <script type="text/javascript">
     iaw.cmd.push(function() { iaw.display("ad_rightslot2"); });
   </script>
@@ -2591,59 +2632,59 @@ Avtorske pravice &#169;  2001 - <span class="debug_switch">2021</span> ima PONS 
     <span id="locale_links">
   <br/>
   Stran
-  <a  href="https://de.pons.com/%C3%BCbersetzung/deutsch-slowenisch/verstellen" class="de">
+  <a  href="https://de.pons.com/%C3%BCbersetzung/slowenisch-deutsch/kam" class="de">
   Deutsch
   </a>
   |
-  <a  href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8/verstellen" class="bg">
+  <a  href="https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BD%D0%B5%D0%BC%D1%81%D0%BA%D0%B8/kam" class="bg">
   Български
   </a>
   |
-  <a  href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC-%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC/verstellen" class="el">
+  <a  href="https://el.pons.com/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7/%CF%83%CE%BB%CE%BF%CE%B2%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC-%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/kam" class="el">
   Ελληνικά
   </a>
   |
-  <a  href="https://en.pons.com/translate/german-slovenian/verstellen" class="en">
+  <a  href="https://en.pons.com/translate/slovenian-german/kam" class="en">
   English
   </a>
   |
-  <a  href="https://es.pons.com/traducci%C3%B3n/alem%C3%A1n-esloveno/verstellen" class="es">
+  <a  href="https://es.pons.com/traducci%C3%B3n/esloveno-alem%C3%A1n/kam" class="es">
   Español
   </a>
   |
-  <a  href="https://fr.pons.com/traduction/allemand-slov%C3%A8ne/verstellen" class="fr">
+  <a  href="https://fr.pons.com/traduction/slov%C3%A8ne-allemand/kam" class="fr">
   Français
   </a>
   |
-  <a  href="https://it.pons.com/traduzione/tedesco-sloveno/verstellen" class="it">
+  <a  href="https://it.pons.com/traduzione/sloveno-tedesco/kam" class="it">
   Italiano
   </a>
   |
-  <a  href="https://pl.pons.com/t%C5%82umaczenie/niemiecki-s%C5%82owe%C5%84ski/verstellen" class="pl">
+  <a  href="https://pl.pons.com/t%C5%82umaczenie/s%C5%82owe%C5%84ski-niemiecki/kam" class="pl">
   Polski
   </a>
   |
-  <a  href="https://pt.pons.com/tradu%C3%A7%C3%A3o/alem%C3%A3o-esloveno/verstellen" class="pt">
+  <a  href="https://pt.pons.com/tradu%C3%A7%C3%A3o/esloveno-alem%C3%A3o/kam" class="pt">
   Português
   </a>
   |
-  <a  href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/verstellen" class="ru">
+  <a  href="https://ru.pons.com/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9/kam" class="ru">
   Русский
   </a>
   |
-  <a  href="https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/verstellen" class="sl">
+  <a  href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/kam" class="sl">
   Slovenščina
   </a>
   |
-  <a  href="https://sr.pons.com/prevo%C4%91enje/nema%C4%8Dki-slovena%C4%8Dki/verstellen" class="sr">
+  <a  href="https://sr.pons.com/prevo%C4%91enje/slovena%C4%8Dki-nema%C4%8Dki/kam" class="sr">
   Srpski
   </a>
   |
-  <a  href="https://tr.pons.com/%C3%A7eviri/almanca-slovence/verstellen" class="tr">
+  <a  href="https://tr.pons.com/%C3%A7eviri/slovence-almanca/kam" class="tr">
   Türkçe
   </a>
   |
-  <a  href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E5%BE%B7%E8%AF%AD-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD/verstellen" class="zh">
+  <a  href="https://zh.pons.com/%E7%BF%BB%E8%AF%91/%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E8%AF%AD-%E5%BE%B7%E8%AF%AD/kam" class="zh">
   中文
   </a>
 <script type="text/javascript">
@@ -2753,7 +2794,7 @@ document.getElementById('locale_links').style.display = 'none';
             <input name="user_feedback[homepage]" size="30" type="text" value="http://pons.de/"/>
             <input class="entry_id" name="user_feedback[entry_id]" type="hidden"/>
             <input name="user_feedback[lang]" type="hidden" value="desl"/>
-            <input name="user_feedback[query]" type="hidden" value="verstellen"/>
+            <input name="user_feedback[query]" type="hidden" value="kam"/>
           </div>
         </div>
       </form>
@@ -3886,3 +3927,13 @@ document.getElementById('locale_links').style.display = 'none';
         <a title="romunsko ⇄ nemško" href="https://sl.pons.com/prevod/romunsko-nem%C5%A1%C4%8Dina">
           romunsko ⇄ nemško
         </a>
+      </li>
+    </ul>
+  </div>
+  <div class="dicts-category dicts-category-ru" style="display:none">
+    <div class="category-title">
+      ruščina Slovarji
+    </div>
+    <ul class="bilingual-dicts">
+      <li>
+        <span class
