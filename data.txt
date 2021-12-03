@@ -56,7 +56,6 @@ obes^ati@ha:ngen@1
 prinesti@holen@1
 viseti@ha:ngen@1
 zvoniti/pozvoniti@klingeln@1
-zvoniti/zveneti@klingen@1
 meniti@meinen@1
 slikati@malen@1
 vec^inoma@meistens@1
@@ -186,7 +185,7 @@ junak@der held@1
 geben pr.@gab@1
 kdaj?@wann@1
 stopati@treten@1
-sunek@der stos:@0
+sunek@der stos:@100
 razumeti@verstehen@0
 ko/c^e@wenn@0
 bolec^ina@der schmerz@1
@@ -224,10 +223,11 @@ dirka@das rennen@0
 c^igav@wessen@0
 srec^a@das glu:ck@1
 pos^kodovati@bescha:digen@0
-povzroc^iti@verursachen@1
+povzroc^iti@verursachen@0
 operirati@operieren@1
 koga?@wen@0
 komu?@wem@1
 c^akati@warten@1
 bitten pr.@bat@1
 izgubiti z^ivljenje@kommen ums leben@1
+zvoniti/zveneti@klingen@0

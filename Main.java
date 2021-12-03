@@ -103,12 +103,12 @@ public class Main {
     int streakLimit = 3;
     boolean doSet = false;
     boolean completeRandom = false;
+    int counter = 0; //loop through flashcards in order of seed
+    int actualIndexForUse = -1; //Counter, but parsed through the seed to find what we're actually looking at
     void detectUserInput(){
         String userInput = "";
-        int counter = 0; //loop through flashcards in order of seed
         int skipCounter = 0;
         while(!userInput.equals("q")){
-            int actualIndexForUse = -1;
             if(completeRandom) generateSeed();
             
             if(!answers.isEmpty()){
@@ -155,7 +155,7 @@ public class Main {
                 String toPrint = flashcards.get(actualIndexForUse);
                 toPrint = unChingCheng(toPrint);
 
-                System.out.println(toPrint + " || " + "!help"); //get flashcard from seed number and not in numerical order
+                System.out.println(toPrint + " || " + "!help, Current limit: " + streakLimit); //get flashcard from seed number and not in numerical order
             }
 
             Scanner scan = new Scanner(System.in);
@@ -166,12 +166,18 @@ public class Main {
             for(int i=0; i<70; i++)sb.append("\n");
             System.out.println(sb.toString());
 
+            if(userInput.length()==0){
+                saveStatus();
+                continue;
+            }
             if(userInput.substring(0,1).equals("!")){
                 //command options------------------------------------------------------------------------------------------------------------------------
                 userCommands(userInput.substring(1,userInput.length()));
             } else {
                 //Check for correct or wrong answer if it didn't detect any custom commands--------------------------------------------------------------
                 //check for duplicates. If a duplicate exists say that it's correct, but not what the program wanted
+                String userInputOriginalCopy = userInput;
+                userInput = userInput.toLowerCase();
                 int duplicates = 0;
                 boolean wrongAnswer = true;
                 for(int i=0; i<flashcards.size(); i++){
@@ -214,7 +220,7 @@ public class Main {
     void userCommands(String userInput) {
         Scanner scan = new Scanner(System.in);
         switch(userInput){
-            case "help":
+            case "", "h", "help":
                 helpMenu();
                 break;
             case "rf":
@@ -268,7 +274,7 @@ public class Main {
                 }
                 break;
             case "a":
-                addNewFlashcard(userInput);
+                addNewFlashcard();
                 break;
             case "m":
                 makeNewSet();
@@ -293,8 +299,7 @@ public class Main {
                     if(streaks.get(i)==0) set.add(i);
                 }
                 break;
-            case "ca":
-            case "rs":
+            case "ca", "rs":
                 int selectedInput = 0;
                 if(userInput.equals("ca")) selectedInput = 0;
                 else if(userInput.equals("rs")) selectedInput = 1;
@@ -325,15 +330,14 @@ public class Main {
             case "l":
                 listAll(true);
                 break;
-            case "r":
-            case "e":
+            case "r", "e":
                 removeOrEdit(userInput, scan);
                 break;
             case "el":
                 System.out.println(flashcards.get(flashcards.size() - 1) + " - " + answers.get(answers.size() -1));
                 saveStatus();
                 int flashcardamount = flashcards.size();
-                addNewFlashcard(userInput);
+                addNewFlashcard();
                 if(flashcardamount<flashcards.size()){
                     flashcards.remove(flashcards.size() - 2);
                     answers.remove(answers.size()-2);
@@ -342,11 +346,15 @@ public class Main {
                 break;
             case "ec":
                 System.out.println(flashcards.get(actualIndexForUse) + " - " + answers.get(actualIndexForUse));
-                flashcards.remove(actualIndexForUse);
-                answers.remove(actualIndexForUse);
-                streaks.remove(actualIndexForUse);
                 saveStatus();
-                addNewFlashcard(userInput);
+                int index = actualIndexForUse;
+                flashcardamount = flashcards.size();
+                addNewFlashcard();
+                if(flashcardamount<flashcards.size()){
+                    flashcards.remove(index);
+                    answers.remove(index);
+                    streaks.remove(index);
+                }
                 break;
             case "rev":
                 reverseQuestionsAndAnswers();
@@ -370,10 +378,6 @@ public class Main {
                 userInput = userInput.toLowerCase();
                 if(actualIndexForUse<0){
                     System.out.println("You have no flashcards created. Try \"a\" to create a new flashcard.");
-                    break;
-                }
-                if(userInput.length()==0){
-                    saveStatus();
                     break;
                 }
 
@@ -424,20 +428,37 @@ public class Main {
         }
     }
     void helpMenu(){
-        System.out.println("!+:");
-        System.out.println("q - Quit");
-        System.out.println("n - Next flashcard");
-        System.out.println("a - Add new flashcard");
-        System.out.println("rf - Read flashcards from file. (Useful if you added new flashcards straight into the file while the program was running)");
-        System.out.println("b - Back/Previous flashcard");
-        System.out.println("r - Remove");
-        System.out.println("m - Make set (of flashcards)");
-        System.out.println("m pr. - Make a set out of flashcards that end with \"pr.\"");
-        System.out.println("m f keyword - Make a set out of flashcards that start with keyword");
-        System.out.println("m l keyword - Make a set out of flashcards that end with keyword");
-        System.out.println("");
-        System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, m f keyword-make set ouf of flashcards that start with keyword, m l keyword-make set out of flashcards that end in keyword, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
-
+        System.out.println("!q - Quit");
+        System.out.println("!n - Next flashcard");
+        System.out.println("!a - Add new flashcard");
+        System.out.println("!rf - Read flashcards from file. (Useful if you added new flashcards straight into the file while the program was running)");
+        System.out.println("!b - Back/Previous flashcard");
+        System.out.println("!r - Remove");
+        System.out.println("!m - Make set (of flashcards)");
+        System.out.println("!m pr. - Make a set out of flashcards that end with \"pr.\"");
+        System.out.println("!m f *keyword* - Make a set out of flashcards that start with keyword");
+        System.out.println("!m l *keyword* - Make a set out of flashcards that end with keyword");
+        System.out.println("!ds - Do set / Use the active set");
+        System.out.println("!ss - Save set / Save the active set");
+        System.out.println("!os - Open set / Open a saved set / Load a saved set");
+        System.out.println("!ps - Print set / Print the active set and its flashcards");
+        System.out.println("!rand - True randomness. No seeds, only random.");
+        System.out.println("!g - Generate new seed");
+        System.out.println("!e - Edit a flashcard");
+        System.out.println("!el - Edit the last added flashcard (!lu to find the last added flashcard)");
+        System.out.println("!ec - Edit current flashcard");
+        System.out.println("!r - Remove a flashcard");
+        System.out.println("!l - List all the flashcards sorted A-Z");
+        System.out.println("!lu - List all the flashcards unsorted (In the order which they were added)");
+        System.out.println("!sl - Set limit / Set the streak limit, before the flashcards stop showing");
+        System.out.println("!rev - Reverse the flashcards and answers");
+        System.out.println("!konj *german verb* - Konjugates the german verb into all needed forms");
+        System.out.println("!def *word* - Define / Translates the word from Slovene to German and vice versa. Tries to find the answer within your flashcards. If it fails, it searches online");
+        System.out.println("!defi *word* - Same as !def, but straight to the interner");
+        System.out.println("!setc - Set the streak of the current word");
+        System.out.println("!ca - Clear all flashcards from file <- Don't do this");
+        System.out.println("!rs - Reset all streaks back to 0");
+        //System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, m f keyword-make set ouf of flashcards that start with keyword, m l keyword-make set out of flashcards that end in keyword, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
     }
 
 
@@ -471,10 +492,10 @@ public class Main {
         answers.remove(actualIndex);
         streaks.remove(actualIndex);
         saveStatus();
-        if(userInput.equals("e")) addNewFlashcard(userInput);
+        if(userInput.equals("e")) addNewFlashcard();
         generateSeed();
     }
-    void addNewFlashcard(String userInput){
+    void addNewFlashcard(){
         Scanner scan = new Scanner(System.in);
         System.out.println("Question:");
         String userInput1 = scan.nextLine();
@@ -500,7 +521,7 @@ public class Main {
             } else break;
         }
 
-        userInput = userInput1 +  "@" + userInput2 + "@0";
+        String fullFlash = userInput1 +  "@" + userInput2 + "@0";
         
         //check if an exact copy already exists
         for(int i=0; i<flashcards.size(); i++){
@@ -516,8 +537,8 @@ public class Main {
 
         try{
             PrintWriter pw = new PrintWriter(new FileWriter(file, true));
-            userInput = userInput.toLowerCase();
-            pw.println(userInput);
+            fullFlash = fullFlash.toLowerCase();
+            pw.println(fullFlash);
             pw.close();
             readFlashcards();
             autoBackup();
