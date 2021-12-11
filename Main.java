@@ -10,8 +10,8 @@ public class Main {
     /*
     * TODO:
     *
-    * Make all the commands have a special activation character in front, such as "/" so that they are not accidentally triggered when trying to type in a quick false response or if there is an actual flashcard with the exact text
-    * Add a /help instead of having all the commands written in the main sysout
+    * DONE: Make all the commands have a special activation character in front, such as "/" so that they are not accidentally triggered when trying to type in a quick false response or if there is an actual flashcard with the exact text
+    * DONE: Add a /help instead of having all the commands written in the main sysout
     * (Optional) Clean-up and document code
     * (Dreamful) Make this an actual UI program for multi-language learning
     */
@@ -172,6 +172,7 @@ public class Main {
             }
             if(userInput.substring(0,1).equals("!")){
                 //command options------------------------------------------------------------------------------------------------------------------------
+                if(userInput.equals("!q")) break;
                 userCommands(userInput.substring(1,userInput.length()));
             } else {
                 //Check for correct or wrong answer if it didn't detect any custom commands--------------------------------------------------------------
@@ -223,6 +224,14 @@ public class Main {
             case "", "h", "help":
                 helpMenu();
                 break;
+            case "t":
+                //for test commands
+                String[] inputArray = {"ssss", "ssssssssssssssss", "sssssssss", "sssssss"};
+                inputArray = addTabs(inputArray);
+                for(String x : inputArray){
+                    System.out.println(x + "-");
+                }
+                break;
             case "rf":
                 readFlashcards();
                 break;
@@ -263,7 +272,7 @@ public class Main {
             case "ps":
                 System.out.println(set);
                 for(int i=0; i<set.size(); i++){
-                    System.out.println(flashcards.get(set.get(i)) + " - " + answers.get(set.get(i)));
+                    System.out.println(addTabs(flashcards).get(set.get(i)) + " - " + answers.get(set.get(i)));
                 }
                 break;
             case "n":
@@ -570,10 +579,11 @@ public class Main {
             biggestIndex/=10;
         }
 
+        ArrayList<String> superTempFlashcards = new ArrayList<>();
         //print them all----------------
+        String[] allZeroes = new String[tempFlashcards.size()];
         for(int i=0; i<tempAnswers.size(); i++){
-            String toPrint = tempFlashcards.get(i) + "-" + tempAnswers.get(i) + "-" + tempStreaks.get(i);
-            toPrint = toPrint.toLowerCase();
+            allZeroes[i] = "";
 
             //-------Add the zeroes---------------
             if(i<Math.pow(10, zerocounter)){
@@ -586,15 +596,24 @@ public class Main {
                 }
                 int howManyZeroesNeeded = zerocounter-iZeroes;
                 for(int j=0;j<howManyZeroesNeeded; j++){
-                    System.out.print("0");
+                    allZeroes[i] += "0";
                 }
-            }
 
+            }
+            superTempFlashcards.add(allZeroes[i] + i + " " + tempFlashcards.get(i));
+
+        }
+
+
+        superTempFlashcards = addTabs(superTempFlashcards);
+
+        for(int i=0; i<superTempFlashcards.size(); i++){
+            String toPrint = superTempFlashcards.get(i) + "-" + tempAnswers.get(i) + "-" + tempStreaks.get(i);
+            toPrint = toPrint.toLowerCase();
             //change the c^ and u: types to normal types
             toPrint = unChingCheng(toPrint);
-
             //Print everything after the zeroes--------------
-            System.out.println(i + " " + toPrint);
+            System.out.println(toPrint);
         }
         saveStatus();
     }
@@ -949,5 +968,53 @@ public class Main {
                 }
             }
         }
+    }
+
+    ArrayList<String> addTabs(ArrayList<String> inputArray){
+        String[] tempArray = new String[inputArray.size()];
+        for(int i=0; i<tempArray.length; i++){
+            tempArray[i] = inputArray.get(i);
+        }
+
+        tempArray = addTabs(tempArray);
+
+        ArrayList<String> newArray = new ArrayList<>();
+        for(int i=0; i<tempArray.length; i++){
+            newArray.add(tempArray[i]);
+        }
+
+        return newArray;
+    }
+
+    String[] addTabs(String[] inputArray){
+        //One \t equals 8 spaces in monosize. Make tester
+        int minTabs = 5000000;
+        int maxTabs = 0;
+        int[] allTabs = new int[inputArray.length];
+        for(int i=0; i<inputArray.length; i++){
+            int wordLength = inputArray[i].length();
+            int tabAmount = 0;
+            //if(wordLength%8 == 7) tabAmount--;
+            while(wordLength>=0){
+                wordLength-=8;
+                tabAmount++;
+            }
+            allTabs[i] = tabAmount;
+            if(tabAmount > maxTabs){
+                maxTabs = tabAmount;
+            }
+            if(tabAmount < minTabs){
+                minTabs = tabAmount;
+            }
+        }
+        
+        //Add the tabs
+        for(int i=0; i<inputArray.length; i++){
+            for(int j=0; j<maxTabs-allTabs[i]; j++){
+                inputArray[i] += "\t";
+            }
+        }
+
+        return inputArray;
     }
 }
