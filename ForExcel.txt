@@ -1,0 +1,479 @@
+krvaveti
+drugo
+iti po nekaj
+predati
+vstati
+dobiti
+delati
+likati
+naročiti
+ostati
+prinesti
+pripovedovati
+plačati
+pomeniti
+zlomiti
+dlan
+glava
+hrbet
+kri
+mesec
+noga
+nos
+nesreča
+oko
+prst
+prst na nogi
+prsi
+pouk
+roka
+stopalo
+sanje
+trebuh
+trajati
+tam
+uho
+vrat
+zgled
+boli
+enostavno
+nakupovati
+odločiti
+občutiti
+povabiti
+prepoznati
+leteti
+praznovati
+ujeti/loviti
+veseliti
+dogajati
+ugajati
+uživati
+verjeti
+ves
+zmagati
+obešati
+prinesti
+viseti
+zvoniti/pozvoniti
+meniti
+slikati
+večinoma
+nihče
+zgoditi
+govoriti
+kaditi
+računati
+rešiti
+gledati
+iskati
+od
+opraskati
+postaviti
+poslati
+reči
+sesati
+usesti
+urezati
+zmagati
+mogoče
+opeči
+pogrešati
+zviti
+postati
+vedeti
+kazati
+najprej
+risati
+še
+dejansko
+ustaviti
+cesta
+trgovina
+življenje
+potrebovati
+zdravilo
+vozilo
+rešilec
+odgovoriti
+zgodaj
+skupaj
+sedeti
+brati
+machen pr.
+besuchen pr.
+sehen pr.
+fahren pr.
+wollen pr.
+arbeiten pr.
+sein pr.
+kommen pr.
+ziehen pr.
+regnen pr.
+blitzen pr.
+donnern pr.
+halten pr.
+treten pr.
+setzen pr.
+können pr.
+verstehen pr.
+haben pr.
+essen pr.
+nehmen pr.
+zeichnen pr.
+gehen pr.
+freuen pr.
+bringen pr.
+bekommen pr.
+sollen pr.
+dürfen pr.
+wohnen pr.
+schreiben pr.
+einladen pr.
+schicken pr.
+antworten pr.
+telefonieren pr.
+spielen pr.
+stehen pr.
+siegen pr.
+gewinnen pr.
+obliž
+sitzen pr.
+biegen pr.
+neverjeten
+trainieren pr.
+werden pr.
+holen pr.
+pripovedovati
+erzählen pr.
+sprechen pr.
+sanjati
+traumen pr.
+promet
+poškodba
+opeklina
+zlom
+praska
+trk
+domača naloga
+helfen pr.
+zvin
+ureznina
+premikati
+boleti
+mazilo
+kaj?
+govoriti
+vleči
+laufen pr.
+nikoli
+nikoli
+tut pr.
+gips
+grmeti
+entscheiden pr.
+poslati
+vročina
+na/pri/ob
+gledati
+srečati
+smejati
+pasti
+dovolj
+kje?
+junak
+geben pr.
+kdaj?
+stopati
+sunek
+razumeti
+ko/če
+bolečina
+boleti
+zakaj?
+od kod?
+stürzen pr.
+povoj
+zmagovalec
+hlače
+tam
+rešilec
+kdo?
+do
+kako/koliko?
+poškodovati
+bliskati
+zlomljen
+kam?
+zmaga
+bolnišnica
+čaj
+zob
+smrt
+žrtev
+mrtev
+treščiti
+škoda
+pasti
+navduševati
+hudo
+zaviti
+mladost
+dirka
+sreča
+poškodovati
+povzročiti
+operirati
+koga?
+komu?
+čakati
+bitten pr.
+izgubiti življenje
+zvoniti/zveneti
+čigav?
+, da
+, ker
+, čeprav
+, kljub temu
+zato
+, da bi
+
+bluten
+anderen
+abholen
+aufgeben
+aufstehen
+bekommen
+arbeiten
+bügeln
+bestellen
+bleiben
+bringen
+berichten
+bezahlen
+bedeuten
+brechen
+die hand
+der kopf
+der rücken
+das blut
+der monat
+das bein
+die nase
+der unfall
+das auge
+der finger
+der zehe
+die brust
+der unterricht
+der arm
+der fuß
+der traum
+der bauch
+dauern
+dort
+das ohr
+der hals
+das vorbild
+es tut weh
+einfach
+einkaufen
+entscheiden
+empfinden
+einladen
+erkennen
+fliegen
+feiern
+fangen
+freuen
+geschehen
+gefallen
+genießen
+glauben
+ganz
+gewinnen
+hängen
+holen
+hängen
+klingeln
+meinen
+malen
+meistens
+niemand
+passieren
+reden
+rauchen
+rechnen
+retten
+schauen
+suchen
+seit
+schrammen
+stellen
+senden
+sagen
+saugen
+setzen
+schneiden
+siegen
+vielleicht
+verbrennen
+vermissen
+verstauchen
+werden
+wissen
+zeigen
+zuerst
+zeichnen
+noch
+wirklich
+halten
+die straße
+das geschäft
+das leben
+brauchen
+das medikament
+das fahrzeug
+der krankenwagen
+antworten
+früh
+zusammen
+sitzen
+lesen
+machte
+besuchte
+sah
+fuhr
+wollte
+arbeitete
+war
+kam
+zog
+regnete
+blitzte
+donnerte
+hielt
+trat
+setzte
+konnte
+verstand
+hatte
+aß
+nahm
+zeichnete
+ging
+freute
+brachte
+bekam
+sollte
+durfte
+wohnte
+schrieb
+lud ein
+schickte
+antwortete
+telefonierte
+spielte
+stand
+siegte
+gewann
+das pflaster
+saß
+bog
+unglaublich
+trainierte
+wurde
+holte
+erzählen
+erzählte
+sprach
+traumen
+träumte
+der verkehr
+die verletzung
+die verbrennung
+der bruch
+die schramme
+der zusammenstoß
+die hausaufgabe
+half
+die verstauchung
+der schnitt
+bewegen
+schmerzen
+die salbe
+was
+sprechen
+ziehen
+lief
+niemals
+nie
+tat
+der gips
+donnern
+entschied
+schicken
+das fieber
+am
+sehen
+treffen
+lachen
+stürzen
+genug
+wo
+der held
+gab
+wann
+treten
+der stoß
+verstehen
+wenn
+der schmerz
+wehtun
+warum
+woher
+stürzte
+der verband
+der sieger
+die hose
+da
+der rettungswagen
+wer
+bis
+wie
+verletzen
+blitzen
+gebrochen
+wohin
+der sieg
+das krankenhaus
+der tee
+der zahn
+der tod
+das opfer
+tot
+krachen
+der schaden
+fallen
+begeistern
+schwer
+abbiegen
+die jugend
+das rennen
+das glück
+beschädigen
+verursachen
+operieren
+wen
+wem
+warten
+bat
+kommen ums leben
+klingen
+wessen
+dass
+weil
+obwohl
+trotzdem
+deshalb
+damit

@@ -105,6 +105,7 @@ public class Main {
     boolean completeRandom = false;
     int counter = 0; //loop through flashcards in order of seed
     int actualIndexForUse = -1; //Counter, but parsed through the seed to find what we're actually looking at
+    boolean resetStreakWhenWrongAnswer = true;
     void detectUserInput(){
         String userInput = "";
         int skipCounter = 0;
@@ -208,7 +209,7 @@ public class Main {
                 if(wrongAnswer){
                     System.out.println("Duplicates = " + duplicates);
                     System.out.println("Wrong/////////; Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "         Your answers: " + unChingCheng(userInputOriginalCopy));
-                    streaks.set(actualIndexForUse, -1);
+                    if(resetStreakWhenWrongAnswer) streaks.set(actualIndexForUse, -1);
                 }
             }
 
@@ -224,7 +225,7 @@ public class Main {
             case "", "h", "help":
                 helpMenu();
                 break;
-            case "t":
+            case "t", "test":
                 //for test commands
                 String[] inputArray = {"ssss", "ssssssssssssssss", "sssssssss", "sssssss"};
                 inputArray = addTabs(inputArray);
@@ -232,10 +233,10 @@ public class Main {
                     System.out.println(x + "-");
                 }
                 break;
-            case "rf":
+            case "rf", "read flashcards":
                 readFlashcards();
                 break;
-            case "sl":
+            case "sl", "set limit":
                 System.out.printf("Set the new limit(%s):%n",streakLimit);
                 try{
                     int prevLimit = streakLimit;
@@ -249,46 +250,67 @@ public class Main {
                     System.out.println(e);
                 }
                 break;
-            case "q":
+            case "q", "quit":
                 saveStatus();
                 break;
-            case "b":
+            case "b", "back":
                 counter--;
                 if(counter<0){
                     counter = flashcards.size()-1;
                 }
                 break;
-            case "ds":
+            case "ds", "do set":
                 if(doSet==false)doSet=true;
                 else doSet=false;
                 System.out.println("Do set: " + doSet);
                 break;
-            case "ss":
+            case "ss", "save set":
                 saveSetToFile();
                 break;
-            case "os":
+            case "os", "open set":
                 openSetFromFile();
                 break;
-            case "ps":
+            case "ps", "print set":
                 System.out.println(set);
                 for(int i=0; i<set.size(); i++){
                     System.out.println(addTabs(flashcards).get(set.get(i)) + " - " + answers.get(set.get(i)));
                 }
                 break;
-            case "n":
+            case "n", "next":
                 counter++;
                 if(counter>=answers.size()){
                     counter=0;
                     generateSeed();
                 }
                 break;
-            case "a":
+            case "a", "add", "new":
                 addNewFlashcard();
                 break;
-            case "m":
+            case "as", "add set", "add to set":
+                boolean alreadyInSet = false;
+                for(int x : set){
+                    if(x==actualIndexForUse){
+                        System.out.println("Already in set.");
+                        alreadyInSet=true;
+                        break;
+                    }
+                }
+                if(!alreadyInSet) set.add(actualIndexForUse);
+                break;
+            case "cs", "clear set":
+                set.clear();
+                break;
+            case "res", "remove set", "remove from set":
+                for(int x=0; x<set.size(); x++){
+                    if(set.get(x)==actualIndexForUse){
+                        set.remove(x);
+                        break;
+                    }
+                }
+            case "m", "ms", "make set":
                 makeNewSet();
                 break;
-            case "m pr.":
+            case "m pr.", "make prateritum":
                 set.clear();
                 for(int i=0; i<flashcards.size(); i++){
                     if(flashcards.get(i).length()<3) continue;
@@ -302,7 +324,7 @@ public class Main {
                     }
                 }
                 break;
-            case "m 0":
+            case "m 0", "make 0":
                 set.clear();
                 for(int i=0; i<streaks.size(); i++){
                     if(streaks.get(i)==0) set.add(i);
@@ -312,7 +334,13 @@ public class Main {
                 int selectedInput = 0;
                 if(userInput.equals("ca")) selectedInput = 0;
                 else if(userInput.equals("rs")) selectedInput = 1;
-                System.out.println("Are you sure you want to do this: \"yes\"-confirm, anything else-cancel");
+                System.out.println("YOU ARE ABOUT TO CLEAR ALL THE FLASHCARDS/STREAKS");
+                System.out.println("!!!!! WARNING !!!!!");
+                System.out.println("YOU ARE ABOUT TO CLEAR ALL THE FLASHCARDS/STREAKS");
+                System.out.println("!!!!! WARNING !!!!!");
+                System.out.println("Are you sure you want to do this: \"yes\"x2-confirm, anything else-cancel");
+                userInput = scan.nextLine();
+                if(!userInput.equals("yes")) break;
                 userInput = scan.nextLine();
                 if(userInput.equals("yes")){
                     if(selectedInput==0){
@@ -330,19 +358,19 @@ public class Main {
                 saveStatus();
                 break;
             
-            case "g":
+            case "g", "generate seed":
                 generateSeed();
                 break;
-            case "lu":
+            case "lu", "list unsorted", "list all unsorted":
                 listAll(false);
                 break;
-            case "l":
+            case "l", "list", "list sorted", "list all":
                 listAll(true);
                 break;
             case "r", "e":
                 removeOrEdit(userInput, scan);
                 break;
-            case "el":
+            case "el", "edit last":
                 System.out.println(flashcards.get(flashcards.size() - 1) + " - " + answers.get(answers.size() -1));
                 saveStatus();
                 int flashcardamount = flashcards.size();
@@ -353,7 +381,7 @@ public class Main {
                     streaks.remove(streaks.size()-2);
                 }
                 break;
-            case "ec":
+            case "ec", "edit current":
                 System.out.println(flashcards.get(actualIndexForUse) + " - " + answers.get(actualIndexForUse));
                 saveStatus();
                 int index = actualIndexForUse;
@@ -365,10 +393,10 @@ public class Main {
                     streaks.remove(index);
                 }
                 break;
-            case "rev":
+            case "rev", "reverse":
                 reverseQuestionsAndAnswers();
                 break;
-            case "setc":
+            case "setc", "set current streak", "set current":
                 setCurrentWordStreak(actualIndexForUse);
                 counter++;
                 if(counter>=answers.size()){
@@ -376,10 +404,18 @@ public class Main {
                     generateSeed();
                 }
                 break;
-            case "rand":
+            case "rand", "random", "true random":
                 if(!completeRandom) completeRandom=true;
                 else completeRandom=false;
                 System.out.println("Complete random: " + completeRandom);
+                break;
+            case "war", "wrong answer reset":
+                if(resetStreakWhenWrongAnswer) resetStreakWhenWrongAnswer = false;
+                else resetStreakWhenWrongAnswer = true;
+                System.out.println("Set to: " + resetStreakWhenWrongAnswer);
+                break;
+            case "print excel":
+                printForExcel();
                 break;
             default:
                 //this copy is for the definition method
@@ -391,6 +427,27 @@ public class Main {
                 }
 
                 //Custom commands that can't be in the switch case---------------------------------------------------------------------------------------
+                if(userInput.length()>3 && userInput.substring(0,2).equals("go")){
+                    try{
+                        boolean foundThatThing = false;
+                        String goNumString = userInput.substring(3,userInput.length());
+                        int goNum = Integer.parseInt(goNumString);
+                        for(int x=0;x<seed.size(); x++){
+                            if(seed.get(x)==goNum){
+                                this.counter = x;
+                                foundThatThing=true;
+                                System.out.println("Going.");
+                                break;
+                            }
+                        }
+                        if(foundThatThing)break;
+                        System.out.println("Couldn't find that flashcard.");
+                    }catch(Exception e){
+                        System.out.println("Please input number.");
+                    }
+                    break;
+                }
+
                 //Online definition
                 if(userInput.length()>5 && userInput.substring(0,5).equals("defi ")){
                     boolean internet = true;
@@ -447,11 +504,15 @@ public class Main {
         System.out.println("!m pr. - Make a set out of flashcards that end with \"pr.\"");
         System.out.println("!m f *keyword* - Make a set out of flashcards that start with keyword");
         System.out.println("!m l *keyword* - Make a set out of flashcards that end with keyword");
+        System.out.println("!as - Add current index to current set");
+        System.out.println("!res - Remove current index from set");
+        System.out.println("!cs - Clear current set");
         System.out.println("!ds - Do set / Use the active set");
         System.out.println("!ss - Save set / Save the active set");
         System.out.println("!os - Open set / Open a saved set / Load a saved set");
         System.out.println("!ps - Print set / Print the active set and its flashcards");
         System.out.println("!rand - True randomness. No seeds, only random.");
+        System.out.println("!war - Wrong answer reset toggle");
         System.out.println("!g - Generate new seed");
         System.out.println("!e - Edit a flashcard");
         System.out.println("!el - Edit the last added flashcard (!lu to find the last added flashcard)");
@@ -1016,5 +1077,26 @@ public class Main {
         }
 
         return inputArray;
+    }
+
+    File excelFile = new File("ForExcel.txt");
+    void printForExcel(){
+        try{
+            if(excelFile.createNewFile()){
+                System.out.println("Created Excel file.");
+            }
+            PrintWriter writer = new PrintWriter(new FileWriter(excelFile));
+            for(String x : flashcards){
+                writer.println(unChingCheng(x));
+            }
+            writer.println();
+            for(String x : answers){
+                writer.println(unChingCheng(x));
+            }
+            writer.close();
+            System.out.println("Printed to file " + excelFile);
+        }catch(Exception e){
+            System.out.println("Something went wrong when printing for Excel.");
+        }
     }
 }

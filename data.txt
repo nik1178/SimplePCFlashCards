@@ -11,7 +11,7 @@ ostati@bleiben@0
 prinesti@bringen@0
 pripovedovati@berichten@0
 plac^ati@bezahlen@0
-pomeniti@bedeuten@0
+pomeniti@bedeuten@1
 zlomiti@brechen@0
 dlan@die hand@0
 glava@der kopf@0
@@ -47,7 +47,7 @@ praznovati@feiern@0
 ujeti/loviti@fangen@0
 veseliti@freuen@0
 dogajati@geschehen@0
-ugajati@gefallen@0
+ugajati@gefallen@1
 uz^ivati@genies:en@0
 verjeti@glauben@0
 ves@ganz@0
@@ -137,7 +137,7 @@ spielen pr.@spielte@0
 stehen pr.@stand@0
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
-obliz^@das pflaster@0
+obliz^@das pflaster@3
 sitzen pr.@sas:@0
 biegen pr.@bog@0
 neverjeten@unglaublich@0
@@ -167,7 +167,7 @@ govoriti@sprechen@0
 vlec^i@ziehen@0
 laufen pr.@lief@0
 nikoli@niemals@0
-nikoli@nie@0
+nikoli@nie@1
 tut pr.@tat@0
 gips@der gips@0
 grmeti@donnern@0
@@ -178,7 +178,7 @@ na/pri/ob@am@0
 gledati@sehen@0
 srec^ati@treffen@0
 smejati@lachen@0
-pasti@stu:rzen@0
+pasti@stu:rzen@1
 dovolj@genug@0
 kje?@wo@0
 junak@der held@0
@@ -204,7 +204,7 @@ kako/koliko?@wie@0
 pos^kodovati@verletzen@0
 bliskati@blitzen@0
 zlomljen@gebrochen@0
-kam?@wohin@0
+kam?@wohin@1
 zmaga@der sieg@0
 bolnis^nica@das krankenhaus@0
 c^aj@der tee@0
