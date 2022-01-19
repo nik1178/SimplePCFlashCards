@@ -578,3 +578,21 @@ c^igav?@wessen@0
 , kljub temu@trotzdem@0
 zato@deshalb@0
 , da bi@damit@0
+Iliada@Homer \n Junaški ep@0
+Kralj Ojdip@Sofoklej \n@0
+iliada@homer@0
+kralj ojdip@sofoklej@0
+svatovska pesem@sapfo@0
+boz^anska komedija@alighieri@0
+o blaz^en bodi c^as pomladnih dni@petrarca@0
+hamlet@shakespeare@0
+novela o sokolu@boccacco@0
+miguel de cervantes saavedra@don kihot@0
+proti zidavi cerkva@primoz^ trubar@0
+na noviga lejta dan@janez svetokris^ki@0
+lepa vida@/@0
+tartuffe@moliere@0
+zadovoljni krajnc@valentin vodnik@0
+matic^ek se z^eni@linhart@0
+visoka pesem@/@0
+test@this is a n\ multiline test@0

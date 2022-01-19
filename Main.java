@@ -307,6 +307,7 @@ public class Main {
                         break;
                     }
                 }
+                break;
             case "m", "ms", "make set":
                 makeNewSet();
                 break;
@@ -680,7 +681,7 @@ public class Main {
     }
     String unChingCheng(String toPrint) {
         for(int j=0; j<toPrint.length(); j++){
-            if(toPrint.charAt(j) == '^' || toPrint.charAt(j) == ':'){
+            if(toPrint.charAt(j) == '^' || toPrint.charAt(j) == ':' || toPrint.charAt(j) == '\\'){
                 char whichChar = toPrint.charAt(j-1);
                 char charToReplaceWith = ' ';
                 switch(whichChar){
@@ -699,14 +700,16 @@ public class Main {
                     case 'o':
                         charToReplaceWith = 'ö';
                         break;
+                    case 'n':
+                        charToReplaceWith = '\n';
+                        break;
+                    case 's':
+                        if(toPrint.charAt(j) == ':'){
+                            charToReplaceWith = 'ß';
+                        } else charToReplaceWith = 'š';
+                        break;
                     default:
-                        if(whichChar == 's'){
-                            if(toPrint.charAt(j) == ':'){
-                                charToReplaceWith = 'ß';
-                            } else charToReplaceWith = 'š';
-                        } else{
-                            System.out.println("Something went wrong with turning ching cheng hanji into readable");
-                        }
+                        System.out.println("Something went wrong with turning ching cheng hanji into readable");
                         break;
 
                 }
@@ -800,7 +803,7 @@ public class Main {
         }
     }
     void reverseQuestionsAndAnswers(){
-        listAll(true);
+        listAll(false);
         Scanner scan = new Scanner(System.in);
         System.out.println("a-All, x-y - x to y");
         String userInput = scan.nextLine();
@@ -810,7 +813,7 @@ public class Main {
             startIndex=0;
             endIndex=flashcards.size();
         } else{
-            String[] xAndY = userInput.split("@");
+            String[] xAndY = userInput.split("-");
             if(xAndY.length<2 || xAndY.length>2){
                 System.out.println("Invalid input.");
                 return;
