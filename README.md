@@ -15,7 +15,7 @@ These are not made with multiple languages in mind, so these two languages are t
 
 ## Ignoring limitations
 
-Even if these are the only two officially supported nalguages, the flashcards can still be used for any other implication, if we exclude these two commands.
+Even if these are the only two officially supported languages, the flashcards can still be used for any other implication, if we exclude these two commands.
 
 # Running the program
 To make using the program simpler, I made a simple run.bat, so even non developers know how to run it. Due to this being a personal project, JDK is required to run the program.

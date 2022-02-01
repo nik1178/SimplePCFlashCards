@@ -59,16 +59,19 @@ public class Main {
         
             while(br.ready()){
                 String fileLine = br.readLine();
-                if(fileLine.charAt(0) == '[') continue;
+                if(fileLine.charAt(0) == '[') continue; //I think this was added because sets were intended to be located in the same file as flashcards
                 String[] questionAndAnswer = fileLine.split("@");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
-                streaks.add(Integer.parseInt(questionAndAnswer[2]));
+                if(questionAndAnswer.length ==3) streaks.add(Integer.parseInt(questionAndAnswer[2]));
+                else if(questionAndAnswer.length==2) streaks.add(0);
+                else System.out.println("Something went wrong when reading a flashcard.");
             }
             br.close();
             generateSeed();
         }catch(Exception e){
-            System.out.println("Couldn't read from file");
+            System.out.println("Couldn't read from file/Invalid flashcard in file.");
+            System.out.println("Please exit the program.");
         }
         try {
             autoBackup();
@@ -331,34 +334,25 @@ public class Main {
                     if(streaks.get(i)==0) set.add(i);
                 }
                 break;
-            case "ca", "rs":
-                int selectedInput = 0;
-                if(userInput.equals("ca")) selectedInput = 0;
-                else if(userInput.equals("rs")) selectedInput = 1;
-                System.out.println("YOU ARE ABOUT TO CLEAR ALL THE FLASHCARDS/STREAKS");
-                System.out.println("!!!!! WARNING !!!!!");
-                System.out.println("YOU ARE ABOUT TO CLEAR ALL THE FLASHCARDS/STREAKS");
-                System.out.println("!!!!! WARNING !!!!!");
-                System.out.println("Are you sure you want to do this: \"yes\"x2-confirm, anything else-cancel");
-                userInput = scan.nextLine();
-                if(!userInput.equals("yes")) break;
-                userInput = scan.nextLine();
-                if(userInput.equals("yes")){
-                    if(selectedInput==0){
-                        answers.clear();
-                        flashcards.clear();
-                        seed.clear();
-                        counter = 0;
-                        actualIndexForUse = -1;
-                    } else if(selectedInput == 1){
-                        for(int i=0;i<streaks.size(); i++){
-                            streaks.set(i, 0);
-                        }
+            case "ca": 
+                String warning = "!!!!!!!WARNING!!!!!!!\nYOU ARE ABOUT CLEAR ALL YOUR FLASHCARDS\n!!!!!!!WARNING!!!!!!!\nYOU ARE ABOUT TO CLEAR ALL YOUR FLASHCARDS!";
+                if(warningProceedCheck(warning)){
+                    answers.clear();
+                    flashcards.clear();
+                    seed.clear();
+                    counter = 0;
+                    actualIndexForUse = -1;
+                }
+                saveStatus();
+                break;
+            case "rs":
+                if(warningProceedCheck("You are about to reseat all streaks to 0.")){
+                    for(int i=0;i<streaks.size(); i++){
+                        streaks.set(i, 0);
                     }
                 }
                 saveStatus();
                 break;
-            
             case "g", "generate seed":
                 generateSeed();
                 break;
@@ -490,9 +484,21 @@ public class Main {
                     break;
                 }
 
+                System.out.println("Unknown command. !h for help");
+
                 saveStatus();
                 break;
         }
+    }
+    boolean warningProceedCheck(String warning){
+        System.out.println(warning);
+        System.out.println("Are you sure you want to do this: \"yes\"x2-confirm, anything else-cancel");
+        Scanner scan = new Scanner(System.in);
+        String userInput = scan.nextLine();
+        if(!userInput.equals("yes")) return false;
+        userInput = scan.nextLine();
+        if(!userInput.equals("yes")) return false;
+        return true;
     }
     void helpMenu(){
         System.out.println("!q - Quit");
@@ -529,6 +535,10 @@ public class Main {
         System.out.println("!setc - Set the streak of the current word");
         System.out.println("!ca - Clear all flashcards from file <- Don't do this");
         System.out.println("!rs - Reset all streaks back to 0");
+        System.out.println("Special characters:");
+        System.out.println("c/s/z + ^ = Slovene symbols");
+        System.out.println("s/u/a/o + : = German symbols");
+        System.out.println("n\\ = New line character");
         //System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, m f keyword-make set ouf of flashcards that start with keyword, m l keyword-make set out of flashcards that end in keyword, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
     }
 

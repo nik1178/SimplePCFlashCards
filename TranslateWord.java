@@ -14,15 +14,19 @@ public class TranslateWord{
         String output  = getUrlContents(siteURL);
         String language = "slo";
 
-        String validationString = "Ogledujete si podobne rezultate";
-        for(int i=0; i<output.length()-validationString.length(); i++){
-            if(output.substring(i, i+validationString.length()).equals(validationString)){
-                System.out.println("Wrong language.");
-                siteURL = "https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/"+input;
-                output  = getUrlContents(siteURL);
-                language = "ger";
-            }
-        } 
+        String[] validationStrings = {"Ogledujete si podobne rezultate", "Najden ni bil noben primer v slovarju PONS."};
+        for(int j=0; j<validationStrings.length; j++){
+            String validationString = validationStrings[j];
+            for(int i=0; i<output.length()-validationString.length(); i++){
+                if(output.substring(i, i+validationString.length()).equals(validationString)){
+                    System.out.println("Wrong language.");
+                    siteURL = "https://sl.pons.com/prevod/nem%C5%A1%C4%8Dina-sloven%C5%A1%C4%8Dina/"+input;
+                    output  = getUrlContents(siteURL);
+                    language = "ger";
+                    j=validationStrings.length;
+                }
+            } 
+        }
 
         printToFile(output, "PONS"); 
         searchForGerTranslation(output, language);

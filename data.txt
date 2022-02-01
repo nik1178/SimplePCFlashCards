@@ -1,15 +1,284 @@
-iliada@homer@0
-kralj ojdip@sofoklej@0
-svatovska pesem@sapfo@0
-boz^anska komedija@alighieri@0
-o blaz^en bodi c^as pomladnih dni@petrarca@0
-hamlet@shakespeare@0
-novela o sokolu@boccacco@0
-don kihot@miguel de cervantes saavedra@0
-proti zidavi cerkva@primoz^ trubar@0
-na noviga lejta dan@janez svetokris^ki@0
-lepa vida@/@0
-tartuffe@moliere@0
-zadovoljni krajnc@valentin vodnik@0
-matic^ek se z^eni@linhart@0
-visoka pesem@/@0
+krvaveti@bluten@0
+drugo@anderen@0
+iti po nekaj@abholen@0
+predati@aufgeben@0
+vstati@aufstehen@0
+dobiti@bekommen@0
+delati@arbeiten@0
+likati@bu:geln@0
+naroc^iti@bestellen@0
+ostati@bleiben@0
+prinesti@bringen@0
+pripovedovati@berichten@0
+plac^ati@bezahlen@0
+pomeniti@bedeuten@1
+zlomiti@brechen@0
+dlan@die hand@0
+glava@der kopf@0
+hrbet@der ru:cken@0
+kri@das blut@0
+mesec@der monat@0
+noga@das bein@0
+nos@die nase@0
+nesrec^a@der unfall@0
+oko@das auge@0
+prst@der finger@0
+prst na nogi@der zehe@0
+prsi@die brust@0
+pouk@der unterricht@0
+roka@der arm@0
+stopalo@der fus:@0
+sanje@der traum@0
+trebuh@der bauch@0
+trajati@dauern@0
+tam@dort@0
+uho@das ohr@0
+vrat@der hals@0
+zgled@das vorbild@0
+boli@es tut weh@0
+enostavno@einfach@0
+nakupovati@einkaufen@0
+odloc^iti@entscheiden@0
+obc^utiti@empfinden@0
+povabiti@einladen@0
+prepoznati@erkennen@0
+leteti@fliegen@0
+praznovati@feiern@0
+ujeti/loviti@fangen@0
+veseliti@freuen@0
+dogajati@geschehen@0
+ugajati@gefallen@1
+uz^ivati@genies:en@0
+verjeti@glauben@0
+ves@ganz@0
+zmagati@gewinnen@0
+obes^ati@ha:ngen@0
+prinesti@holen@0
+viseti@ha:ngen@0
+zvoniti/pozvoniti@klingeln@0
+meniti@meinen@0
+slikati@malen@0
+vec^inoma@meistens@0
+nihc^e@niemand@0
+zgoditi@passieren@0
+govoriti@reden@0
+kaditi@rauchen@0
+rac^unati@rechnen@0
+res^iti@retten@0
+gledati@schauen@0
+iskati@suchen@0
+od@seit@0
+opraskati@schrammen@0
+postaviti@stellen@0
+poslati@senden@0
+rec^i@sagen@0
+sesati@saugen@0
+usesti@setzen@0
+urezati@schneiden@0
+zmagati@siegen@0
+mogoc^e@vielleicht@0
+opec^i@verbrennen@0
+pogres^ati@vermissen@0
+zviti@verstauchen@0
+postati@werden@0
+vedeti@wissen@0
+kazati@zeigen@0
+najprej@zuerst@0
+risati@zeichnen@0
+s^e@noch@0
+dejansko@wirklich@0
+ustaviti@halten@0
+cesta@die stras:e@0
+trgovina@das gescha:ft@0
+z^ivljenje@das leben@0
+potrebovati@brauchen@0
+zdravilo@das medikament@0
+vozilo@das fahrzeug@0
+res^ilec@der krankenwagen@0
+odgovoriti@antworten@0
+zgodaj@fru:h@0
+skupaj@zusammen@0
+sedeti@sitzen@0
+brati@lesen@0
+machen pr.@machte@0
+besuchen pr.@besuchte@0
+sehen pr.@sah@0
+fahren pr.@fuhr@0
+wollen pr.@wollte@0
+arbeiten pr.@arbeitete@0
+sein pr.@war@0
+kommen pr.@kam@0
+ziehen pr.@zog@0
+regnen pr.@regnete@0
+blitzen pr.@blitzte@0
+donnern pr.@donnerte@0
+halten pr.@hielt@0
+treten pr.@trat@0
+setzen pr.@setzte@0
+ko:nnen pr.@konnte@1
+verstehen pr.@verstand@0
+haben pr.@hatte@0
+essen pr.@as:@0
+nehmen pr.@nahm@0
+zeichnen pr.@zeichnete@0
+gehen pr.@ging@0
+freuen pr.@freute@0
+bringen pr.@brachte@0
+bekommen pr.@bekam@0
+sollen pr.@sollte@0
+du:rfen pr.@durfte@0
+wohnen pr.@wohnte@0
+schreiben pr.@schrieb@0
+einladen pr.@lud ein@0
+schicken pr.@schickte@0
+antworten pr.@antwortete@0
+telefonieren pr.@telefonierte@0
+spielen pr.@spielte@0
+stehen pr.@stand@0
+siegen pr.@siegte@0
+gewinnen pr.@gewann@0
+obliz^@das pflaster@3
+sitzen pr.@sas:@0
+biegen pr.@bog@0
+neverjeten@unglaublich@0
+trainieren pr.@trainierte@0
+werden pr.@wurde@0
+holen pr.@holte@0
+pripovedovati@erza:hlen@0
+erza:hlen pr.@erza:hlte@0
+sprechen pr.@sprach@0
+sanjati@traumen@0
+traumen pr.@tra:umte@0
+promet@der verkehr@0
+pos^kodba@die verletzung@0
+opeklina@die verbrennung@0
+zlom@der bruch@0
+praska@die schramme@0
+trk@der zusammenstos:@0
+domac^a naloga@die hausaufgabe@0
+helfen pr.@half@0
+zvin@die verstauchung@0
+ureznina@der schnitt@0
+premikati@bewegen@0
+boleti@schmerzen@0
+mazilo@die salbe@0
+kaj?@was@0
+govoriti@sprechen@0
+vlec^i@ziehen@0
+laufen pr.@lief@0
+nikoli@niemals@0
+nikoli@nie@1
+tut pr.@tat@0
+gips@der gips@0
+grmeti@donnern@0
+entscheiden pr.@entschied@0
+poslati@schicken@0
+vroc^ina@das fieber@0
+na/pri/ob@am@0
+gledati@sehen@0
+srec^ati@treffen@0
+smejati@lachen@0
+pasti@stu:rzen@1
+dovolj@genug@0
+kje?@wo@0
+junak@der held@0
+geben pr.@gab@0
+kdaj?@wann@0
+stopati@treten@0
+sunek@der stos:@0
+razumeti@verstehen@0
+ko/c^e@wenn@0
+bolec^ina@der schmerz@0
+boleti@wehtun@0
+zakaj?@warum@0
+od kod?@woher@0
+stu:rzen pr.@stu:rzte@0
+povoj@der verband@0
+zmagovalec@der sieger@0
+hlac^e@die hose@0
+tam@da@0
+res^ilec@der rettungswagen@0
+kdo?@wer@0
+do@bis@0
+kako/koliko?@wie@0
+pos^kodovati@verletzen@0
+bliskati@blitzen@0
+zlomljen@gebrochen@0
+kam?@wohin@1
+zmaga@der sieg@0
+bolnis^nica@das krankenhaus@0
+c^aj@der tee@0
+zob@der zahn@0
+smrt@der tod@0
+z^rtev@das opfer@0
+mrtev@tot@0
+tres^c^iti@krachen@0
+s^koda@der schaden@0
+pasti@fallen@0
+navdus^evati@begeistern@0
+hudo@schwer@0
+zaviti@abbiegen@0
+mladost@die jugend@0
+dirka@das rennen@0
+srec^a@das glu:ck@0
+pos^kodovati@bescha:digen@0
+povzroc^iti@verursachen@0
+operirati@operieren@0
+koga?@wen@0
+komu?@wem@0
+c^akati@warten@0
+bitten pr.@bat@0
+izgubiti z^ivljenje@kommen ums leben@0
+zvoniti/zveneti@klingen@0
+c^igav?@wessen@0
+, da@dass@0
+, ker@weil@0
+, c^eprav@obwohl@0
+, kljub temu@trotzdem@0
+zato@deshalb@0
+, da bi@damit@0
+obvezen@obligatorisch@0
+tip@typ@0
+neobvezen@fakultativ@0
+da@dass@0
+c^eprav@obwohl@0
+kljub temu@trotzdem@0
+ker@weil@0
+kdaj?@wann?@0
+zakaj?@warum?@0
+poklicna s^ola@die berufsschule@0
+mizar@der tischler@0
+slikar@der maler@0
+frizer@der friso:r@0
+bolnic^ar/medicinski brat@der krankenpfleger@0
+natakar@der kellner@0
+kuhar@der koch@0
+kuharica@die ko:chin@0
+kljuc^avnic^ar@der schlosser@0
+kmet@der landwirt@0
+pek@der ba:cker@0
+prodajalec@der verka:ufer@0
+motorno vozilo@das kraftfahrzeug@0
+mehanik@der mechaniker@0
+sobarica@die zimmerma:dchen@0
+elektric^ar@der elektriker@0
+elektrotehnik@der elektrotechniker@0
+banc^ni usluz^benec@der bankkaufmann@0
+pismonos^a@der postbote@0
+farmacevt@der drogist@0
+policist@!der polizist@0
+rac^unalnis^ko podroc^je@der computerbereich@0
+strojni tehnik@der maschinenbautechniker@0
+zdravnik@der arzt@0
+uc^itelj@der lehrer@0
+profesor@der professor@0
+odvetnik@der anwalt@0
+inz^enir elektrotehnike@der elektroingenieur@0
+pilot@der pilot@0
+gradbeni inz^enir@der bauingungenieur@0
+matura@das abitur@0
+opraviti maturo@das abitur machen@0
+maturant@der abiturient@0
+maturantski ples@der abiturientball@0
+vrtec@der kindergarten@0
+osnovna s^ola@die grundschule@0
