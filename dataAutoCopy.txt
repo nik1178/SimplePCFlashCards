@@ -640,3 +640,15 @@ maturant@der abiturient@0
 maturantski ples@der abiturientball@0
 vrtec@der kindergarten@0
 osnovna s^ola@die grundschule@0
+die grundschule dauert@4@0
+razred@die klasse@0
+gimnazija@das gymnasium@0
+das gymnasium dauert@8@0
+srednja s^ola@die mittelschule@0
+die mittelschule dauert@8@0
+srednja s^ola@die realschule@0
+die realschule dauert@6@0
+poklicna s^ola@die berufschule@0
+die berufschule dauert@4/5@0
+izbirati@wa:hlen@0
+zato@darum@0

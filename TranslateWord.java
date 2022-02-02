@@ -86,7 +86,7 @@ public class TranslateWord{
         int getFind = 1;
 
         for(int i=0; i<splitOutput.length; i++){
-            if(splitOutput[i].contains("\"entry")){
+            if(splitOutput[i].contains("\"entry") || splitOutput[i].contains("\"results")){
                 if(!splitOutput[i].contains("Geslo uporabnika")){
                     getFind = i+1;
                     break;
@@ -112,6 +112,7 @@ public class TranslateWord{
                 return;
             }
         }
+
 
         //pomeni da je dvo beseden prevod
         if(splitOutput[getFind].length()<"<a href='/prevod/sloven%C5%A1%C4%8Dina-nem%C5%A1%C4%8Dina/avtomobil'>avtomobilavtomobilavtomobil</a>".length()){
@@ -142,6 +143,10 @@ public class TranslateWord{
                 break;
             }
         }
+
+        //if it's a twopart word i assume it's a noun, because i don't know how to do this in any other way
+        String[] splitInput = unChingCheng(input).split(" ");
+        if(splitInput.length>1) samostalnik=true;
         if(samostalnik){
             String[] genderKeyWords = {"<acronym title=\"moški spol\"", "<acronym title=\"ženski spol\"", "<acronym title=\"srednji spol\""};
             if(language.equals("slo")){
@@ -171,6 +176,21 @@ public class TranslateWord{
                     }
                 }
             }
+            if(language.equals("ger" )&& gerGender.equals("")){
+                gerGender = "~";
+                for(int i=0; i<splitOutput[getFind-2].length()-genderKeyWords[2].length(); i++){
+                    if(output.substring(i,i+genderKeyWords[0].length()).equals(genderKeyWords[0])){
+                        gerGender += "der";
+                        break;
+                    } else if(output.substring(i,i+genderKeyWords[1].length()).equals(genderKeyWords[1])){
+                        gerGender += "die";
+                        break;
+                    } else if(output.substring(i,i+genderKeyWords[2].length()).equals(genderKeyWords[2])){
+                        gerGender += "das";
+                        break;
+                    }
+                }
+            }
             gerGender += " ";
         }
 
@@ -185,6 +205,11 @@ public class TranslateWord{
     String unChingCheng(String toPrint) {
         for(int i=0; i<toPrint.length()-5; i++){
             if(toPrint.charAt(i)=='%'){
+                //Space is %20
+                if(i+2<toPrint.length() && toPrint.charAt(i+1)=='2' && toPrint.charAt(i+2)=='0'){
+                    toPrint = toPrint.substring(0, i) + ' ' + toPrint.substring(i+3);
+                    continue;
+                }
                 String currentSymbols = toPrint.substring(i, i+6);
                 char newLetter = '/';
                 System.out.println(currentSymbols + " <--- current detected unknown symbols in TranslateWord");

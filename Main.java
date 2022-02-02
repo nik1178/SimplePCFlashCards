@@ -999,7 +999,7 @@ public class Main {
     }
     String recodeIntoWebsiteSymbols(String toPrint){
         for(int i=0; i<toPrint.length(); i++){
-            char[] unknownSymbols = {'ä','ü','ö','ß','č','š','ž'};
+            char[] unknownSymbols = {'ä','ü','ö','ß','č','š','ž', ' '};
             for(int j=0; j<unknownSymbols.length; j++){
                 if(toPrint.charAt(i)==unknownSymbols[j]){
                     char currentSymbol = unknownSymbols[j];
@@ -1013,6 +1013,7 @@ public class Main {
                         case 'č': newSymbols = "%C4%8D"; break;
                         case 'š': newSymbols = "%C5%A1"; break;
                         case 'ž': newSymbols = "%C5%BE"; break;
+                        case ' ': newSymbols = "%20"; break;
                         default: System.out.println("New unrecognized symbol"); break;
                     }
                     toPrint = toPrint.substring(0, i) + newSymbols + toPrint.substring(i+1);
