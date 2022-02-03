@@ -1,4 +1,5 @@
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 import java.util.*;
 
 public class Main {
@@ -10,6 +11,8 @@ public class Main {
     /*
     * TODO:
     *
+    * This may be wrong -> When doing set, the seed still randomizes to all the flashcards, emaning that flashcards with a lot of empty spaces before them (unused flashcards in the set) can appear multiple times
+    * !b <- back command doesn't work with sets
     * DONE: Make all the commands have a special activation character in front, such as "/" so that they are not accidentally triggered when trying to type in a quick false response or if there is an actual flashcard with the exact text
     * DONE: Add a /help instead of having all the commands written in the main sysout
     * (Optional) Clean-up and document code
@@ -84,11 +87,12 @@ public class Main {
     ArrayList<Integer> seed = new ArrayList<>();
     void startProgram(){
         generateSeed();
+        printEmptyLines(70);
         detectUserInput();
     }
     void generateSeed(){
         seed.clear();
-        Random RNG = new Random();
+        Random RNG = new Random(System.currentTimeMillis());
         for(int i=0; i<answers.size(); i++){
             int currentNum = RNG.nextInt(answers.size());
             if(seed.contains(currentNum)){
@@ -166,9 +170,8 @@ public class Main {
             
             userInput = scan.nextLine();
 
-            StringBuilder sb = new StringBuilder("");
-            for(int i=0; i<70; i++)sb.append("\n");
-            System.out.println(sb.toString());
+            //basically screen wipe
+            printEmptyLines(70);
 
             if(userInput.length()==0){
                 saveStatus();
@@ -221,6 +224,11 @@ public class Main {
             checkAllDuplicates();
         }
     }
+    void printEmptyLines(int lineAmount){
+        StringBuilder sb = new StringBuilder("");
+        for(int i=0; i<lineAmount; i++)sb.append("\n");
+        System.out.println(sb.toString());
+    }
     //command options------------------------------------------------------------------------------------------------------------------------
     void userCommands(String userInput) {
         Scanner scan = new Scanner(System.in);
@@ -230,11 +238,7 @@ public class Main {
                 break;
             case "t", "test":
                 //for test commands
-                String[] inputArray = {"ssss", "ssssssssssssssss", "sssssssss", "sssssss"};
-                inputArray = addTabs(inputArray);
-                for(String x : inputArray){
-                    System.out.println(x + "-");
-                }
+                System.out.println(answers.size());
                 break;
             case "rf", "read flashcards":
                 readFlashcards();
@@ -261,6 +265,19 @@ public class Main {
                 if(counter<0){
                     counter = flashcards.size()-1;
                 }
+                if(doSet){
+                    int backSkipCounter = 0;
+                    while(!set.contains(seed.get(counter))){
+                        counter--;
+                        backSkipCounter++;
+                        if(counter<0){
+                            counter = flashcards.size()-1;
+                        }
+                        if(backSkipCounter>flashcards.size()+2){
+                            System.out.println("Couldn't find any flashcards that appear in the set.");
+                        }
+                    }
+                }
                 break;
             case "ds", "do set":
                 if(doSet==false)doSet=true;
@@ -275,8 +292,13 @@ public class Main {
                 break;
             case "ps", "print set":
                 System.out.println(set);
-                for(int i=0; i<set.size(); i++){
-                    System.out.println(addTabs(flashcards).get(set.get(i)) + " - " + answers.get(set.get(i)));
+                try{
+                    for(int i=0; i<set.size(); i++){
+                        System.out.println(addTabs(flashcards).get(set.get(i)) + " - " + answers.get(set.get(i)) + " <- " + set.get(i));
+                    }
+                }catch(Exception e){
+                    System.out.println(e);
+                    System.out.println("You might have removed an existing flashcard.");
                 }
                 break;
             case "n", "next":
@@ -507,6 +529,7 @@ public class Main {
         System.out.println("!rf - Read flashcards from file. (Useful if you added new flashcards straight into the file while the program was running)");
         System.out.println("!b - Back/Previous flashcard");
         System.out.println("!r - Remove");
+        System.out.println("!go *num* - Go to this flashcard.");
         System.out.println("!m - Make set (of flashcards)");
         System.out.println("!m pr. - Make a set out of flashcards that end with \"pr.\"");
         System.out.println("!m f *keyword* - Make a set out of flashcards that start with keyword");
@@ -678,7 +701,6 @@ public class Main {
 
 
         superTempFlashcards = addTabs(superTempFlashcards);
-
         for(int i=0; i<superTempFlashcards.size(); i++){
             String toPrint = superTempFlashcards.get(i) + "-" + tempAnswers.get(i) + "-" + tempStreaks.get(i);
             toPrint = toPrint.toLowerCase();
@@ -865,6 +887,7 @@ public class Main {
     ArrayList<Integer> set = new ArrayList<>();
     void makeNewSet(){
         set.clear();
+        listAll(false);
         Scanner scan = new Scanner(System.in);
         for(int i=0; i<flashcards.size(); i++){
             if(checkSetDuplicate(i)) continue;

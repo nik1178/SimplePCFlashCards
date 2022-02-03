@@ -652,3 +652,16 @@ poklicna s^ola@die berufschule@0
 die berufschule dauert@4/5@0
 izbirati@wa:hlen@0
 zato@darum@0
+fotograf@der fotograf@0
+programer@der programmierer@0
+tajnik@der sekreta:r@0
+takrat@damals@0
+delavnica@die werkstatt@0
+s^olanje/izobrazba@die ausbildung@0
+maturantski ples@der abiturientenball@0
+policist@der polizist@0
+gradbeni inz^enir@der bauingenieur@0
+srednja s^ola@die gesamtschule@0
+vis^ja osnovna s^ola@die hauptschule@0
+c^emu?@wozu?@0
+veterinar@der tierarzt@0

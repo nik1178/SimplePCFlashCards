@@ -11,7 +11,7 @@ ostati@bleiben@0
 prinesti@bringen@0
 pripovedovati@berichten@0
 plac^ati@bezahlen@0
-pomeniti@bedeuten@1
+pomeniti@bedeuten@0
 zlomiti@brechen@0
 dlan@die hand@0
 glava@der kopf@0
@@ -47,7 +47,7 @@ praznovati@feiern@0
 ujeti/loviti@fangen@0
 veseliti@freuen@0
 dogajati@geschehen@0
-ugajati@gefallen@1
+ugajati@gefallen@0
 uz^ivati@genies:en@0
 verjeti@glauben@0
 ves@ganz@0
@@ -115,7 +115,7 @@ donnern pr.@donnerte@0
 halten pr.@hielt@0
 treten pr.@trat@0
 setzen pr.@setzte@0
-ko:nnen pr.@konnte@1
+ko:nnen pr.@konnte@0
 verstehen pr.@verstand@0
 haben pr.@hatte@0
 essen pr.@as:@0
@@ -137,7 +137,7 @@ spielen pr.@spielte@0
 stehen pr.@stand@0
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
-obliz^@das pflaster@3
+obliz^@das pflaster@0
 sitzen pr.@sas:@0
 biegen pr.@bog@0
 neverjeten@unglaublich@0
@@ -167,7 +167,7 @@ govoriti@sprechen@0
 vlec^i@ziehen@0
 laufen pr.@lief@0
 nikoli@niemals@0
-nikoli@nie@1
+nikoli@nie@0
 tut pr.@tat@0
 gips@der gips@0
 grmeti@donnern@0
@@ -178,7 +178,7 @@ na/pri/ob@am@0
 gledati@sehen@0
 srec^ati@treffen@0
 smejati@lachen@0
-pasti@stu:rzen@1
+pasti@stu:rzen@0
 dovolj@genug@0
 kje?@wo@0
 junak@der held@0
@@ -204,7 +204,7 @@ kako/koliko?@wie@0
 pos^kodovati@verletzen@0
 bliskati@blitzen@0
 zlomljen@gebrochen@0
-kam?@wohin@1
+kam?@wohin@0
 zmaga@der sieg@0
 bolnis^nica@das krankenhaus@0
 c^aj@der tee@0
@@ -237,60 +237,69 @@ c^igav?@wessen@0
 , kljub temu@trotzdem@0
 zato@deshalb@0
 , da bi@damit@0
-obvezen@obligatorisch@0
-tip@typ@0
-neobvezen@fakultativ@0
+obvezen@obligatorisch@1
+tip@typ@2
+neobvezen@fakultativ@2
 da@dass@0
-c^eprav@obwohl@0
-kljub temu@trotzdem@0
-ker@weil@0
-kdaj?@wann?@0
-zakaj?@warum?@0
+c^eprav@obwohl@1
+kljub temu@trotzdem@1
+ker@weil@1
+kdaj?@wann?@1
+zakaj?@warum?@2
 poklicna s^ola@die berufsschule@0
-mizar@der tischler@0
-slikar@der maler@0
-frizer@der friso:r@0
-bolnic^ar/medicinski brat@der krankenpfleger@0
-natakar@der kellner@0
+mizar@der tischler@1
+slikar@der maler@2
+frizer@der friso:r@1
+bolnic^ar/medicinski brat@der krankenpfleger@1
+natakar@der kellner@1
 kuhar@der koch@0
 kuharica@die ko:chin@0
-kljuc^avnic^ar@der schlosser@0
+kljuc^avnic^ar@der schlosser@2
 kmet@der landwirt@0
 pek@der ba:cker@0
 prodajalec@der verka:ufer@0
 motorno vozilo@das kraftfahrzeug@0
-mehanik@der mechaniker@0
-sobarica@die zimmerma:dchen@0
-elektric^ar@der elektriker@0
-elektrotehnik@der elektrotechniker@0
+mehanik@der mechaniker@1
+sobarica@die zimmerma:dchen@1
+elektric^ar@der elektriker@1
+elektrotehnik@der elektrotechniker@2
 banc^ni usluz^benec@der bankkaufmann@0
 pismonos^a@der postbote@0
-farmacevt@der drogist@0
-policist@!der polizist@0
+farmacevt@der drogist@1
 rac^unalnis^ko podroc^je@der computerbereich@0
 strojni tehnik@der maschinenbautechniker@0
-zdravnik@der arzt@0
-uc^itelj@der lehrer@0
-profesor@der professor@0
-odvetnik@der anwalt@0
+zdravnik@der arzt@1
+uc^itelj@der lehrer@1
+profesor@der professor@1
+odvetnik@der anwalt@1
 inz^enir elektrotehnike@der elektroingenieur@0
 pilot@der pilot@0
-gradbeni inz^enir@der bauingungenieur@0
-matura@das abitur@0
-opraviti maturo@das abitur machen@0
+matura@das abitur@1
+opraviti maturo@das abitur machen@2
 maturant@der abiturient@0
-maturantski ples@der abiturientball@0
-vrtec@der kindergarten@0
+vrtec@der kindergarten@1
 osnovna s^ola@die grundschule@0
-die grundschule dauert@4@0
-razred@die klasse@0
+die grundschule dauert@4@1
+razred@die klasse@1
 gimnazija@das gymnasium@0
-das gymnasium dauert@8@0
-srednja s^ola@die mittelschule@0
+das gymnasium dauert@8@1
+srednja s^ola@die mittelschule@2
 die mittelschule dauert@8@0
 srednja s^ola@die realschule@0
 die realschule dauert@6@0
-poklicna s^ola@die berufschule@0
 die berufschule dauert@4/5@0
 izbirati@wa:hlen@0
-zato@darum@0
+zato@darum@2
+fotograf@der fotograf@1
+programer@der programmierer@0
+tajnik@der sekreta:r@0
+takrat@damals@0
+delavnica@die werkstatt@1
+s^olanje/izobrazba@die ausbildung@0
+maturantski ples@der abiturientenball@0
+policist@der polizist@0
+gradbeni inz^enir@der bauingenieur@2
+srednja s^ola@die gesamtschule@0
+vis^ja osnovna s^ola@die hauptschule@0
+c^emu?@wozu?@1
+veterinar@der tierarzt@0
