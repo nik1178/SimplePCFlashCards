@@ -62,7 +62,7 @@ public class Main {
         
             while(br.ready()){
                 String fileLine = br.readLine();
-                if(fileLine.charAt(0) == '[') continue; //I think this was added because sets were intended to be located in the same file as flashcards
+                //if(fileLine.charAt(0) == '[') continue; //I think this was added because sets were intended to be located in the same file as flashcards
                 String[] questionAndAnswer = fileLine.split("@");
                 flashcards.add(questionAndAnswer[0]);
                 answers.add(questionAndAnswer[1]);
@@ -136,7 +136,7 @@ public class Main {
             }
 
             //Check if this has been answered more times than the streaklimit allows. If so, skip it. If it's had to skip through all the items it resets the limit
-            if(actualIndexForUse>=0 && (streaks.get(actualIndexForUse)>=streakLimit || (doSet && !set.contains(actualIndexForUse)))){
+            if(actualIndexForUse>=0 && (streaks.get(actualIndexForUse)>=streakLimit || (doSet && !set.contains(actualIndexForUse)) || flashcards.get(actualIndexForUse).charAt(0)=='[')){
                 counter++;
                 skipCounter++;
                 if(skipCounter==flashcards.size()){
@@ -278,6 +278,9 @@ public class Main {
                         }
                     }
                 }
+                break;
+            case "si":
+                System.out.println(actualIndexForUse + ": " + flashcards.get(actualIndexForUse));
                 break;
             case "ds", "do set":
                 if(doSet==false)doSet=true;
@@ -893,6 +896,36 @@ public class Main {
             if(checkSetDuplicate(i)) continue;
             System.out.println(i + ": " + flashcards.get(i) + " - " + answers.get(i) + " - Add? (a), Skip to number (any num), Quit? (q)");
             String response = scan.nextLine();
+            String[] splitResponse = response.split("-");
+            if(splitResponse.length>2){
+                System.out.println("Please input only two numbers for range.");
+                i--;
+                continue;
+            }
+            if(splitResponse.length==2){
+                try{
+                    int integerResponse1 = Integer.parseInt(splitResponse[0]);
+                    int integerResponse2 = Integer.parseInt(splitResponse[1]);
+                    if(integerResponse1<0 || integerResponse2>=flashcards.size()){
+                        System.out.println("Invalid range.");
+                        i--;
+                        continue;
+                    }
+                    for(int j=integerResponse1; j<=integerResponse2; j++){
+                        if(!set.contains(j)){
+                            set.add(j);
+                        }else{
+                            System.out.println( j + " already in set.");
+                        }
+                    }
+                } catch(Exception e){
+                    System.out.println("Please input numbers for range.");
+                    
+                }finally{
+                    i--;
+                    continue;
+                }
+            }
             try{
                 int integerResponse = Integer.parseInt(response);
                 i=integerResponse-1;
@@ -1126,6 +1159,8 @@ public class Main {
             for(String x : flashcards){
                 writer.println(unChingCheng(x));
             }
+            writer.println();
+            writer.println("---------------------------------------------------------------------");
             writer.println();
             for(String x : answers){
                 writer.println(unChingCheng(x));

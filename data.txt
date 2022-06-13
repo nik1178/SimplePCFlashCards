@@ -1,305 +1,151 @@
-krvaveti@bluten@0
-drugo@anderen@0
-iti po nekaj@abholen@0
-predati@aufgeben@0
-vstati@aufstehen@0
-dobiti@bekommen@0
-delati@arbeiten@0
-likati@bu:geln@0
-naroc^iti@bestellen@0
-ostati@bleiben@0
-prinesti@bringen@0
-pripovedovati@berichten@0
-plac^ati@bezahlen@0
-pomeniti@bedeuten@0
-zlomiti@brechen@0
-dlan@die hand@0
-glava@der kopf@0
-hrbet@der ru:cken@0
-kri@das blut@0
-mesec@der monat@0
-noga@das bein@0
-nos@die nase@0
-nesrec^a@der unfall@0
-oko@das auge@0
-prst@der finger@0
-prst na nogi@der zehe@0
-prsi@die brust@0
-pouk@der unterricht@0
-roka@der arm@0
-stopalo@der fus:@0
-sanje@der traum@0
-trebuh@der bauch@0
-trajati@dauern@0
-tam@dort@0
-uho@das ohr@0
-vrat@der hals@0
-zgled@das vorbild@0
-boli@es tut weh@0
-enostavno@einfach@0
-nakupovati@einkaufen@0
-odloc^iti@entscheiden@0
-obc^utiti@empfinden@0
-povabiti@einladen@0
-prepoznati@erkennen@0
-leteti@fliegen@0
-praznovati@feiern@0
-ujeti/loviti@fangen@0
-veseliti@freuen@0
-dogajati@geschehen@0
-ugajati@gefallen@0
-uz^ivati@genies:en@0
-verjeti@glauben@0
-ves@ganz@0
-zmagati@gewinnen@0
-obes^ati@ha:ngen@0
-prinesti@holen@0
-viseti@ha:ngen@0
-zvoniti/pozvoniti@klingeln@0
-meniti@meinen@0
-slikati@malen@0
-vec^inoma@meistens@0
-nihc^e@niemand@0
-zgoditi@passieren@0
-govoriti@reden@0
-kaditi@rauchen@0
-rac^unati@rechnen@0
-res^iti@retten@0
-gledati@schauen@0
-iskati@suchen@0
-od@seit@0
-opraskati@schrammen@0
-postaviti@stellen@0
-poslati@senden@0
-rec^i@sagen@0
-sesati@saugen@0
-usesti@setzen@0
-urezati@schneiden@0
-zmagati@siegen@0
-mogoc^e@vielleicht@0
-opec^i@verbrennen@0
-pogres^ati@vermissen@0
-zviti@verstauchen@0
-postati@werden@0
-vedeti@wissen@0
-kazati@zeigen@0
-najprej@zuerst@0
-risati@zeichnen@0
-s^e@noch@0
-dejansko@wirklich@0
-ustaviti@halten@0
-cesta@die stras:e@0
-trgovina@das gescha:ft@0
-z^ivljenje@das leben@0
-potrebovati@brauchen@0
-zdravilo@das medikament@0
-vozilo@das fahrzeug@0
-res^ilec@der krankenwagen@0
-odgovoriti@antworten@0
-zgodaj@fru:h@0
-skupaj@zusammen@0
-sedeti@sitzen@0
-brati@lesen@0
-machen pr.@machte@0
-besuchen pr.@besuchte@0
-sehen pr.@sah@0
-fahren pr.@fuhr@0
-wollen pr.@wollte@0
-arbeiten pr.@arbeitete@0
-sein pr.@war@0
-kommen pr.@kam@0
-ziehen pr.@zog@0
-regnen pr.@regnete@0
-blitzen pr.@blitzte@0
-donnern pr.@donnerte@0
-halten pr.@hielt@0
-treten pr.@trat@0
-setzen pr.@setzte@0
-ko:nnen pr.@konnte@0
-verstehen pr.@verstand@0
-haben pr.@hatte@0
-essen pr.@as:@0
-nehmen pr.@nahm@0
-zeichnen pr.@zeichnete@0
-gehen pr.@ging@0
-freuen pr.@freute@0
-bringen pr.@brachte@0
-bekommen pr.@bekam@0
-sollen pr.@sollte@0
-du:rfen pr.@durfte@0
-wohnen pr.@wohnte@0
-schreiben pr.@schrieb@0
-einladen pr.@lud ein@0
-schicken pr.@schickte@0
-antworten pr.@antwortete@0
-telefonieren pr.@telefonierte@0
-spielen pr.@spielte@0
-stehen pr.@stand@0
-siegen pr.@siegte@0
-gewinnen pr.@gewann@0
-obliz^@das pflaster@0
-sitzen pr.@sas:@0
-biegen pr.@bog@0
-neverjeten@unglaublich@0
-trainieren pr.@trainierte@0
-werden pr.@wurde@0
-holen pr.@holte@0
-pripovedovati@erza:hlen@0
-erza:hlen pr.@erza:hlte@0
-sprechen pr.@sprach@0
-sanjati@traumen@0
-traumen pr.@tra:umte@0
-promet@der verkehr@0
-pos^kodba@die verletzung@0
-opeklina@die verbrennung@0
-zlom@der bruch@0
-praska@die schramme@0
-trk@der zusammenstos:@0
-domac^a naloga@die hausaufgabe@0
-helfen pr.@half@0
-zvin@die verstauchung@0
-ureznina@der schnitt@0
-premikati@bewegen@0
-boleti@schmerzen@0
-mazilo@die salbe@0
-kaj?@was@0
-govoriti@sprechen@0
-vlec^i@ziehen@0
-laufen pr.@lief@0
-nikoli@niemals@0
-nikoli@nie@0
-tut pr.@tat@0
-gips@der gips@0
-grmeti@donnern@0
-entscheiden pr.@entschied@0
-poslati@schicken@0
-vroc^ina@das fieber@0
-na/pri/ob@am@0
-gledati@sehen@0
-srec^ati@treffen@0
-smejati@lachen@0
-pasti@stu:rzen@0
-dovolj@genug@0
-kje?@wo@0
-junak@der held@0
-geben pr.@gab@0
-kdaj?@wann@0
-stopati@treten@0
-sunek@der stos:@0
-razumeti@verstehen@0
-ko/c^e@wenn@0
-bolec^ina@der schmerz@0
-boleti@wehtun@0
-zakaj?@warum@0
-od kod?@woher@0
-stu:rzen pr.@stu:rzte@0
-povoj@der verband@0
-zmagovalec@der sieger@0
-hlac^e@die hose@0
-tam@da@0
-res^ilec@der rettungswagen@0
-kdo?@wer@0
-do@bis@0
-kako/koliko?@wie@0
-pos^kodovati@verletzen@0
-bliskati@blitzen@0
-zlomljen@gebrochen@0
-kam?@wohin@0
-zmaga@der sieg@0
-bolnis^nica@das krankenhaus@0
-c^aj@der tee@0
-zob@der zahn@0
-smrt@der tod@0
-z^rtev@das opfer@0
-mrtev@tot@0
-tres^c^iti@krachen@0
-s^koda@der schaden@0
-pasti@fallen@0
-navdus^evati@begeistern@0
-hudo@schwer@0
-zaviti@abbiegen@0
-mladost@die jugend@0
-dirka@das rennen@0
-srec^a@das glu:ck@0
-pos^kodovati@bescha:digen@0
-povzroc^iti@verursachen@0
-operirati@operieren@0
-koga?@wen@0
-komu?@wem@0
-c^akati@warten@0
-bitten pr.@bat@0
-izgubiti z^ivljenje@kommen ums leben@0
-zvoniti/zveneti@klingen@0
-c^igav?@wessen@0
-, da@dass@0
-, ker@weil@0
-, c^eprav@obwohl@0
-, kljub temu@trotzdem@0
-zato@deshalb@0
-, da bi@damit@0
-obvezen@obligatorisch@1
-tip@typ@2
-neobvezen@fakultativ@2
-da@dass@0
-c^eprav@obwohl@1
-kljub temu@trotzdem@1
-ker@weil@1
-kdaj?@wann?@1
-zakaj?@warum?@2
-poklicna s^ola@die berufsschule@0
-mizar@der tischler@1
-slikar@der maler@2
-frizer@der friso:r@1
-bolnic^ar/medicinski brat@der krankenpfleger@1
-natakar@der kellner@1
-kuhar@der koch@0
-kuharica@die ko:chin@0
-kljuc^avnic^ar@der schlosser@2
-kmet@der landwirt@0
-pek@der ba:cker@0
-prodajalec@der verka:ufer@0
-motorno vozilo@das kraftfahrzeug@0
-mehanik@der mechaniker@1
-sobarica@die zimmerma:dchen@1
-elektric^ar@der elektriker@1
-elektrotehnik@der elektrotechniker@2
-banc^ni usluz^benec@der bankkaufmann@0
-pismonos^a@der postbote@0
-farmacevt@der drogist@1
-rac^unalnis^ko podroc^je@der computerbereich@0
-strojni tehnik@der maschinenbautechniker@0
-zdravnik@der arzt@1
-uc^itelj@der lehrer@1
-profesor@der professor@1
-odvetnik@der anwalt@1
-inz^enir elektrotehnike@der elektroingenieur@0
-pilot@der pilot@0
-matura@das abitur@1
-opraviti maturo@das abitur machen@2
-maturant@der abiturient@0
-vrtec@der kindergarten@1
-osnovna s^ola@die grundschule@0
-die grundschule dauert@4@1
-razred@die klasse@1
-gimnazija@das gymnasium@0
-das gymnasium dauert@8@1
-srednja s^ola@die mittelschule@2
-die mittelschule dauert@8@0
-srednja s^ola@die realschule@0
-die realschule dauert@6@0
-die berufschule dauert@4/5@0
-izbirati@wa:hlen@0
-zato@darum@2
-fotograf@der fotograf@1
-programer@der programmierer@0
-tajnik@der sekreta:r@0
-takrat@damals@0
-delavnica@die werkstatt@1
-s^olanje/izobrazba@die ausbildung@0
-maturantski ples@der abiturientenball@0
-policist@der polizist@0
-gradbeni inz^enir@der bauingenieur@2
-srednja s^ola@die gesamtschule@0
-vis^ja osnovna s^ola@die hauptschule@0
-c^emu?@wozu?@1
-veterinar@der tierarzt@0
+[iliada - avtor@homer@0
+iliada - obdobje@antika@0
+iliada - oblika@junas^ki ep@0
+[kralj ojdip - avtor@sofoklej@0
+kralj ojdip - obdobje@antika@0
+kralj ojdip - oblika@tragedija@0
+visoka pesem - obdobje@hebrejska knjiz^evnost@0
+visoka pesem - oblika@hvalnica ljubezni@0
+[svatovska pesem - avtor@sapfo@0
+svatovska pesem - obdobje@antika@0
+svatovska pesem - oblika@ljubezenska pesem@1
+[o, blazen bodi cas pomladnih dni - avtor@petrarca@0
+o, blazen bodi cas pomladnih dni - obdobje@renesansa@0
+o, blazen bodi cas pomladnih dni - oblika@sonet@0
+[bozanska komedija - avtor@dante alighieri@0
+bozanska komedija - obdobje@srednji vek@0
+bozanska komedija - oblika@versko-alegoric^ni ep@0
+[hamlet - avtor@william shakespeare@0
+hamlet - obdobje@-renesansa@0
+hamlet - oblika@-tragedija@0
+[novela o sokolu - avtor@boccaccio@0
+novela o sokolu - obdobje@renesansa@0
+novela o sokolu - oblika@novela@0
+[don kihot - avtor@cervantes@0
+don kihot - obdobje@renesansa@0
+don kihot - oblika@roman@0
+[proti zidavi romarskih cerkva - avtor@primoz^ trubar@0
+proti zidavi romarskih cerkva - obdobje@reformacija@0
+proti zidavi romarskih cerkva - oblika@pridiga@0
+lepa vida - obdobje@ljudska slovnica@0
+lepa vida - oblika@z^enska balada@0
+[tartuffe/ljudomrznik - avtor@jean moliere@0
+tartuffe/ljudomrznik - obdobje@klasicizem@0
+tartuffe/ljudomrznik - oblika@komedija@0
+[zadovoljni krajnc - avtor@valentin vodnik@0
+zadovoljni krajnc - obdobje@razsvetljenstvo@0
+zadovoljni krajnc - oblika@budnica@0
+[matic^ek se z^eni - avtor@anton tomaz^ linhrat@0
+matic^ek se z^eni - obdobje@razsvetljenstvo@0
+matic^ek se z^eni - oblika@komedija@0
+[jevgenij onjegin - avtor@pus^kin@0
+jevgenij onjegin - obdobje@unknown@0
+jevgenij onjegin - oblika@roman@0
+[lorelaj - avtor@heinrich heine@0
+lorelaj - obdobje@romantika@0
+lorelaj - oblika@balada@0
+[slovo od mladosti - avtor@preseren@0
+slovo od mladosti - obdobje@romantika@0
+slovo od mladosti - oblika@elegija/z^alostinka@0
+[sonetje nesrec^e - avtor@preseren@0
+sonetje nesrec^e - obdobje@romantika@0
+sonetje nesrec^e - oblika@sonetje@0
+[sonetni venec - avtor@preseren@0
+sonetni venec - obdobje@romantika@0
+sonetni venec - oblika@sonetje@0
+[krst pri savici - avtor@preseren@0
+krst pri savici - obdobje@romantika@0
+krst pri savici - oblika@povest v verzih@0
+[pevcu - avtor@preseren@1
+pevcu - obdobje@romantika@0
+pevcu - oblika@pesem@0
+[zloc^in in kazen - avtor@dostojevski@0
+zloc^in in kazen - obdobje@psiholoski realizem@0
+zloc^in in kazen - oblika@roman@0
+[gospa bovary - avtor@flaubert@0
+gospa bovary - obdobje@realizem@0
+gospa bovary - oblika@roman@0
+[obrazi - avtor@simon jenko@0
+obrazi - obdobje@realizem@0
+obrazi - oblika@cikel 20 pesmi@0
+[telec^ja pec^enka - avtor@josip jurcic@0
+telec^ja pec^enka - obdobje@realizem@0
+telec^ja pec^enka - oblika@zalostinka@0
+[jara gospoda - avtor@janko kersnik@0
+jara gospoda - obdobje@realizem@0
+jara gospoda - oblika@roman@0
+[visos^ka kronika - avtor@tavcar@0
+visos^ka kronika - obdobje@nova romantika@0
+visos^ka kronika - oblika@zgodovisnki roman@0
+[tujec - avtor@baudelaire@0
+tujec - obdobje@nova romantika@0
+tujec - oblika@pesem@0
+[na trgu - avtor@dragotin kette@0
+na trgu - obdobje@impresionizem@0
+na trgu - oblika@pesem@0
+[ko dobrave se mrac^e - avtor@josip murn@0
+ko dobrave se mrac^e - obdobje@impresionizem@0
+ko dobrave se mrac^e - oblika@pesem@0
+[martin kac^ur - avtor@cankar@0
+martin kac^ur - obdobje@moderna@0
+martin kac^ur - oblika@roman@0
+[hlapci - avtor@cankar@0
+hlapci - obdobje@moderna@0
+hlapci - oblika@tragedija@0
+[preobrazba - avtor@franz kafka@0
+preobrazba - obdobje@20@0
+preobrazba - oblika@groteska novela@0
+[slutnja - avtor@srecko kosovel@0
+slutnja - obdobje@20@0
+slutnja - oblika@pesem@0
+[ekstaza smrti - avtor@srecko kosovel@0
+ekstaza smrti - obdobje@20@0
+ekstaza smrti - oblika@pesem@0
+[kons 5 - avtor@srecko kosovel@0
+kons 5 - obdobje@20@0
+kons 5 - oblika@konstrukcija@0
+[dogodek v mestu gogi - avtor@slavko grum@0
+dogodek v mestu gogi - obdobje@20@0
+dogodek v mestu gogi - oblika@drama@0
+[matkova tina - avtor@ivan pregelj@0
+matkova tina - obdobje@20@0
+matkova tina - oblika@novela@0
+[bosa pojdiva - avtor@karel kajuh@0
+bosa pojdiva - obdobje@20@0
+bosa pojdiva - oblika@ljubezenska pesem@0
+[c^rna z^ena - avtor@senghor@0
+c^rna z^ena - obdobje@20@0
+c^rna z^ena - oblika@hvalnica@0
+[zaprta vrata - avtor@sartre@0
+zaprta vrata - obdobje@20@0
+zaprta vrata - oblika@drama@0
+[croquis - avtor@janez menart@0
+croquis - obdobje@20@0
+croquis - oblika@likovna pesem@0
+[juz^ni otok - avtor@kajetan kovic@0
+juz^ni otok - obdobje@20@0
+juz^ni otok - oblika@pesem@0
+[c^rni dec^ek - avtor@dane zajc@0
+c^rni dec^ek - obdobje@20@0
+c^rni dec^ek - oblika@pesem@0
+[vec^erna pravljica - avtor@gregor strnisa@0
+vec^erna pravljica - obdobje@20@0
+vec^erna pravljica - oblika@pesem@0
+[stvari - avtor@tomaz satuman@0
+stvari - obdobje@20@0
+stvari - oblika@pesem@0
+[grizljal sem svinc^nik - avtor@milan jesih@0
+grizljal sem svinc^nik - obdobje@20@0
+grizljal sem svinc^nik - oblika@sonet@0
+[pris^leki - avtor@lojze kovacic@0
+pris^leki - obdobje@20@0
+pris^leki - oblika@roman@0
+[zmote dijaka tjaz^a - avtor@florjan lipus@0
+zmote dijaka tjaz^a - obdobje@unknown@0
+zmote dijaka tjaz^a - oblika@roman@0
+[afera - avtor@primoz kozak@0
+afera - obdobje@eksistenciolizem@0
+afera - oblika@politicna drama@0
+[veliki brilijantni valc^ek - avtor@drago jancar@0
+veliki brilijantni valc^ek - obdobje@20@0
+veliki brilijantni valc^ek - oblika@druzbokriticna drama@0

@@ -11,11 +11,11 @@ ostati@bleiben@0
 prinesti@bringen@0
 pripovedovati@berichten@0
 plac^ati@bezahlen@0
-pomeniti@bedeuten@1
+pomeniti@bedeuten@0
 zlomiti@brechen@0
 dlan@die hand@0
 glava@der kopf@0
-hrbet@der ru:cken@0
+hrbet@der ru:cken@1
 kri@das blut@0
 mesec@der monat@0
 noga@das bein@0
@@ -29,11 +29,11 @@ pouk@der unterricht@0
 roka@der arm@0
 stopalo@der fus:@0
 sanje@der traum@0
-trebuh@der bauch@0
+trebuh@der bauch@1
 trajati@dauern@0
 tam@dort@0
 uho@das ohr@0
-vrat@der hals@1
+vrat@der hals@0
 zgled@das vorbild@0
 boli@es tut weh@0
 enostavno@einfach@0
@@ -42,35 +42,35 @@ odloc^iti@entscheiden@0
 obc^utiti@empfinden@0
 povabiti@einladen@0
 prepoznati@erkennen@0
-leteti@fliegen@0
+leteti@fliegen@1
 praznovati@feiern@0
 ujeti/loviti@fangen@0
-veseliti@freuen@0
+veseliti@freuen@1
 dogajati@geschehen@0
-ugajati@gefallen@1
+ugajati@gefallen@0
 uz^ivati@genies:en@0
 verjeti@glauben@0
 ves@ganz@0
 zmagati@gewinnen@0
-obes^ati@ha:ngen@0
+obes^ati@ha:ngen@1
 prinesti@holen@0
 viseti@ha:ngen@0
 zvoniti/pozvoniti@klingeln@0
 meniti@meinen@0
 slikati@malen@0
-vec^inoma@meistens@0
+vec^inoma@meistens@1
 nihc^e@niemand@0
-zgoditi@passieren@0
+zgoditi@passieren@1
 govoriti@reden@0
 kaditi@rauchen@0
-rac^unati@rechnen@0
+rac^unati@rechnen@1
 res^iti@retten@0
 gledati@schauen@0
-iskati@suchen@0
+iskati@suchen@1
 od@seit@0
 opraskati@schrammen@0
 postaviti@stellen@0
-poslati@senden@0
+poslati@senden@1
 rec^i@sagen@0
 sesati@saugen@0
 usesti@setzen@0
@@ -80,13 +80,13 @@ mogoc^e@vielleicht@0
 opec^i@verbrennen@0
 pogres^ati@vermissen@0
 zviti@verstauchen@0
-postati@werden@0
+postati@werden@1
 vedeti@wissen@0
 kazati@zeigen@0
 najprej@zuerst@0
 risati@zeichnen@0
 s^e@noch@0
-dejansko@wirklich@0
+dejansko@wirklich@1
 ustaviti@halten@0
 cesta@die stras:e@0
 trgovina@das gescha:ft@0
@@ -102,21 +102,21 @@ sedeti@sitzen@0
 brati@lesen@0
 machen pr.@machte@0
 besuchen pr.@besuchte@0
-sehen pr.@sah@0
-fahren pr.@fuhr@0
+sehen pr.@sah@1
+fahren pr.@fuhr@1
 wollen pr.@wollte@0
-arbeiten pr.@arbeitete@0
+arbeiten pr.@arbeitete@1
 sein pr.@war@0
 kommen pr.@kam@0
-ziehen pr.@zog@0
+ziehen pr.@zog@1
 regnen pr.@regnete@0
 blitzen pr.@blitzte@0
 donnern pr.@donnerte@0
-halten pr.@hielt@0
+halten pr.@hielt@1
 treten pr.@trat@0
 setzen pr.@setzte@0
 ko:nnen pr.@konnte@1
-verstehen pr.@verstand@0
+verstehen pr.@verstand@1
 haben pr.@hatte@0
 essen pr.@as:@0
 nehmen pr.@nahm@0
@@ -128,16 +128,16 @@ bekommen pr.@bekam@0
 sollen pr.@sollte@0
 du:rfen pr.@durfte@0
 wohnen pr.@wohnte@0
-schreiben pr.@schrieb@0
+schreiben pr.@schrieb@1
 einladen pr.@lud ein@0
 schicken pr.@schickte@0
 antworten pr.@antwortete@0
 telefonieren pr.@telefonierte@0
 spielen pr.@spielte@0
-stehen pr.@stand@0
+stehen pr.@stand@1
 siegen pr.@siegte@0
 gewinnen pr.@gewann@0
-obliz^@das pflaster@3
+obliz^@das pflaster@0
 sitzen pr.@sas:@0
 biegen pr.@bog@0
 neverjeten@unglaublich@0
@@ -145,7 +145,7 @@ trainieren pr.@trainierte@0
 werden pr.@wurde@0
 holen pr.@holte@0
 pripovedovati@erza:hlen@0
-erza:hlen pr.@erza:hlte@0
+erza:hlen pr.@erza:hlte@1
 sprechen pr.@sprach@0
 sanjati@traumen@0
 traumen pr.@tra:umte@0
@@ -167,7 +167,7 @@ govoriti@sprechen@0
 vlec^i@ziehen@0
 laufen pr.@lief@0
 nikoli@niemals@0
-nikoli@nie@1
+nikoli@nie@0
 tut pr.@tat@0
 gips@der gips@0
 grmeti@donnern@0
@@ -175,12 +175,12 @@ entscheiden pr.@entschied@0
 poslati@schicken@0
 vroc^ina@das fieber@0
 na/pri/ob@am@0
-gledati@sehen@0
+gledati@sehen@1
 srec^ati@treffen@0
 smejati@lachen@0
-pasti@stu:rzen@1
+pasti@stu:rzen@0
 dovolj@genug@0
-kje?@wo@0
+kje?@wo@2
 junak@der held@0
 geben pr.@gab@0
 kdaj?@wann@0
@@ -190,7 +190,7 @@ razumeti@verstehen@0
 ko/c^e@wenn@0
 bolec^ina@der schmerz@0
 boleti@wehtun@0
-zakaj?@warum@0
+zakaj?@warum@1
 od kod?@woher@0
 stu:rzen pr.@stu:rzte@0
 povoj@der verband@0
@@ -200,7 +200,7 @@ tam@da@0
 res^ilec@der rettungswagen@0
 kdo?@wer@0
 do@bis@0
-kako/koliko?@wie@0
+kako/koliko?@wie@1
 pos^kodovati@verletzen@0
 bliskati@blitzen@0
 zlomljen@gebrochen@0
@@ -223,7 +223,7 @@ dirka@das rennen@0
 srec^a@das glu:ck@0
 pos^kodovati@bescha:digen@0
 povzroc^iti@verursachen@0
-operirati@operieren@0
+operirati@operieren@1
 koga?@wen@0
 komu?@wem@0
 c^akati@warten@0
@@ -232,36 +232,34 @@ izgubiti z^ivljenje@kommen ums leben@0
 zvoniti/zveneti@klingen@0
 c^igav?@wessen@0
 , da@dass@0
-, ker@weil@0
+, ker@weil@1
 , c^eprav@obwohl@0
 , kljub temu@trotzdem@0
 zato@deshalb@0
 , da bi@damit@0
 obvezen@obligatorisch@0
 tip@typ@0
-neobvezen@fakultativ@1
-da@dass@1
+neobvezen@fakultativ@0
+da@dass@0
 c^eprav@obwohl@0
-kljub temu@trotzdem@2
-ker@weil@1
-kdaj?@wann?@0
-zakaj?@warum?@0
+kljub temu@trotzdem@0
+ker@weil@0
 poklicna s^ola@die berufsschule@0
-mizar@der tischler@1
+mizar@der tischler@0
 slikar@der maler@0
-frizer@der friso:r@0
-bolnic^ar/medicinski brat@der krankenpfleger@1
+frizer@der friso:r@1
+bolnic^ar/medicinski brat@der krankenpfleger@0
 natakar@der kellner@1
 kuhar@der koch@0
-kuharica@die ko:chin@2
-kljuc^avnic^ar@der schlosser@1
-kmet@der landwirt@1
+kuharica@die ko:chin@0
+kljuc^avnic^ar@der schlosser@0
+kmet@der landwirt@0
 pek@der ba:cker@0
 prodajalec@der verka:ufer@0
 motorno vozilo@das kraftfahrzeug@0
 mehanik@der mechaniker@0
 sobarica@die zimmerma:dchen@0
-elektric^ar@der elektriker@1
+elektric^ar@der elektriker@0
 elektrotehnik@der elektrotechniker@0
 banc^ni usluz^benec@der bankkaufmann@0
 pismonos^a@der postbote@0
@@ -270,28 +268,28 @@ rac^unalnis^ko podroc^je@der computerbereich@0
 strojni tehnik@der maschinenbautechniker@0
 zdravnik@der arzt@0
 uc^itelj@der lehrer@0
-profesor@der professor@0
-odvetnik@der anwalt@1
+profesor@der professor@1
+odvetnik@der anwalt@0
 inz^enir elektrotehnike@der elektroingenieur@0
 pilot@der pilot@1
 matura@das abitur@0
 opraviti maturo@das abitur machen@0
 maturant@der abiturient@0
-vrtec@der kindergarten@2
+vrtec@der kindergarten@0
 osnovna s^ola@die grundschule@0
-die grundschule dauert@4@2
+die grundschule dauert@4@0
 razred@die klasse@0
 gimnazija@das gymnasium@0
-das gymnasium dauert@8@2
+das gymnasium dauert@8@0
 srednja s^ola@die mittelschule@0
 die mittelschule dauert@8@0
-srednja s^ola@die realschule@0
+srednja s^ola@die realschule@1
 die realschule dauert@6@0
-die berufschule dauert@4/5@0
+die berufschule dauert@4/5@1
 izbirati@wa:hlen@0
 zato@darum@0
 fotograf@der fotograf@0
-programer@der programmierer@3
+programer@der programmierer@0
 tajnik@der sekreta:r@0
 takrat@damals@0
 delavnica@die werkstatt@0
@@ -299,3 +297,7 @@ s^olanje/izobrazba@die ausbildung@0
 maturantski ples@der abiturientenball@1
 policist@der polizist@0
 gradbeni inz^enir@der bauingenieur@0
+srednja s^ola@die gesamtschule@0
+vis^ja osnovna s^ola@die hauptschule@0
+veterinar@der tierarzt@0
+c^emu?@wozu@0
