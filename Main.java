@@ -570,7 +570,7 @@ public class Main {
         System.out.println("c/s/z + ^ = Slovene symbols");
         System.out.println("s/u/a/o + : = German symbols");
         System.out.println("n\\ = New line character");
-        System.out.println("˘^ = add literal '^' character");
+        System.out.println("˘ = add literal character, like '^' or ':', which are normally special characters");
         //System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, m f keyword-make set ouf of flashcards that start with keyword, m l keyword-make set out of flashcards that end in keyword, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
     }
 
@@ -750,7 +750,7 @@ public class Main {
                         } else charToReplaceWith = 'š';
                         break;
                     case '˘':
-                        charToReplaceWith = '^';
+                        charToReplaceWith = toPrint.charAt(j);
                         break;
                     default:
                         System.out.println("Something went wrong with turning ching cheng hanji into readable. Problem char: " + whichChar);

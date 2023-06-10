@@ -1060,3 +1060,11 @@ od kod izvira ime 'dinamični ram'?n^a. sproti se prilagaja dogajanju v programu
 kaj je značilno za bliskovni pomnilnik (flash memory)?n^a. branje in pisanje sta enako zahtevni operacijin^b. branje in pisanje nista enako zahtevni operacijin^c. sprogramiramo ga lahko bliskovito (odtod ime)n^d. vpis vsebine z napetostjo in izbris z uv-svetlobo@b@0
 kaj je pomnilniško preslikan vhod-izhod?n^a. vhodno-izhodni ukazi se preslikajo v pomnilnikn^b. vhodni-izhodne naprave kopirajo vse podatke v pomnilnikn^c. registri vhodno-izhodnih naprav so v pomnilniškem naslovnem prostorun^d. princip, po katerem morajo vhodni podatki iti na izhod preko pomnilnika@c@0
 katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@no clue buckaroo@0
+velikost naslovnega prostora pri 11-bitnem naslovu znaša˘:n^a. 2 kn^b. 4 kn^c. 6 kn^d. 8 k@a@0
+če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@c@0
+v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kdara sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
+prevajanje iz zbirnega jezika v strojno kodo opravlja˘:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
+ukaz .org 0 je˘:n^a. strojni ukazn^c. pomnilniški ukazn^c. psevdo-ukazn^d. visokonivojski ukaz@c@0
+ukazi brez operandov uporabljajo˘:n^a. skladn^b. registren^c. akumulatorn^d. predpomnilnik@a@0
+način naslavnjanja, pri katerem podamo vrednost operanda kot del ukaza, se imenuje˘:n^a. neposrednon^b. takojšnjen^c. relativnon^d. absolutno@b@0
+zakaj ima procesor hip več ukazov load kot ukazov store? koliko je enih in drugih?@mmmm, mogoče... ne vemmm c˘:˘:˘:@0
