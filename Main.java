@@ -196,7 +196,8 @@ public class Main {
                 }
                 if(userInput.equals(answers.get(actualIndexForUse))){
                     wrongAnswer = false;
-                    System.out.printf("Correct; \n%s\n=\n%s%n",unChingCheng(flashcards.get(actualIndexForUse)),unChingCheng(userInputOriginalCopy));
+                    printCorrect();
+                    System.out.printf("%n%s%n=%n%s%n",unChingCheng(flashcards.get(actualIndexForUse)),unChingCheng(userInputOriginalCopy));
                     streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     counter++;
                     printEmptyLines(2);
@@ -216,7 +217,9 @@ public class Main {
                 }
                 if(wrongAnswer){
                     System.out.println("Duplicates = " + duplicates);
-                    System.out.println("Wrong/////////; Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "         Your answers: " + unChingCheng(userInputOriginalCopy));
+                    printWrong();
+                    System.out.println("Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "         Your answers: " + unChingCheng(userInputOriginalCopy));
+                    System.out.println();
                     if(resetStreakWhenWrongAnswer) streaks.set(actualIndexForUse, -1);
                 }
             }
@@ -1177,4 +1180,33 @@ public class Main {
             System.out.println("Something went wrong when printing for Excel.");
         }
     }
+
+    void printWrong() {
+        System.out.println("                                                                  ");    
+        System.out.println("                              ,----..            ,--.             ");
+        System.out.println("           .---.,-.----.     /   /   \\         ,--.'|  ,----..    ");
+        System.out.println("          /. ./|\\    /  \\   /   .     :    ,--,:  : | /   /   \\   ");
+        System.out.println("      .--'.  ' ;;   :    \\ .   /   ;.  \\,`--.'`|  ' :|   :     :  ");
+        System.out.println("     /__./ \\ : ||   | .\\ :.   ;   /  ` ;|   :  :  | |.   |  ;. /  ");
+        System.out.println(" .--'.  '   \\' ..   : |: |;   |  ; \\ ; |:   |   \\ | :.   ; /--`   ");
+        System.out.println("/___/ \\ |    ' '|   |  \\ :|   :  | ; | '|   : '  '; |;   | ;  __  ");
+        System.out.println(";   \\  \\;      :|   : .  /.   |  ' ' ' :'   ' ;.    ;|   : |.' .' ");
+        System.out.println(" \\   ;  `      |;   | |  \\'   ;  \\; /  ||   | | \\   |.   | '_.' : ");
+        System.out.println("  .   \\    .\\  ;|   | ;\\  \\\\   \\  ',  / '   : |  ; .''   ; : \\  | ");
+        System.out.println("   \\   \\   ' \\ |:   ' | \\.' ;   :    /  |   | '`--'  '   | '/  .' ");
+        System.out.println("    :   '  |--\" :   : :-'    \\   \\ .'   '   : |      |   :    /   ");
+        System.out.println("     \\   \\ ;    |   |.'       `---`     ;   |.'       \\   \\ .'    ");
+        System.out.println("      '---\"     `---'                   '---'          `---`      ");
+        System.out.println("                                                                  ");
+    }
+
+    void printCorrect() {
+        System.out.println("  ___  _____  ____  ____  ____  ___  ____"); 
+        System.out.println(" / __)(  _  )(  _ \\(  _ \\( ___)/ __)(_  _)");
+        System.out.println("( (__  )(_)(  )   / )   / )__)( (__   )( "); 
+        System.out.println(" \\___)(_____)(_)\\_)(_)\\_)(____)\\___) (__) ");
+
+
+    }
 }
+

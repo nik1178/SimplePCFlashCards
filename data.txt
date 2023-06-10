@@ -47,7 +47,7 @@ kaj ni razlog za izgubo informacije pri pomnilnikih?n^a. dinamično shranjevanje
 od kod izvira ime 'dinamični ram'?n^a. sproti se prilagaja dogajanju v programun^b. deluje na podobnem principu kot dinamon^c. vsebina ni posebno obstojnan^d. temelji na dinamičnem razvrščanju@c@0
 kateri od nštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@0
 kaj je značilno za bliskovni pomnilnik (flash memory)?n^a. branje in pisanje sta enako zahtevni operacijin^b. branje in pisanje nista enako zahtevni operacijin^c. sprogramiramo ga lahko bliskovito (odtod ime)n^d. vpis vsebine z napetostjo in izbris z uv-svetlobo@b@0
-kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z ub-svetlobon^d. vpis in izbris vsebine z napetostjo@b@0
+kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z ub-svetlobon^d. vpis in izbris vsebine z napetostjo@b@1
 ukaze s koliko operandi uporabljajo skladovni računalniki?n^a. 0n^b. 1n^c. 2n^d. 3@a@0
 kje v kontekstu predpomnilnikov uporabljamo 'umazani bit'?n^a. pri 'pisanju skozi'n^b. pri 'pisanju nazaj'n^c. pri 'branju nazaj'n^d. pri 'branju skozi'@b@0
 procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza, se imenujen^a. superskalarnin^b. cevovodnin^c. vzporedni oz. paralelnin^d. vliw@b@0
