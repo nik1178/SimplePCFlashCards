@@ -1,6 +1,4 @@
 # READ ME
-To run compile and run Main.java ("javac Main.java" then "java Main" in the terminal)
-
 This program allows you to make simple flashcards. A word (or more) on one side and the expect answers on the other side (figuratively, not graphically).
 
 After you've created your flashcards, you can start learning. The program outputs them in a random order, showing each card once (unless set to true random).
@@ -20,7 +18,12 @@ These are not made with multiple languages in mind, so these two languages are t
 Even if these are the only two officially supported languages, the flashcards can still be used for any other implication, if we exclude these two commands.
 
 # Running the program
+To run compile and run Main.java ("javac Main.java" then "java Main" in the terminal)
+
 To make using the program simpler, I made a simple run.bat, so even non developers know how to run it. Due to this being a personal project, JDK is required to run the program.
 
 # Commands
 Use: !, !h or !help to get a list of all the commands built into the program.
+
+One of the features also includes SETS. This allows you to add a specific "flashcard" to a set of flashcards. Once you activate the set, you will only be shown the added flashcards.
+This allows you to practice the ones giving you trouble, or ones specific to your current exam.
