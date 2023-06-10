@@ -1,151 +1,70 @@
-[iliada - avtor@homer@0
-iliada - obdobje@antika@0
-iliada - oblika@junas^ki ep@0
-[kralj ojdip - avtor@sofoklej@0
-kralj ojdip - obdobje@antika@0
-kralj ojdip - oblika@tragedija@0
-visoka pesem - obdobje@hebrejska knjiz^evnost@0
-visoka pesem - oblika@hvalnica ljubezni@0
-[svatovska pesem - avtor@sapfo@0
-svatovska pesem - obdobje@antika@0
-svatovska pesem - oblika@ljubezenska pesem@1
-[o, blazen bodi cas pomladnih dni - avtor@petrarca@0
-o, blazen bodi cas pomladnih dni - obdobje@renesansa@0
-o, blazen bodi cas pomladnih dni - oblika@sonet@0
-[bozanska komedija - avtor@dante alighieri@0
-bozanska komedija - obdobje@srednji vek@0
-bozanska komedija - oblika@versko-alegoric^ni ep@0
-[hamlet - avtor@william shakespeare@0
-hamlet - obdobje@-renesansa@0
-hamlet - oblika@-tragedija@0
-[novela o sokolu - avtor@boccaccio@0
-novela o sokolu - obdobje@renesansa@0
-novela o sokolu - oblika@novela@0
-[don kihot - avtor@cervantes@0
-don kihot - obdobje@renesansa@0
-don kihot - oblika@roman@0
-[proti zidavi romarskih cerkva - avtor@primoz^ trubar@0
-proti zidavi romarskih cerkva - obdobje@reformacija@0
-proti zidavi romarskih cerkva - oblika@pridiga@0
-lepa vida - obdobje@ljudska slovnica@0
-lepa vida - oblika@z^enska balada@0
-[tartuffe/ljudomrznik - avtor@jean moliere@0
-tartuffe/ljudomrznik - obdobje@klasicizem@0
-tartuffe/ljudomrznik - oblika@komedija@0
-[zadovoljni krajnc - avtor@valentin vodnik@0
-zadovoljni krajnc - obdobje@razsvetljenstvo@0
-zadovoljni krajnc - oblika@budnica@0
-[matic^ek se z^eni - avtor@anton tomaz^ linhrat@0
-matic^ek se z^eni - obdobje@razsvetljenstvo@0
-matic^ek se z^eni - oblika@komedija@0
-[jevgenij onjegin - avtor@pus^kin@0
-jevgenij onjegin - obdobje@unknown@0
-jevgenij onjegin - oblika@roman@0
-[lorelaj - avtor@heinrich heine@0
-lorelaj - obdobje@romantika@0
-lorelaj - oblika@balada@0
-[slovo od mladosti - avtor@preseren@0
-slovo od mladosti - obdobje@romantika@0
-slovo od mladosti - oblika@elegija/z^alostinka@0
-[sonetje nesrec^e - avtor@preseren@0
-sonetje nesrec^e - obdobje@romantika@0
-sonetje nesrec^e - oblika@sonetje@0
-[sonetni venec - avtor@preseren@0
-sonetni venec - obdobje@romantika@0
-sonetni venec - oblika@sonetje@0
-[krst pri savici - avtor@preseren@0
-krst pri savici - obdobje@romantika@0
-krst pri savici - oblika@povest v verzih@0
-[pevcu - avtor@preseren@1
-pevcu - obdobje@romantika@0
-pevcu - oblika@pesem@0
-[zloc^in in kazen - avtor@dostojevski@0
-zloc^in in kazen - obdobje@psiholoski realizem@0
-zloc^in in kazen - oblika@roman@0
-[gospa bovary - avtor@flaubert@0
-gospa bovary - obdobje@realizem@0
-gospa bovary - oblika@roman@0
-[obrazi - avtor@simon jenko@0
-obrazi - obdobje@realizem@0
-obrazi - oblika@cikel 20 pesmi@0
-[telec^ja pec^enka - avtor@josip jurcic@0
-telec^ja pec^enka - obdobje@realizem@0
-telec^ja pec^enka - oblika@zalostinka@0
-[jara gospoda - avtor@janko kersnik@0
-jara gospoda - obdobje@realizem@0
-jara gospoda - oblika@roman@0
-[visos^ka kronika - avtor@tavcar@0
-visos^ka kronika - obdobje@nova romantika@0
-visos^ka kronika - oblika@zgodovisnki roman@0
-[tujec - avtor@baudelaire@0
-tujec - obdobje@nova romantika@0
-tujec - oblika@pesem@0
-[na trgu - avtor@dragotin kette@0
-na trgu - obdobje@impresionizem@0
-na trgu - oblika@pesem@0
-[ko dobrave se mrac^e - avtor@josip murn@0
-ko dobrave se mrac^e - obdobje@impresionizem@0
-ko dobrave se mrac^e - oblika@pesem@0
-[martin kac^ur - avtor@cankar@0
-martin kac^ur - obdobje@moderna@0
-martin kac^ur - oblika@roman@0
-[hlapci - avtor@cankar@0
-hlapci - obdobje@moderna@0
-hlapci - oblika@tragedija@0
-[preobrazba - avtor@franz kafka@0
-preobrazba - obdobje@20@0
-preobrazba - oblika@groteska novela@0
-[slutnja - avtor@srecko kosovel@0
-slutnja - obdobje@20@0
-slutnja - oblika@pesem@0
-[ekstaza smrti - avtor@srecko kosovel@0
-ekstaza smrti - obdobje@20@0
-ekstaza smrti - oblika@pesem@0
-[kons 5 - avtor@srecko kosovel@0
-kons 5 - obdobje@20@0
-kons 5 - oblika@konstrukcija@0
-[dogodek v mestu gogi - avtor@slavko grum@0
-dogodek v mestu gogi - obdobje@20@0
-dogodek v mestu gogi - oblika@drama@0
-[matkova tina - avtor@ivan pregelj@0
-matkova tina - obdobje@20@0
-matkova tina - oblika@novela@0
-[bosa pojdiva - avtor@karel kajuh@0
-bosa pojdiva - obdobje@20@0
-bosa pojdiva - oblika@ljubezenska pesem@0
-[c^rna z^ena - avtor@senghor@0
-c^rna z^ena - obdobje@20@0
-c^rna z^ena - oblika@hvalnica@0
-[zaprta vrata - avtor@sartre@0
-zaprta vrata - obdobje@20@0
-zaprta vrata - oblika@drama@0
-[croquis - avtor@janez menart@0
-croquis - obdobje@20@0
-croquis - oblika@likovna pesem@0
-[juz^ni otok - avtor@kajetan kovic@0
-juz^ni otok - obdobje@20@0
-juz^ni otok - oblika@pesem@0
-[c^rni dec^ek - avtor@dane zajc@0
-c^rni dec^ek - obdobje@20@0
-c^rni dec^ek - oblika@pesem@0
-[vec^erna pravljica - avtor@gregor strnisa@0
-vec^erna pravljica - obdobje@20@0
-vec^erna pravljica - oblika@pesem@0
-[stvari - avtor@tomaz satuman@0
-stvari - obdobje@20@0
-stvari - oblika@pesem@0
-[grizljal sem svinc^nik - avtor@milan jesih@0
-grizljal sem svinc^nik - obdobje@20@0
-grizljal sem svinc^nik - oblika@sonet@0
-[pris^leki - avtor@lojze kovacic@0
-pris^leki - obdobje@20@0
-pris^leki - oblika@roman@0
-[zmote dijaka tjaz^a - avtor@florjan lipus@0
-zmote dijaka tjaz^a - obdobje@unknown@0
-zmote dijaka tjaz^a - oblika@roman@0
-[afera - avtor@primoz kozak@0
-afera - obdobje@eksistenciolizem@0
-afera - oblika@politicna drama@0
-[veliki brilijantni valc^ek - avtor@drago jancar@0
-veliki brilijantni valc^ek - obdobje@20@0
-veliki brilijantni valc^ek - oblika@druzbokriticna drama@0
+pri koliko-bitnem zapisu v dvojiškem komplementu je najmanjše število -32?n^a. 4n^b. 5n^c. 6n^d. 7n^@c@1
+velikost naslovnega prostora pri 11-bitnem naslovu znaša:n^a. 2 kn^b. 4 kn^c. 6 kn^d. 8 k@a@0
+pri neki 24-bitni cpe se program začne na naslovu 200 (desetiško). katera od navedenih je veljavna vrednost programskega števca?n^a. 400n^b. 500n^c. 600n^d. 700n^@b@0
+v nekem nestandardnem formatu plavajoče vejice imamo en bit za predznak, 3 bite za eksponent in 4 bite za mantiso. koliko različnih števil lahko predstavimo?n^a. 16n^b. 64n^c. 128n^d. 256n^@d@0
+če od -2 odštejemo -5, je rezultat v dvojiškem komplementu enakn^a. 1001n^b. 1101n^c. 0011n^d. 0111@c@0
+če se stanje (lahko je visoko ali nizko) urinega signala procesorja spremeni 250-krat v vsaki mikrosekundi, traja ena urina periodan^a. 2,5nsn^b. 5nsn^d. 8nsn^@d@0
+pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b 11n^c 12n^d 13n^@c@0
+kolikšna je verjetnost zadetka, če znaša povprečen dostopni čas z uporabo 5ns predpomnilnika 10ns, brez njega pa 50ns?n^a. 80%n^b. 90%n^c. 95%n^d. 98%n^@b@0
+procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
+kolikšna je največja možna pohitritev paralelnega računalnika, če je vzporedni delež programa 90%?n^a. 5n^b. 10n^c. 20n^d. 90n^@b@1
+če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev:n^a. 12n^b. 6n^c. 4n^d. 3n^@c@0
+koliko približno znaša največje nenormirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
+v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kdara sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
+kateri način zapisa je najugodnejši pri množenju?n^a. zapis z odmikomn^b. eniški komplementn^c. dvojiški komplementn^d. predznak-veličinski@d@0
+kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b. dvojiški komplementn^c. zapis z odmikomn^d. eniški komplement@b@0
+kateri način zapisa ima dve prestavitvi za ničlo?n^a. zapis z odmikomn^b. eniški komeplementn^c. dvojiški komplementn^d. nobeden od naštetih@b@0
+koliko bitov ima eksponent pri dvojni natančnosti plavajoče vejico po standardu iee 754?n^a. 8n^b. 10n^c. 11n^d. 13@c@0
+koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c.46n^d. 52@d@0
+kaj so denormirana števila@lmao si pa mislu da bo odgovor@0
+kaj je dobra stran matričnih množilnikov?n^a. majhna poraba elementovn^b. hitrostn^c. da si produkt tudi zapomnijon^d. majhna poraba moči@b@1
+prevajanje iz zbirnega jezika v strojno kodo opravlja:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
+kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. pretvornikn^d. prevajalnik@b@0
+ukaz .org 0 je:n^a. strojni ukazn^c. pomnilniški ukazn^c. psevdo-ukazn^d. visokonivojski ukaz@c@0
+ukazi brez operandov uporabljajo:n^a. skladn^b. registren^c. akumulatorn^d. predpomnilnik@a@0
+od česa ni odvisen format ukazov?n^a. od dolžine pomnilniškega naslovan^b. od števila programsko dostopnih registrov cpen^c. od števila stanj končnega avtomata v kontrolni enotin^d. od števila operandov v ukazu@c@0
+kaj vsebuje podatkovna enota procesorja?n^a. podatken^b. ale, registre, multipleksorje in dodatno logikon^c. ale, končni avotmat, multipleksorje in dodatno logikon^d. registre, multipleksorje, ir in dodatno logiko@b@0
+način naslavnjanja, pri katerem podamo naslov operanda kot del ukaza, se imenujen^a. neposrednon^b. takojšnjen^c. relativnon^d. absolutno@a@0
+način naslavnjanja, pri katerem podamo vrednost operanda kot del ukaza, se imenuje:n^a. neposrednon^b. takojšnjen^c. relativnon^d. absolutno@b@0
+za katere vrste naslavnjanje gre pri ukazu add r1,r2,r3n^a. takojšnjen^b. baznon^c. neposrednon^d. posredno@c@0
+kateri od naštetih registrov pri nekaterih ukazih igra vlogo baznega registra?n^a. irn^b. pcn^c. marn^d. mdr@b@0
+za kaj se uporablja operacija tip ori r1, r2 #0x00008000?n^a. za banje vrednosti bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0
+za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^za birsanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
+s katerimi logičnimi vrati lahko ugotovimo, ali so vsi biti registra enaki 0?n^a. in(and)n^b. ali(or)n^c. ne-in(nand)n^d. ne-ali(nor)@d@0
+čemu služi kazalec na okvir (frame pointer)?n^a. to je rezervni kazalec na sklad, ki služi kot 'back-up'n^b. prek njega posredno dostopamo do kazalca na sklad.n^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivk na skladu.n^d. služi tistim, ki ne vedo, kje je okvir.@c@0
+čemu služi kazalec na sklad (stack pointer)?n^a. prek njega posredno dostopamo do kazalca na okvirn^b. pravzaprav ničemurn^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivkn^d. kaže na vrh sklada@d@0
+kaj je marn^a. register, v katerega pomnilnik zapiše naslovn^b. register v pomnilniku, v katerem je zapisan naslovn^c. register, v katerega se zapiše vsebina pomnilniškega vodilan^d. register, iz katerega pomnilnik dobi naslov@d@0
+kaj pomeni mimd?n^a. memory instruction multiple datan^b. multiple instruction memory datan^c. multiple instruction multiple datan^d. multiple information memory data@c@0
+kaj ni mdr?n^a. register, v katerega pomnilnik zapiše podatken^b. register, iz katerega pomnilnik dobi podatken^c. register v pomnilniku, v katerem so zapisani podatkin^d. register, v katerega se zapiše vsebina podatkovnega vodila@c@0
+za kaj se uporablja enota za upravljanje s pomnilnikom (mmu, memory managment unit)?n^a. preslikuje virtualne naslove v fizičnen^b. skrbi za urejanje podatkov v pomnilnikun^c. minanje crypton^d. memory corruption@a@0
+za kaj se uporabljajo predpomnilniki@nema odgovora brt, sm rabš vedt@0
+število potrebnih komparatorjev (primerjalnikov) v predpomnilniku je enako številun^a. besed v blokun^b. blokov v setun^c. setov v prepomnilnikun^d. blokov v predpomnilniku@b@0
+kaj vsebuje pomnilna celica sram?n^a. zapahn^b. mos tranzistor s statičnim kanalomn^c. magnetni dipoln^d. kondenzator@a@0
+pri kateri vrsti pomnilnika se vsebina izgubi ob izpadu napajanja?n^a. epromn^b. flashn^c. sramn^d. magnetni disk@c@0
+pri katerem pomnilniku se vsebina izgubi ob izpadu napajanja?n^a. dramn^b. eepromn^c. flashn^d. magnetni disk@a@0
+kaj označujemo s kratico ram (random access memory)?n^a. pomnilnik, pri katerem dostopimo do naključne lokacijen^b. pomnilnik, ki nam vrne naključno vrednostn^c. pomnilnik s konstantnim časom dostopa do katerekoli lokacijen^d. pomnilnik, pri katerem je čas dostopa zelo odvisen od naključnih dejavnikov@c@0
+kaj ni razlog za izgubo informacije pri pomnilnikih?n^a. dinamično shranjevanjen^b. destruktivno pisanjen^c. fizična izguba pomnilnikan^d. izpad napajanja@b@0
+od kod izvira ime 'dinamični ram'?n^a. sproti se prilagaja dogajanju v programun^b. deluje na podobnem principu kot dinamon^c. vsebina ni posebno obstojnan^d. temelji na dinamičnem razvrščanju@c@0
+kateri od nštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@0
+kaj je značilno za bliskovni pomnilnik (flash memory)?n^a. branje in pisanje sta enako zahtevni operacijin^b. branje in pisanje nista enako zahtevni operacijin^c. sprogramiramo ga lahko bliskovito (odtod ime)n^d. vpis vsebine z napetostjo in izbris z uv-svetlobo@b@0
+kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z ub-svetlobon^d. vpis in izbris vsebine z napetostjo@b@0
+ukaze s koliko operandi uporabljajo skladovni računalniki?n^a. 0n^b. 1n^c. 2n^d. 3@a@0
+kje v kontekstu predpomnilnikov uporabljamo 'umazani bit'?n^a. pri 'pisanju skozi'n^b. pri 'pisanju nazaj'n^c. pri 'branju nazaj'n^d. pri 'branju skozi'@b@0
+procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza, se imenujen^a. superskalarnin^b. cevovodnin^c. vzporedni oz. paralelnin^d. vliw@b@0
+1-bitna prediktorska tabela ima naslov, določen z biti naslova a5...a3. kateri od ukazov se preslika v drugo polje tabele kot ostali trije?n^a. 0x79n^b. 0x37n^c. 0x30n^d. 0x70@a@0
+kaj je prekinitveni servisni program (psp)?n^a. program, ki povzroči prekinitevn^b. program, ki ga procesor izvede, ko se zgodi prekinitevn^c. program, ki ga procesor izvede, preden se zgodi prekinitevn^d. program, ki ga procesor izvede, da prepreči prekinitve@b@0
+kaj pomeni 'lokalnost pomnilniških dostopov'?@to pomeni, da programi pogosto večkrat uporabljajo iste ukaze, ali pa ukaze, ki so v pomnilniku blizu trenutnemu ukazu@0
+kaj pomeni ortogonalnost ukazov?@figure it out, rabš znt@0
+kaj so superskalarni procesorji?n^a. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi dodatnih komponentn^b. procesorji, namenjeni izjemno hitremu računanju skalarnega produktan^c. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi cevovodan^d. procesorji, ki imajo več jeder@a@0
+kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@figure it out@0
+kako imenujemo računalnike, pri katerih so namesto parametra cpi začeli raje uporabljati ipc?n^a. intelligent personal computersn^b. večizstavitvenin^c. porazdeljenin^d. ipc računalniki@b@0
+s čim vedno množimo številko vektorja?n^a. z naslovom pspn^b. s številom pomnilniških besed, ki jih potrebujemo za zapis naslova ukazan^c. z dolžino pspn^d. s številko okvirja@b@0
+česa pri navideznem pomnilniku ne vsebuje tabela strani (page table)?n^a. opisnikov stranin^b. naslovov besed znotraj stranin^c. umazanih bitovn^d. številk okvira@b@0
+kaj je pomnilniško preslikan vhod-izhod?n^a. vhodno-izhodni ukazi se preslikajo v pomnilnikn^b. vhodni-izhodne naprave kopirajo vse podatke v pomnilnikn^c. registri vhodno-izhodnih naprav so v pomnilniškem naslovnem prostorun^d. princip, po katerem morajo vhodni podatki iti na izhod preko pomnilnika@c@0
+katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@no clue buckaroo@0
+kateri registri so vezani pri cpe hip na podatkovno vodilon^a. mar in pcn^b. pc in irn^c. ir in mdrn^d. mdr in mar@c@0
+kateri registri so vezani pri cpe hip na naslovno vodilo?n^a. ir in mdrn^b. pc in irn^c. mdr in marn^d. mar in pc@d@0
+kam v procesorju hip ni vezan programski števec (pc)?n^a. na naslovno vodilon^b. na podatkovno vodilon^c. na vodilo s1n^d. na vodilo d@b@0
+kaj naredi ukaz call r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
+kateri signal pri cpe hip vpliva na to, koliko urinih period bo kontrolna enota v istem stanju?n^a. urin signaln^b. sizen^c. pcwriten^d. memwait@d@0
+zakaj ima procesor hip več ukazov load kot ukazov store? koliko je enih in drugih?@mmmm, mogoče... ne vemmm c:::@0

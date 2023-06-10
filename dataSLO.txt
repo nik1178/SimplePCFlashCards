@@ -1,0 +1,151 @@
+[iliada - avtor@homer@0
+iliada - obdobje@antika@0
+iliada - oblika@junas^ki ep@0
+[kralj ojdip - avtor@sofoklej@0
+kralj ojdip - obdobje@antika@0
+kralj ojdip - oblika@tragedija@0
+visoka pesem - obdobje@hebrejska knjiz^evnost@0
+visoka pesem - oblika@hvalnica ljubezni@0
+[svatovska pesem - avtor@sapfo@0
+svatovska pesem - obdobje@antika@0
+svatovska pesem - oblika@ljubezenska pesem@1
+[o, blazen bodi cas pomladnih dni - avtor@petrarca@0
+o, blazen bodi cas pomladnih dni - obdobje@renesansa@0
+o, blazen bodi cas pomladnih dni - oblika@sonet@0
+[bozanska komedija - avtor@dante alighieri@0
+bozanska komedija - obdobje@srednji vek@0
+bozanska komedija - oblika@versko-alegoric^ni ep@0
+[hamlet - avtor@william shakespeare@0
+hamlet - obdobje@-renesansa@0
+hamlet - oblika@-tragedija@0
+[novela o sokolu - avtor@boccaccio@0
+novela o sokolu - obdobje@renesansa@0
+novela o sokolu - oblika@novela@0
+[don kihot - avtor@cervantes@0
+don kihot - obdobje@renesansa@0
+don kihot - oblika@roman@0
+[proti zidavi romarskih cerkva - avtor@primoz^ trubar@0
+proti zidavi romarskih cerkva - obdobje@reformacija@0
+proti zidavi romarskih cerkva - oblika@pridiga@1
+lepa vida - obdobje@ljudska slovnica@0
+lepa vida - oblika@z^enska balada@0
+[tartuffe/ljudomrznik - avtor@jean moliere@0
+tartuffe/ljudomrznik - obdobje@klasicizem@0
+tartuffe/ljudomrznik - oblika@komedija@0
+[zadovoljni krajnc - avtor@valentin vodnik@0
+zadovoljni krajnc - obdobje@razsvetljenstvo@0
+zadovoljni krajnc - oblika@budnica@0
+[matic^ek se z^eni - avtor@anton tomaz^ linhrat@0
+matic^ek se z^eni - obdobje@razsvetljenstvo@0
+matic^ek se z^eni - oblika@komedija@0
+[jevgenij onjegin - avtor@pus^kin@0
+jevgenij onjegin - obdobje@unknown@0
+jevgenij onjegin - oblika@roman@0
+[lorelaj - avtor@heinrich heine@0
+lorelaj - obdobje@romantika@0
+lorelaj - oblika@balada@0
+[slovo od mladosti - avtor@preseren@0
+slovo od mladosti - obdobje@romantika@0
+slovo od mladosti - oblika@elegija/z^alostinka@0
+[sonetje nesrec^e - avtor@preseren@0
+sonetje nesrec^e - obdobje@romantika@0
+sonetje nesrec^e - oblika@sonetje@0
+[sonetni venec - avtor@preseren@0
+sonetni venec - obdobje@romantika@0
+sonetni venec - oblika@sonetje@0
+[krst pri savici - avtor@preseren@0
+krst pri savici - obdobje@romantika@0
+krst pri savici - oblika@povest v verzih@0
+[pevcu - avtor@preseren@1
+pevcu - obdobje@romantika@0
+pevcu - oblika@pesem@0
+[zloc^in in kazen - avtor@dostojevski@0
+zloc^in in kazen - obdobje@psiholoski realizem@0
+zloc^in in kazen - oblika@roman@0
+[gospa bovary - avtor@flaubert@0
+gospa bovary - obdobje@realizem@0
+gospa bovary - oblika@roman@0
+[obrazi - avtor@simon jenko@0
+obrazi - obdobje@realizem@0
+obrazi - oblika@cikel 20 pesmi@0
+[telec^ja pec^enka - avtor@josip jurcic@0
+telec^ja pec^enka - obdobje@realizem@0
+telec^ja pec^enka - oblika@zalostinka@0
+[jara gospoda - avtor@janko kersnik@0
+jara gospoda - obdobje@realizem@0
+jara gospoda - oblika@roman@0
+[visos^ka kronika - avtor@tavcar@0
+visos^ka kronika - obdobje@nova romantika@0
+visos^ka kronika - oblika@zgodovisnki roman@0
+[tujec - avtor@baudelaire@0
+tujec - obdobje@nova romantika@0
+tujec - oblika@pesem@0
+[na trgu - avtor@dragotin kette@0
+na trgu - obdobje@impresionizem@0
+na trgu - oblika@pesem@0
+[ko dobrave se mrac^e - avtor@josip murn@0
+ko dobrave se mrac^e - obdobje@impresionizem@0
+ko dobrave se mrac^e - oblika@pesem@0
+[martin kac^ur - avtor@cankar@0
+martin kac^ur - obdobje@moderna@0
+martin kac^ur - oblika@roman@0
+[hlapci - avtor@cankar@0
+hlapci - obdobje@moderna@0
+hlapci - oblika@tragedija@0
+[preobrazba - avtor@franz kafka@0
+preobrazba - obdobje@20@0
+preobrazba - oblika@groteska novela@0
+[slutnja - avtor@srecko kosovel@0
+slutnja - obdobje@20@1
+slutnja - oblika@pesem@0
+[ekstaza smrti - avtor@srecko kosovel@0
+ekstaza smrti - obdobje@20@0
+ekstaza smrti - oblika@pesem@0
+[kons 5 - avtor@srecko kosovel@0
+kons 5 - obdobje@20@0
+kons 5 - oblika@konstrukcija@0
+[dogodek v mestu gogi - avtor@slavko grum@0
+dogodek v mestu gogi - obdobje@20@0
+dogodek v mestu gogi - oblika@drama@0
+[matkova tina - avtor@ivan pregelj@0
+matkova tina - obdobje@20@0
+matkova tina - oblika@novela@1
+[bosa pojdiva - avtor@karel kajuh@0
+bosa pojdiva - obdobje@20@0
+bosa pojdiva - oblika@ljubezenska pesem@0
+[c^rna z^ena - avtor@senghor@0
+c^rna z^ena - obdobje@20@0
+c^rna z^ena - oblika@hvalnica@0
+[zaprta vrata - avtor@sartre@0
+zaprta vrata - obdobje@20@0
+zaprta vrata - oblika@drama@0
+[croquis - avtor@janez menart@0
+croquis - obdobje@20@0
+croquis - oblika@likovna pesem@0
+[juz^ni otok - avtor@kajetan kovic@0
+juz^ni otok - obdobje@20@0
+juz^ni otok - oblika@pesem@0
+[c^rni dec^ek - avtor@dane zajc@0
+c^rni dec^ek - obdobje@20@0
+c^rni dec^ek - oblika@pesem@0
+[vec^erna pravljica - avtor@gregor strnisa@0
+vec^erna pravljica - obdobje@20@1
+vec^erna pravljica - oblika@pesem@0
+[stvari - avtor@tomaz satuman@0
+stvari - obdobje@20@0
+stvari - oblika@pesem@0
+[grizljal sem svinc^nik - avtor@milan jesih@0
+grizljal sem svinc^nik - obdobje@20@0
+grizljal sem svinc^nik - oblika@sonet@0
+[pris^leki - avtor@lojze kovacic@0
+pris^leki - obdobje@20@0
+pris^leki - oblika@roman@0
+[zmote dijaka tjaz^a - avtor@florjan lipus@0
+zmote dijaka tjaz^a - obdobje@unknown@0
+zmote dijaka tjaz^a - oblika@roman@0
+[afera - avtor@primoz kozak@0
+afera - obdobje@eksistenciolizem@0
+afera - oblika@politicna drama@0
+[veliki brilijantni valc^ek - avtor@drago jancar@0
+veliki brilijantni valc^ek - obdobje@20@0
+veliki brilijantni valc^ek - oblika@druzbokriticna drama@0

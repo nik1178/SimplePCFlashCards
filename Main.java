@@ -1,3 +1,4 @@
+
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.*;
@@ -195,9 +196,10 @@ public class Main {
                 }
                 if(userInput.equals(answers.get(actualIndexForUse))){
                     wrongAnswer = false;
-                    System.out.printf("Correct; %s=%s%n",unChingCheng(flashcards.get(actualIndexForUse)),unChingCheng(userInputOriginalCopy));
+                    System.out.printf("Correct; \n%s\n=\n%s%n",unChingCheng(flashcards.get(actualIndexForUse)),unChingCheng(userInputOriginalCopy));
                     streaks.set(actualIndexForUse, streaks.get(actualIndexForUse)+1);
                     counter++;
+                    printEmptyLines(2);
                     if(counter>=answers.size()){
                         counter=0;
                         generateSeed();
@@ -555,7 +557,7 @@ public class Main {
         System.out.println("!lu - List all the flashcards unsorted (In the order which they were added)");
         System.out.println("!sl - Set limit / Set the streak limit, before the flashcards stop showing");
         System.out.println("!rev - Reverse the flashcards and answers");
-        System.out.println("!konj *german verb* - Konjugates the german verb into all needed forms");
+        System.out.println("CURRENTLY BROKEN: !konj *german verb* - Konjugates the german verb into all needed forms");
         System.out.println("!def *word* - Define / Translates the word from Slovene to German and vice versa. Tries to find the answer within your flashcards. If it fails, it searches online");
         System.out.println("!defi *word* - Same as !def, but straight to the interner");
         System.out.println("!setc - Set the streak of the current word");
@@ -565,6 +567,7 @@ public class Main {
         System.out.println("c/s/z + ^ = Slovene symbols");
         System.out.println("s/u/a/o + : = German symbols");
         System.out.println("n\\ = New line character");
+        System.out.println("˘^ = add literal '^' character");
         //System.out.printf("q-Quit, n-next, a-Add, rf-Read flashcards from file, b-Back r-Remove, m-make set, m pr.-Make set just out of pr. flashcards, m f keyword-make set ouf of flashcards that start with keyword, m l keyword-make set out of flashcards that end in keyword, rand-complete random, ds-do set, ss-save set, os-open set, ps-printSet g-Generate seed, e-Edit, el-Edit last, ec-Edit current, r-Remove, ca-Clear all, rs-Reset streaks, l-List, lu-List unsorted, sl-Set limit(%s), rev-reverse, konj+word-Konjugates word to all forms, defi-Search PONS, def+word-Finds what word means either from your flashcards or from web, setc-set the streak of current word%n", streakLimit);
     }
 
@@ -743,8 +746,11 @@ public class Main {
                             charToReplaceWith = 'ß';
                         } else charToReplaceWith = 'š';
                         break;
+                    case '˘':
+                        charToReplaceWith = '^';
+                        break;
                     default:
-                        System.out.println("Something went wrong with turning ching cheng hanji into readable");
+                        System.out.println("Something went wrong with turning ching cheng hanji into readable. Problem char: " + whichChar);
                         break;
 
                 }

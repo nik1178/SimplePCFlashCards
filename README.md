@@ -1,4 +1,6 @@
 # READ ME
+To run compile and run Main.java ("javac Main.java" then "java Main" in the terminal)
+
 This program allows you to make simple flashcards. A word (or more) on one side and the expect answers on the other side (figuratively, not graphically).
 
 After you've created your flashcards, you can start learning. The program outputs them in a random order, showing each card once (unless set to true random).
