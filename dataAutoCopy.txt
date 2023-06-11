@@ -1068,3 +1068,7 @@ ukaz .org 0 je˘:n^a. strojni ukazn^c. pomnilniški ukazn^c. psevdo-ukazn^d. vis
 ukazi brez operandov uporabljajo˘:n^a. skladn^b. registren^c. akumulatorn^d. predpomnilnik@a@0
 način naslavnjanja, pri katerem podamo vrednost operanda kot del ukaza, se imenuje˘:n^a. neposrednon^b. takojšnjen^c. relativnon^d. absolutno@b@0
 zakaj ima procesor hip več ukazov load kot ukazov store? koliko je enih in drugih?@mmmm, mogoče... ne vemmm c˘:˘:˘:@0
+kaj so denormirana števila@ko imamo v bitih eksponenta IEEE 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
+kaj pomeni ortogonalnost ukazov?@Medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandih^ninformacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
+kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
+kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0

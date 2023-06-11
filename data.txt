@@ -16,7 +16,7 @@ kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b.
 kateri način zapisa ima dve prestavitvi za ničlo?n^a. zapis z odmikomn^b. eniški komeplementn^c. dvojiški komplementn^d. nobeden od naštetih@b@0
 koliko bitov ima eksponent pri dvojni natančnosti plavajoče vejico po standardu iee 754?n^a. 8n^b. 10n^c. 11n^d. 13@c@0
 koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c.46n^d. 52@d@0
-kaj so denormirana števila@lmao si pa mislu da bo odgovor@0
+kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
 kaj je dobra stran matričnih množilnikov?n^a. majhna poraba elementovn^b. hitrostn^c. da si produkt tudi zapomnijon^d. majhna poraba moči@b@1
 prevajanje iz zbirnega jezika v strojno kodo opravlja˘:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
 kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. pretvornikn^d. prevajalnik@b@0
@@ -54,7 +54,7 @@ procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza,
 1-bitna prediktorska tabela ima naslov, določen z biti naslova a5...a3. kateri od ukazov se preslika v drugo polje tabele kot ostali trije?n^a. 0x79n^b. 0x37n^c. 0x30n^d. 0x70@a@0
 kaj je prekinitveni servisni program (psp)?n^a. program, ki povzroči prekinitevn^b. program, ki ga procesor izvede, ko se zgodi prekinitevn^c. program, ki ga procesor izvede, preden se zgodi prekinitevn^d. program, ki ga procesor izvede, da prepreči prekinitve@b@0
 kaj pomeni 'lokalnost pomnilniških dostopov'?@to pomeni, da programi pogosto večkrat uporabljajo iste ukaze, ali pa ukaze, ki so v pomnilniku blizu trenutnemu ukazu@0
-kaj pomeni ortogonalnost ukazov?@figure it out, rabš znt@0
+kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandihn^@0
 kaj so superskalarni procesorji?n^a. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi dodatnih komponentn^b. procesorji, namenjeni izjemno hitremu računanju skalarnega produktan^c. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi cevovodan^d. procesorji, ki imajo več jeder@a@0
 kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@figure it out@0
 kako imenujemo računalnike, pri katerih so namesto parametra cpi začeli raje uporabljati ipc?n^a. intelligent personal computersn^b. večizstavitvenin^c. porazdeljenin^d. ipc računalniki@b@0
