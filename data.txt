@@ -10,12 +10,12 @@ procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima ne
 kolikšna je največja možna pohitritev paralelnega računalnika, če je vzporedni delež programa 90%?n^a. 5n^b. 10n^c. 20n^d. 90n^@b@1
 če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@c@0
 koliko približno znaša največje nenormirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
-v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
+v katerem primeru je pri seštevalniku z razširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kadar je vhodni prenos enak 1.@c@0
 kateri način zapisa je najugodnejši pri množenju?n^a. zapis z odmikomn^b. eniški komplementn^c. dvojiški komplementn^d. predznak-veličinski@d@1
 kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b. dvojiški komplementn^c. zapis z odmikomn^d. eniški komplement@b@1
 kateri način zapisa ima dve prestavitvi za ničlo?n^a. zapis z odmikomn^b. eniški komeplementn^c. dvojiški komplementn^d. nobeden od naštetih@b@0
 koliko bitov ima eksponent pri dvojni natančnosti plavajoče vejico po standardu iee 754?n^a. 8n^b. 10n^c. 11n^d. 13@c@0
-koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c.46n^d. 52@d@0
+koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c. 46n^d. 52@d@0
 kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
 kaj je dobra stran matričnih množilnikov?n^a. majhna poraba elementovn^b. hitrostn^c. da si produkt tudi zapomnijon^d. majhna poraba moči@b@1
 prevajanje iz zbirnega jezika v strojno kodo opravlja˘:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
@@ -47,16 +47,16 @@ kaj ni razlog za izgubo informacije pri pomnilnikih?n^a. dinamično shranjevanje
 od kod izvira ime 'dinamični ram'?n^a. sproti se prilagaja dogajanju v programun^b. deluje na podobnem principu kot dinamon^c. vsebina ni posebno obstojnan^d. temelji na dinamičnem razvrščanju@c@0
 kateri od nštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@0
 kaj je značilno za bliskovni pomnilnik (flash memory)?n^a. branje in pisanje sta enako zahtevni operacijin^b. branje in pisanje nista enako zahtevni operacijin^c. sprogramiramo ga lahko bliskovito (odtod ime)n^d. vpis vsebine z napetostjo in izbris z uv-svetlobo@b@0
-kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z ub-svetlobon^d. vpis in izbris vsebine z napetostjo@b@1
+kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z uv-svetlobon^d. vpis in izbris vsebine z napetostjo@b@1
 ukaze s koliko operandi uporabljajo skladovni računalniki?n^a. 0n^b. 1n^c. 2n^d. 3@a@0
 kje v kontekstu predpomnilnikov uporabljamo 'umazani bit'?n^a. pri 'pisanju skozi'n^b. pri 'pisanju nazaj'n^c. pri 'branju nazaj'n^d. pri 'branju skozi'@b@0
 procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza, se imenujen^a. superskalarnin^b. cevovodnin^c. vzporedni oz. paralelnin^d. vliw@b@0
 1-bitna prediktorska tabela ima naslov, določen z biti naslova a5...a3. kateri od ukazov se preslika v drugo polje tabele kot ostali trije?n^a. 0x79n^b. 0x37n^c. 0x30n^d. 0x70@a@1
 kaj je prekinitveni servisni program (psp)?n^a. program, ki povzroči prekinitevn^b. program, ki ga procesor izvede, ko se zgodi prekinitevn^c. program, ki ga procesor izvede, preden se zgodi prekinitevn^d. program, ki ga procesor izvede, da prepreči prekinitve@b@0
 kaj pomeni 'lokalnost pomnilniških dostopov'?@to pomeni, da programi pogosto večkrat uporabljajo iste ukaze, ali pa ukaze, ki so v pomnilniku blizu trenutnemu ukazu@0
-kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
+kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:n^informacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandihn^@0
 kaj so superskalarni procesorji?n^a. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi dodatnih komponentn^b. procesorji, namenjeni izjemno hitremu računanju skalarnega produktan^c. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi cevovodan^d. procesorji, ki imajo več jeder@a@0
-kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@figure it out@0
+kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda bit tako dolgo, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
 kako imenujemo računalnike, pri katerih so namesto parametra cpi začeli raje uporabljati ipc?n^a. intelligent personal computersn^b. večizstavitvenin^c. porazdeljenin^d. ipc računalniki@b@0
 s čim vedno množimo številko vektorja?n^a. z naslovom pspn^b. s številom pomnilniških besed, ki jih potrebujemo za zapis naslova ukazan^c. z dolžino pspn^d. s številko okvirja@b@1
 česa pri navideznem pomnilniku ne vsebuje tabela strani (page table)?n^a. opisnikov stranin^b. naslovov besed znotraj stranin^c. umazanih bitovn^d. številk okvira@b@0
@@ -65,5 +65,5 @@ katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@no clue buckar
 kateri registri so vezani pri cpe hip na podatkovno vodilon^a. mar in pcn^b. pc in irn^c. ir in mdrn^d. mdr in mar@c@0
 kateri registri so vezani pri cpe hip na naslovno vodilo?n^a. ir in mdrn^b. pc in irn^c. mdr in marn^d. mar in pc@d@0
 kam v procesorju hip ni vezan programski števec (pc)?n^a. na naslovno vodilon^b. na podatkovno vodilon^c. na vodilo s1n^d. na vodilo d@b@0
-kaj naredi ukaz call r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
+kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
 kateri signal pri cpe hip vpliva na to, koliko urinih period bo kontrolna enota v istem stanju?n^a. urin signaln^b. sizen^c. pcwriten^d. memwait@d@0
