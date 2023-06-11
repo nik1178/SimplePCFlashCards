@@ -67,3 +67,4 @@ kateri registri so vezani pri cpe hip na naslovno vodilo?n^a. ir in mdrn^b. pc i
 kam v procesorju hip ni vezan programski števec (pc)?n^a. na naslovno vodilon^b. na podatkovno vodilon^c. na vodilo s1n^d. na vodilo d@b@0
 kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
 kateri signal pri cpe hip vpliva na to, koliko urinih period bo kontrolna enota v istem stanju?n^a. urin signaln^b. sizen^c. pcwriten^d. memwait@d@0
+v katerem mestu je hajduk?@split@0

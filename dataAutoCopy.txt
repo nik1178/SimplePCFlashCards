@@ -1074,3 +1074,15 @@ kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0)
 kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
 v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
 za kaj se uporablja operacija tip ori r1, r2 #0x00008000?n^a. za banje vrednosti bitan^b. za pomik bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0
+če se stanje (lahko je visoko ali nizko) urinega signala procesorja spremeni 250-krat v vsaki mikrosekundi, traja ena urina periodan^a. 2,5nsn^b. 5nsn^c. 4nsn^d. 8nsn^@d@0
+v katerem primeru je pri seštevalniku z razširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kadar je vhodni prenos enak 1.@c@0
+koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c. 46n^d. 52@d@0
+kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. pretvornikn^d. zbirnik@b@0
+za katere vrste naslavnjanja gre pri ukazu add r1,r2,r3n^a. takojšnjen^b. baznon^c. neposrednon^d. posredno@c@0
+za kaj se uporablja operacija tip ori r1, r2, #0x00008000?n^a. za branje vrednosti bitan^b. za pomik bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0
+za kaj se uporabljajo predpomnilniki@in short, hitrejše dostopanje do pomnilnika, saj je dostop do glavnega pomnilnika zelo počasen. V predpomnilnik zapišemo majhen delež glavnega pomnilnika, ki ga shranimo bližje procesorja z manjšimi naslovi.@0
+kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z uv-svetlobon^d. vpis in izbris vsebine z napetostjo@b@0
+kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:n^informacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandihn^@0
+kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda bit tako dolgo, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
+kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
+v katerem mestu je hajduk?@split@0
