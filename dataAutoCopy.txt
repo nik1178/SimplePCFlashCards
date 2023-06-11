@@ -1087,3 +1087,5 @@ kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak kora
 kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
 v katerem mestu je hajduk?@split@0
 za kaj se uporabljajo predpomnilniki@in short, hitrejše dostopanje do pomnilnika, saj je dostop do glavnega pomnilnika zelo počasen. v predpomnilnik zapišemo majhen delež glavnega pomnilnika, ki ga shranimo bližje procesorja z manjšimi naslovi.@0
+katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@statični pomnilnik zadrži svoje informacije dokler ima napajanje, dinamični pa jih mora stalno posodabljati. Zato je SRAM hitrješi in porabi manj elektrike@0
+kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. interpretern^d. zbirnik@b@0
