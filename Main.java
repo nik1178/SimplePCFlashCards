@@ -218,7 +218,7 @@ public class Main {
                 if(wrongAnswer){
                     System.out.println("Duplicates = " + duplicates);
                     printWrong();
-                    System.out.println("Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "         Your answers: " + unChingCheng(userInputOriginalCopy));
+                    System.out.println("Correct answer: " + unChingCheng(answers.get(actualIndexForUse)) + "\n   Your answer: " + unChingCheng(userInputOriginalCopy));
                     System.out.println();
                     if(resetStreakWhenWrongAnswer) streaks.set(actualIndexForUse, -1);
                 }
