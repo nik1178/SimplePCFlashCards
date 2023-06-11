@@ -1072,3 +1072,5 @@ kaj so denormirana števila@ko imamo v bitih eksponenta IEEE 754 same ničle (0)
 kaj pomeni ortogonalnost ukazov?@Medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandih^ninformacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
 kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
 kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
+v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
+za kaj se uporablja operacija tip ori r1, r2 #0x00008000?n^a. za banje vrednosti bitan^b. za pomik bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0

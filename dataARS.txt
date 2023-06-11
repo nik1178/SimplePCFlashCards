@@ -29,7 +29,7 @@ način naslavnjanja, pri katerem podamo vrednost operanda kot del ukaza, se imen
 za katere vrste naslavnjanje gre pri ukazu add r1,r2,r3n^a. takojšnjen^b. baznon^c. neposrednon^d. posredno@c@0
 kateri od naštetih registrov pri nekaterih ukazih igra vlogo baznega registra?n^a. irn^b. pcn^c. marn^d. mdr@b@0
 za kaj se uporablja operacija tip ori r1, r2 #0x00008000?n^a. za banje vrednosti bitan^b. za pomik bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0
-za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^za birsanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
+za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^b. za brisanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
 s katerimi logičnimi vrati lahko ugotovimo, ali so vsi biti registra enaki 0?n^a. in(and)n^b. ali(or)n^c. ne-in(nand)n^d. ne-ali(nor)@d@0
 čemu služi kazalec na okvir (frame pointer)?n^a. to je rezervni kazalec na sklad, ki služi kot 'back-up'n^b. prek njega posredno dostopamo do kazalca na sklad.n^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivk na skladu.n^d. služi tistim, ki ne vedo, kje je okvir.@c@0
 čemu služi kazalec na sklad (stack pointer)?n^a. prek njega posredno dostopamo do kazalca na okvirn^b. pravzaprav ničemurn^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivkn^d. kaže na vrh sklada@d@0
