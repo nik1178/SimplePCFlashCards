@@ -3,8 +3,8 @@ velikost naslovnega prostora pri 11-bitnem naslovu znaša˘:n^a. 2 kn^b. 4 kn^c.
 pri neki 24-bitni cpe se program začne na naslovu 200 (desetiško). katera od navedenih je veljavna vrednost programskega števca?n^a. 400n^b. 500n^c. 600n^d. 700n^@b@0
 v nekem nestandardnem formatu plavajoče vejice imamo en bit za predznak, 3 bite za eksponent in 4 bite za mantiso. koliko različnih števil lahko predstavimo?n^a. 16n^b. 64n^c. 128n^d. 256n^@d@0
 če od -2 odštejemo -5, je rezultat v dvojiškem komplementu enakn^a. 1001n^b. 1101n^c. 0011n^d. 0111@c@0
-če se stanje (lahko je visoko ali nizko) urinega signala procesorja spremeni 250-krat v vsaki mikrosekundi, traja ena urina periodan^a. 2,5nsn^b. 5nsn^d. 8nsn^@d@0
-pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b 11n^c 12n^d 13n^@c@1
+če se stanje (lahko je visoko ali nizko) urinega signala procesorja spremeni 250-krat v vsaki mikrosekundi, traja ena urina periodan^a. 2,5nsn^b. 5nsn^c. 4nsn^d. 8nsn^@d@0
+pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b. 11n^c. 12n^d. 13n^@c@1
 kolikšna je verjetnost zadetka, če znaša povprečen dostopni čas z uporabo 5ns predpomnilnika 10ns, brez njega pa 50ns?n^a. 80%n^b. 90%n^c. 95%n^d. 98%n^@b@0
 procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
 kolikšna je največja možna pohitritev paralelnega računalnika, če je vzporedni delež programa 90%?n^a. 5n^b. 10n^c. 20n^d. 90n^@b@1
@@ -12,10 +12,10 @@ kolikšna je največja možna pohitritev paralelnega računalnika, če je vzpore
 koliko približno znaša največje nenormirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
 v katerem primeru je pri seštevalniku z raširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kdara sta vhodna operanda x in y različna.n^d. le, kdara je vhodni prenos enak 1.@c@0
 kateri način zapisa je najugodnejši pri množenju?n^a. zapis z odmikomn^b. eniški komplementn^c. dvojiški komplementn^d. predznak-veličinski@d@1
-kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b. dvojiški komplementn^c. zapis z odmikomn^d. eniški komplement@b@0
+kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b. dvojiški komplementn^c. zapis z odmikomn^d. eniški komplement@b@1
 kateri način zapisa ima dve prestavitvi za ničlo?n^a. zapis z odmikomn^b. eniški komeplementn^c. dvojiški komplementn^d. nobeden od naštetih@b@0
 koliko bitov ima eksponent pri dvojni natančnosti plavajoče vejico po standardu iee 754?n^a. 8n^b. 10n^c. 11n^d. 13@c@0
-koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c.46n^d. 52@d@0
+koliko bitov ima mantisa pri dvojni natančnosti plavajoče vejico po ieee 754?n^a. 23n^b. 32n^c. 46n^d. 52@d@0
 kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0), in imamo namesto "1,mantisa" -> "0,mantisa"@0
 kaj je dobra stran matričnih množilnikov?n^a. majhna poraba elementovn^b. hitrostn^c. da si produkt tudi zapomnijon^d. majhna poraba moči@b@1
 prevajanje iz zbirnega jezika v strojno kodo opravlja˘:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
@@ -54,7 +54,7 @@ procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza,
 1-bitna prediktorska tabela ima naslov, določen z biti naslova a5...a3. kateri od ukazov se preslika v drugo polje tabele kot ostali trije?n^a. 0x79n^b. 0x37n^c. 0x30n^d. 0x70@a@0
 kaj je prekinitveni servisni program (psp)?n^a. program, ki povzroči prekinitevn^b. program, ki ga procesor izvede, ko se zgodi prekinitevn^c. program, ki ga procesor izvede, preden se zgodi prekinitevn^d. program, ki ga procesor izvede, da prepreči prekinitve@b@0
 kaj pomeni 'lokalnost pomnilniških dostopov'?@to pomeni, da programi pogosto večkrat uporabljajo iste ukaze, ali pa ukaze, ki so v pomnilniku blizu trenutnemu ukazu@0
-kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandihn^@0
+kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:^ninformacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandih^n@0
 kaj so superskalarni procesorji?n^a. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi dodatnih komponentn^b. procesorji, namenjeni izjemno hitremu računanju skalarnega produktan^c. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi cevovodan^d. procesorji, ki imajo več jeder@a@0
 kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@figure it out@0
 kako imenujemo računalnike, pri katerih so namesto parametra cpi začeli raje uporabljati ipc?n^a. intelligent personal computersn^b. večizstavitvenin^c. porazdeljenin^d. ipc računalniki@b@0
