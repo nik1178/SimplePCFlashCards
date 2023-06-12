@@ -56,7 +56,7 @@ kaj je prekinitveni servisni program (psp)?n^a. program, ki povzroči prekinitev
 kaj pomeni 'lokalnost pomnilniških dostopov'?@to pomeni, da programi pogosto večkrat uporabljajo iste ukaze, ali pa ukaze, ki so v pomnilniku blizu trenutnemu ukazu@0
 kaj pomeni ortogonalnost ukazov?@medsebojna neodvisnost parametrov ukaza˘:n^informacija o operaciji je neodvisna od informacije o operandihn^informacija o enem operandu je neodvisna od infromacij o ostalih operandihn^@0
 kaj so superskalarni procesorji?n^a. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi dodatnih komponentn^b. procesorji, namenjeni izjemno hitremu računanju skalarnega produktan^c. procesorji, ki lahko izvajajo več ukazov v periodi ure zaradi cevovodan^d. procesorji, ki imajo več jeder@a@0
-kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda bit tako dolgo, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
+kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda biti tako dolg, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
 kako imenujemo računalnike, pri katerih so namesto parametra cpi začeli raje uporabljati ipc?n^a. intelligent personal computersn^b. večizstavitvenin^c. porazdeljenin^d. ipc računalniki@b@0
 s čim vedno množimo številko vektorja?n^a. z naslovom pspn^b. s številom pomnilniških besed, ki jih potrebujemo za zapis naslova ukazan^c. z dolžino pspn^d. s številko okvirja@b@1
 česa pri navideznem pomnilniku ne vsebuje tabela strani (page table)?n^a. opisnikov stranin^b. naslovov besed znotraj stranin^c. umazanih bitovn^d. številk okvira@b@0
