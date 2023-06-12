@@ -4,11 +4,11 @@ pri neki 24-bitni cpe se program začne na naslovu 200 (desetiško). katera od n
 v nekem nestandardnem formatu plavajoče vejice imamo en bit za predznak, 3 bite za eksponent in 4 bite za mantiso. koliko različnih števil lahko predstavimo?n^a. 16n^b. 64n^c. 128n^d. 256n^@d@1
 če od -2 odštejemo -5, je rezultat v dvojiškem komplementu enakn^a. 1001n^b. 1101n^c. 0011n^d. 0111@c@0
 če se stanje (lahko je visoko ali nizko) urinega signala procesorja spremeni 250-krat v vsaki mikrosekundi, traja ena urina periodan^a. 2,5nsn^b. 5nsn^c. 4nsn^d. 8nsn^@d@0
-pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b 11n^c 12n^d 13n^@c@2
+pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b. 11n^c. 12n^d. 13n^@c@2
 kolikšna je verjetnost zadetka, če znaša povprečen dostopni čas z uporabo 5ns predpomnilnika 10ns, brez njega pa 50ns?n^a. 80%n^b. 90%n^c. 95%n^d. 98%n^@b@1
-procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
+procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^b. na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
 kolikšna je največja možna pohitritev paralelnega računalnika, če je vzporedni delež programa 90%?n^a. 5n^b. 10n^c. 20n^d. 90n^@b@1
-če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@c@0
+če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@a?@0
 koliko približno znaša največje nenormirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
 v katerem primeru je pri seštevalniku z razširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kadar je vhodni prenos enak 1.@c@1
 kateri način zapisa je najugodnejši pri množenju?n^a. zapis z odmikomn^b. eniški komplementn^c. dvojiški komplementn^d. predznak-veličinski@d@1
@@ -29,7 +29,7 @@ način naslavnjanja, pri katerem podamo vrednost operanda kot del ukaza, se imen
 za katere vrste naslavnjanja gre pri ukazu add r1,r2,r3n^a. takojšnjen^b. baznon^c. neposrednon^d. posredno@c@1
 kateri od naštetih registrov pri nekaterih ukazih igra vlogo baznega registra?n^a. irn^b. pcn^c. marn^d. mdr@b@0
 za kaj se uporablja operacija tip ori r1, r2, #0x00008000?n^a. za branje vrednosti bitan^b. za pomik bitan^c. za nastavljanje (set) bitan^d. za brisanje (reset) bita@c@0
-za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^za birsanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
+za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^b. za brisanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
 s katerimi logičnimi vrati lahko ugotovimo, ali so vsi biti registra enaki 0?n^a. in(and)n^b. ali(or)n^c. ne-in(nand)n^d. ne-ali(nor)@d@0
 čemu služi kazalec na okvir (frame pointer)?n^a. to je rezervni kazalec na sklad, ki služi kot 'back-up'n^b. prek njega posredno dostopamo do kazalca na sklad.n^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivk na skladu.n^d. služi tistim, ki ne vedo, kje je okvir.@c@0
 čemu služi kazalec na sklad (stack pointer)?n^a. prek njega posredno dostopamo do kazalca na okvirn^b. pravzaprav ničemurn^c. ker se njegova vsebina ne spreminja, lažje dostopamo do spremenljivkn^d. kaže na vrh sklada@d@0
@@ -68,3 +68,4 @@ kam v procesorju hip ni vezan programski števec (pc)?n^a. na naslovno vodilon^b
 kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c. pc<-r10; r6<-84n^d. r10<-pc+4; pc<-r6+84@d@0
 kateri signal pri cpe hip vpliva na to, koliko urinih period bo kontrolna enota v istem stanju?n^a. urin signaln^b. sizen^c. pcwriten^d. memwait@d@1
 v katerem mestu je hajduk?@v splitu@1
+Koliko bo obveznih zgrešitev v direktnem PP z velikostjo bloka 16 bajtov in 4 seti, če program teče po naslovih 0, 4, … 96, 100 ?n^a. 25n^b. 6n^c. 50n^d. 7@d@0

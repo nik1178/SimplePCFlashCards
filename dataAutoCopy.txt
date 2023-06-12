@@ -1089,3 +1089,8 @@ v katerem mestu je hajduk?@split@0
 za kaj se uporabljajo predpomnilniki@in short, hitrejše dostopanje do pomnilnika, saj je dostop do glavnega pomnilnika zelo počasen. v predpomnilnik zapišemo majhen delež glavnega pomnilnika, ki ga shranimo bližje procesorja z manjšimi naslovi.@0
 katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@statični pomnilnik zadrži svoje informacije dokler ima napajanje, dinamični pa jih mora stalno posodabljati. Zato je SRAM hitrješi in porabi manj elektrike@0
 kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. interpretern^d. zbirnik@b@0
+katere so razlike med dinamičnimi in statičnimi pomnilniki ram?@statični pomnilnik zadrži svoje informacije dokler ima napajanje, dinamični pa jih mora stalno posodabljati. zato je sram hitrješi in porabi manj elektrike@0
+v katerem mestu je hajduk?@v splitu@0
+procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^b. na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
+za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^b. za brisanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
+pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b. 11n^c. 12n^d. 13n^@c@0

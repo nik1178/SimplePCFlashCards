@@ -28,7 +28,7 @@
 <script type="text/javascript">
 //<![CDATA[
   window.Infos = {
-    "time": new Date(2023, (6-1), 10, 16, 50, 57),
+    "time": new Date(2023, (6-1), 12, 2, 5, 5),
     "dictionary": "desl",
     "source_language": "sl",
     "lingenio": false,
@@ -55,7 +55,7 @@
     "isCmpEnabled": true,
     "cmpProvider": "ONETRUST",
     "translations": 8,
-    "instance": "webui-1-1",
+    "instance": "webui-1-0",
     "env": "PRODUCTION",
     "cacheBuster": "1686077825",
     "trainerHomePage": "https://trainer.pons.com",
@@ -4454,4 +4454,4 @@ document.getElementById('locale_links').style.display = 'none';
       <li>
         <span class="flag flag_sl"></span>
         <span class="flag flag_it"></span>
-        <a title="slovensko ⇄ italijanski" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-italijan%C5%A1%C4%8
+        <a title="slovensko ⇄ italijanski" href="https://sl.pons.com/prevod/sloven%C5%A1%C4%8Dina-italijan%C5%A1%C4%8Din
