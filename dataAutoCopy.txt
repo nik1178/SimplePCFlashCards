@@ -1094,3 +1094,5 @@ v katerem mestu je hajduk?@v splitu@0
 procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^b. na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
 za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^b. za brisanje (reset) bitan^c. za branje vrednosti bitan^d. za nič od naštetega@b@0
 pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b. 11n^c. 12n^d. 13n^@c@0
+kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda biti tako dolg, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
+Koliko bo obveznih zgrešitev v direktnem PP z velikostjo bloka 16 bajtov in 4 seti, če program teče po naslovih 0, 4, … 96, 100 ?n^a. 25n^b. 6n^c. 50n^d. 7@d@0
