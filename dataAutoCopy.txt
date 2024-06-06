@@ -1096,3 +1096,14 @@ za kaj se uporablja operacija tipa xxxx & 1011?n^a. za nastavljanje (set) bitan^
 pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a. 10n^b. 11n^c. 12n^d. 13n^@c@0
 kaj pomeni, da je cevovod uravnotežen, in zakaj je to dobro?@ker mora vsak korak cevovoda biti tako dolg, kot traja najdaljši del postopka, pomeni da pri uravnoteženem procesorju vse faze trajajo enako dolgo@0
 Koliko bo obveznih zgrešitev v direktnem PP z velikostjo bloka 16 bajtov in 4 seti, če program teče po naslovih 0, 4, … 96, 100 ?n^a. 25n^b. 6n^c. 50n^d. 7@d@0
+koliko bo obveznih zgrešitev v direktnem pp z velikostjo bloka 16 bajtov in 4 seti, če program teče po naslovih 0, 4, … 96, 100 ?n^a. 25n^b. 6n^c. 50n^d. 7@d@0
+če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@a@0
+pri koliko-bitnem zapisu predznačenih števil v 2'K je najmanjše število -4096?n^a. 12n^b. 13n^c. 14n^d. 15@b@0
+procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza, se imenuje:n^a. paralelnin^b. cevovodnin^c. superskalarnin^d. VLIW@b@0
+katero vrsto zgrešitev zmanjša povečanje bloka v predpomnilniku? (pri koliko-bitnem zapisu predznačenih števil v 2'k je najmanjše število -4096?n^a. 12n^b. 13n^c. 14n^d. 15@b@0
+procesor, ki omogoča dobavo ali dekodiranje ukaza med izvajanjem drugega ukaza, se imenuje:n^a. paralelnin^b. cevovodnin^c. superskalarnin^d. vliw@b@0
+katero vrsto zgrešitev zmanjša povečanje bloka v predpomnilniku? (pri nespremenejnih ostalih dejavnikih)n^a. obveznen^b. velikostnen^c. konfliktnen^d. vse troje@b@0
+pri koliko-bitnem zapisu predznačenih števil v 2'k je najmanjše število -4096?n^a. 12n^b. 13n^c. 14n^d. 15@b@0
+koliko približno znaša največje normirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
+ukaz .org 0 je˘:n^a. strojni ukazn^b. pomnilniški ukazn^c. psevdo-ukazn^d. visokonivojski ukaz@c@0
+kateri od naštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@0
