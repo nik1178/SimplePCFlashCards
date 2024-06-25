@@ -8,8 +8,8 @@ pri koliko-bitnem zapisu nepredznačenih števil je najvišje število 4095?n^a.
 kolikšna je verjetnost zadetka, če znaša povprečen dostopni čas z uporabo 5ns predpomnilnika 10ns, brez njega pa 50ns?n^a. 80%n^b. 90%n^c. 95%n^d. 98%n^@b@1
 procesorja a in b imata frekvenci ure 1,2 ghz in 1,5 ghz. na procesorju a ima nek ukaz cpi enak 4, na b pa cpi enak 5. na katerem procesorju se ukaz izveze hitreje?n^a. na an^b. na bn^c. enako hitro na obehn^d. ni dovolj informacijn^@c@0
 kolikšna je največja možna pohitritev paralelnega računalnika, če je vzporedni delež programa 90%?n^a. 5n^b. 10n^c. 20n^d. 90n^@b@1
-če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@c@0
-koliko približno znaša največje nenormirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
+če je na računalniku z več procesorskimi jedri in 3-stopenjskim cevovodom zaporedni delež programa 25%, je največja možna pohitritev˘:n^a. 12n^b. 6n^c. 4n^d. 3n^@a@0
+koliko približno znaša največje normirano število pri plavajoči vejici ieee 745 enojne natančnosti?n^a. 2˘^126n^b. 2˘^127n^c. 2˘^128n^d. 2˘^129@c@0
 v katerem primeru je pri seštevalniku z razširjanjem prenosa izhodni prenos odvisen od vhodnega˘:n^a. le, kadar sta vhodna operanda x in y oba enaka 1.n^b. le, kadar sta vhodna operanda x in y oba enaka 0.n^c. le, kadar sta vhodna operanda x in y različna.n^d. le, kadar je vhodni prenos enak 1.@c@1
 kateri način zapisa je najugodnejši pri množenju?n^a. zapis z odmikomn^b. eniški komplementn^c. dvojiški komplementn^d. predznak-veličinski@d@1
 kateri od zapisov je najugodnejši pri seštevanju?n^a. predznak veličinskin^b. dvojiški komplementn^c. zapis z odmikomn^d. eniški komplement@b@1
@@ -20,7 +20,7 @@ kaj so denormirana števila@ko imamo v bitih eksponenta ieee 754 same ničle (0)
 kaj je dobra stran matričnih množilnikov?n^a. majhna poraba elementovn^b. hitrostn^c. da si produkt tudi zapomnijon^d. majhna poraba moči@b@1
 prevajanje iz zbirnega jezika v strojno kodo opravlja˘:n^a. interpretern^b. zbirnikn^c. pretvornikn^d. prevajalnik@b@0
 kdo ali kaj prevede program iz višjega programskega jezika?n^a. pretvornik(converter)n^b. prevajalnik(compiler)n^c. interpretern^d. zbirnik@b@0
-ukaz .org 0 je˘:n^a. strojni ukazn^c. pomnilniški ukazn^c. psevdo-ukazn^d. visokonivojski ukaz@c@0
+ukaz .org 0 je˘:n^a. strojni ukazn^b. pomnilniški ukazn^c. psevdo-ukazn^d. visokonivojski ukaz@c@0
 ukazi brez operandov uporabljajo˘:n^a. skladn^b. registren^c. akumulatorn^d. predpomnilnik@a@0
 od česa ni odvisen format ukazov?n^a. od dolžine pomnilniškega naslovan^b. od števila programsko dostopnih registrov cpen^c. od števila stanj končnega avtomata v kontrolni enotin^d. od števila operandov v ukazu@c@1
 kaj vsebuje podatkovna enota procesorja?n^a. podatken^b. ale, registre, multipleksorje in dodatno logikon^c. ale, končni avotmat, multipleksorje in dodatno logikon^d. registre, multipleksorje, ir in dodatno logiko@b@0
@@ -45,7 +45,7 @@ pri katerem pomnilniku se vsebina izgubi ob izpadu napajanja?n^a. dramn^b. eepro
 kaj označujemo s kratico ram (random access memory)?n^a. pomnilnik, pri katerem dostopimo do naključne lokacijen^b. pomnilnik, ki nam vrne naključno vrednostn^c. pomnilnik s konstantnim časom dostopa do katerekoli lokacijen^d. pomnilnik, pri katerem je čas dostopa zelo odvisen od naključnih dejavnikov@c@1
 kaj ni razlog za izgubo informacije pri pomnilnikih?n^a. dinamično shranjevanjen^b. destruktivno pisanjen^c. fizična izguba pomnilnikan^d. izpad napajanja@b@0
 od kod izvira ime 'dinamični ram'?n^a. sproti se prilagaja dogajanju v programun^b. deluje na podobnem principu kot dinamon^c. vsebina ni posebno obstojnan^d. temelji na dinamičnem razvrščanju@c@0
-kateri od nštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@1
+kateri od naštetih registrov se pri izvrševanju programa inicializira prvi?n^a. pcn^b. mdrn^c. ir (control unit)n^d. mar@a@1
 kaj je značilno za bliskovni pomnilnik (flash memory)?n^a. branje in pisanje sta enako zahtevni operacijin^b. branje in pisanje nista enako zahtevni operacijin^c. sprogramiramo ga lahko bliskovito (odtod ime)n^d. vpis vsebine z napetostjo in izbris z uv-svetlobo@b@0
 kaj je značilno za eprom?n^a. vpis vsebine z uv-svetlobo in izbris z napetostjon^b. vpis vsebine z napetostjo in izbris z uv-svetlobon^c. vpis in izbris vsebine z uv-svetlobon^d. vpis in izbris vsebine z napetostjo@b@1
 ukaze s koliko operandi uporabljajo skladovni računalniki?n^a. 0n^b. 1n^c. 2n^d. 3@a@1
@@ -69,3 +69,5 @@ kaj naredi ukaz jal r10, 84(r6)?n^a. pc<-r6+84; r10<-pc+4n^b. r6<-84; pc<-r10n^c
 kateri signal pri cpe hip vpliva na to, koliko urinih period bo kontrolna enota v istem stanju?n^a. urin signaln^b. sizen^c. pcwriten^d. memwait@d@1
 v katerem mestu je hajduk?@v splitu@1
 Koliko bo obveznih zgrešitev v direktnem PP z velikostjo bloka 16 bajtov in 4 seti, če program teče po naslovih 0, 4, … 96, 100 ?n^a. 25n^b. 6n^c. 50n^d. 7@d@0
+pri koliko-bitnem zapisu predznačenih števil v 2'K je najmanjše število -4096?n^a. 12n^b. 13n^c. 14n^d. 15@b@1
+katero vrsto zgrešitev zmanjša povečanje bloka v predpomnilniku? (pri nespremenejnih ostalih dejavnikih)n^a. obveznen^b. velikostnen^c. konfliktnen^d. vse troje@b@1
